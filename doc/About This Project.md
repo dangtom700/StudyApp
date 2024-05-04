@@ -1,8 +1,9 @@
-# Study Tracker
+
+# Study Logging and Database
 
 ## Introduction
 
-This project creates a CLI application that can keep track of my study progress through dashboards.
+This project is to meant to store record of learning activities. The files and record of activities are then transfer into database that show user the timeline and activities done in that day.
 
 ## Project Objectives
 
@@ -17,7 +18,7 @@ The aim of this project is to create:
 
 The data and record are kept inside this Obsidian vault and used for collecting and retrieving data. Any data that is wanted to executed has to be brought inside this vault.
 
-The intended result is a dashboard that can be used to track my learning progress and a CLI application that can be used for generating study dashboard and execute primary functions.
+The intended result is a desktop application that directly connect to a dedicated Obsidian vault that stores all data and record of learning activities. Another outcome for this project is a website that has a chat bot and other necessities for learning activities. The data of the chat bot is retrieved from a self-hosted database.
 
 ## Methodology and Approach
 
@@ -34,3 +35,5 @@ The intended result is a dashboard that can be used to track my learning progres
 - Testing methodologies and strategies are not clear until the code is planned and built properly
 
 ## Timeline and Milestones
+
+- Apr 29th, 2024. Documentation of project planning is created. New Obsidian vault is created for storing study material and study logging. Start learning habit to yield some raw data. BOOKS folder is list of learning material.
