@@ -12,14 +12,5 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
 def exportPDF_index(folderPath: str) -> None:
     pass
 
-def updataBD(filename = "PDF_info.csv") -> None:
-    pass
-
 def updateStat(filename = "PDF_info.csv") -> None:
-    pass
-
-def addPDF(folderPath: str, filename = "PDF_info.csv") -> None:
-    pass
-
-def removePDF(folderPath: str, filename = "PDF_info.csv") -> None:
     pass
