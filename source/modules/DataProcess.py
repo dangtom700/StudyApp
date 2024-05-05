@@ -34,3 +34,10 @@ def get_page_count(pdf_path: str) -> int:
     pdfFileObj = open(pdf_path, 'rb')
     pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
     return pdfReader.numPages()
+
+def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
+    tag_set_display = {"a":[], "b":[], "c":[], "d":[], "e":[], "f":[], "g":[], "h":[], "i":[], "j":[], "k":[], "l":[], "m":[], "n":[], "o":[], "p":[], "q":[], "r":[], "s":[], "t":[], "u":[], "v":[], "w":[], "x":[], "y":[], "z":[]}
+    for tag in tag_set:
+        tag_set_display[tag[0]].append(tag)
+    return tag_set_display
+    
