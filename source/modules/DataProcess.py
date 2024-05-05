@@ -1,7 +1,7 @@
 import os
 import PyPDF2
-import csv
 from itertools import izip
+import matplotlib
 
 def get_banned_words(filepath: str) -> set[str]:
     """
