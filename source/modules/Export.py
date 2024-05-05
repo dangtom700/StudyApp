@@ -18,7 +18,7 @@ def exportTagSet(folderPath: str, banned_words: set[str]) -> None:
     CHARACTER = tag_set_display.keys()
 
     with open(path.TagCatalog_path, "w") as outputFile:
-        outputFile.write("# Tags (Total: " + str(len(word_set)) + ")\n")
+        outputFile.write("\n# Tags (Total: " + str(len(word_set)) + ")\n")
         for char in CHARACTER:
             outputFile.write(f"\n## {char.upper()} ({len(tag_set_display[char])})\n\n")
             if tag_set_display[char] == []:
@@ -37,7 +37,7 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
             outputFile.write(f"{filename};")
             outputFile.write(f"{len(filename)};")
             outputFile.write(f"{len(filename.strip().split())};")
-            word_list = DataProcess.get_word_list_from_file(folderPath + '/' + filename, banned_words)
+            word_list = DataProcess.get_word_list_from_file(filename, banned_words)
             for word in word_list:
                 outputFile.write(f" #{word} ")
             outputFile.write(f";{len(word_list)};")
@@ -52,8 +52,15 @@ def exportPDF_index(folderPath: str) -> None:
     filename_list = DataProcess.get_pdf_name(folderPath)
 
     with open(path.PDF_index_path, "w") as outputFile:
-        for index, filename in enumerate(filename_list):
-            outputFile.write(f"{index}. [[{filename}.pdf|{filename}]]\n")
+        outputFile.write("\n# PDF index (Total: " + str(len(filename_list)) + ")\n\n")
+        for index, filename in enumerate(filename_list, start= 1):
+            outputFile.write(f"{index}. {filename}\n")
+
+    # Export to Obsidian
+    with open(path.Obsidian_PDF_index_path, "w") as outputFile:
+        outputFile.write("\n# PDF index (Total: " + str(len(filename_list)) + ")\n\n")
+        for index, filename in enumerate(filename_list, start= 1):
+            outputFile.write(f"{index}. [[BOOKS/{filename}.pdf|{filename}]]\n")
 
 def updateStat(PDF_info_file: str) -> None:
     with open(PDF_info_file, "r") as csv_file:
