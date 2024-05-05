@@ -32,7 +32,7 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
     filename_list = DataProcess.get_pdf_name(folderPath)
 
     with open(path.PDF_info_path, "w") as outputFile:
-        outputFile.write("Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;Updated Time\n")
+        outputFile.write("Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;File Size (byte);Updated Time\n")
         for filename in filename_list:
             outputFile.write(f"{filename};")
             outputFile.write(f"{len(filename)};")
@@ -42,6 +42,7 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
                 outputFile.write(f" #{word} ")
             outputFile.write(f";{len(word_list)};")
             outputFile.write(f"{DataProcess.get_page_count(folderPath + '/' + filename + ".pdf")};")
+            outputFile.write(f"{DataProcess.get_file_size(folderPath + '/' + filename + ".pdf")};")
             # Get the modification time in seconds since EPOCH
             modification_time = getmtime(folderPath + '/' + filename + ".pdf")
             # Convert the modification time to a recognizable timestamp
@@ -88,8 +89,9 @@ def updateStat(PDF_info_file: str) -> None:
 def exportPDF_tokens(PDF_info_file: str) -> None:
     with open(PDF_info_file, "r") as csv_file:
         csvreader = reader(csv_file, delimiter = ';')
+        headers = next(csvreader)
         data = list(zip(*csvreader))
-    title, title_length_char, title_length_word, multi_tags, tag_number, pages, updated_time = data
+    title, title_length_char, title_length_word, multi_tags, tag_number, pages, file_size_byte, updated_time = data
     with open(path.PDF_tokens_path, "w") as outputFile:
         outputFile.write("[\n")
         for i in range(len(title)):
@@ -100,6 +102,7 @@ def exportPDF_tokens(PDF_info_file: str) -> None:
             outputFile.write(f"\t\t\"multi_tags\": \"{multi_tags[i]}\",\n")
             outputFile.write(f"\t\t\"tag_number\": \"{tag_number[i]}\",\n")
             outputFile.write(f"\t\t\"pages\": \"{pages[i]}\",\n")
+            outputFile.write(f"\t\t\"file_size_byte\": \"{file_size_byte[i]}\",\n")
             outputFile.write(f"\t\t\"updated_time\": \"{updated_time[i]}\"\n")
             if i == len(title) - 1:
                 outputFile.write("\t}\n")

@@ -103,6 +103,9 @@ def get_page_count(pdf_path: str) -> int:
     Pages = pdfReader.numPages
     return str(Pages)
 
+def get_file_size(file_path: str) -> int:
+    return os.path.getsize(file_path)
+
 def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
     """
     Given a set of tags, this function breaks down the set into a dictionary where each key represents the first letter of a tag and the corresponding value is a list of all the tags that start with that letter. 
