@@ -1,5 +1,7 @@
 import os
 import PyPDF2
+import csv
+from itertools import izip
 
 def get_banned_words(filepath: str) -> set[str]:
     banned_words = set()
@@ -32,4 +34,3 @@ def get_page_count(pdf_path: str) -> int:
     pdfFileObj = open(pdf_path, 'rb')
     pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
     return pdfReader.numPages()
-

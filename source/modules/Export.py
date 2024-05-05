@@ -3,6 +3,9 @@ import matplotlib as mpl
 import csv
 import modules.DataProcess as DataProcess
 
+def AnnounceFinish() -> None:
+    print("Process executed successfully finished.")
+
 def exportTagSet(folderPath: str, banned_words: set[str]) -> None:
     pass
 
@@ -13,4 +16,7 @@ def exportPDF_index(folderPath: str) -> None:
     pass
 
 def updateStat(filename = "PDF_info.csv") -> None:
+    pass
+
+def exportPDF_tokens(filename = "PDF_info.csv") -> None:
     pass

@@ -14,3 +14,4 @@
 |                         |_create_statistic_table(index_property_list)
 |                         |_create_graph(index_property_list)
 |                         |_export_to_dashboard(chracteristic_table, statistic_table, graph, dashboard_file)
+|_exportPDF_token(PDF_info.csv)__tokenize_PDF(PDF_info.csv)
