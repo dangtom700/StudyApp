@@ -10,11 +10,11 @@ def app():
                                      add_help=True,
                                      allow_abbrev=True)
     
-    parser.add_argument("--exportTagSet", action= True, help="Export a tag set to a file named 'tags.md' in the specified folder path")
-    parser.add_argument("--exportPDF_info", action= True, help="Export a CSV file with the size and tags of the files in the specified folder path")
-    parser.add_argument("--exportPDF_index", action= True, help="Export a list of PDF file in a given directory in .md format")
-    parser.add_argument("--updateStat", action= True, help="Update the statistics of PDF files")
-    parser.add_argument("--exportPDF_tokens", action= True, help="Export a CSV file with the tokens of the files in the specified folder path")
+    parser.add_argument("--exportTagSet", action= 'store_true', help="Export a tag set to a file named 'tags.md' in the specified folder path")
+    parser.add_argument("--exportPDF_info", action= 'store_true', help="Export a CSV file with the size and tags of the files in the specified folder path")
+    parser.add_argument("--exportPDF_index", action= 'store_true', help="Export a list of PDF file in a given directory in .md format")
+    parser.add_argument("--updateStat", action= 'store_true', help="Update the statistics of PDF files")
+    parser.add_argument("--exportPDF_tokens", action= 'store_true', help="Export a CSV file with the tokens of the files in the specified folder path")
 
     args = parser.parse_args()
 

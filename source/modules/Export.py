@@ -7,18 +7,24 @@ from csv import reader
 def AnnounceFinish() -> None:
     print("Process executed successfully finished.")
 
+def execute_exportTagSet(destinationPath: str, CHARACTER: set[str], tag_set_display: dict[str, list[str]]) -> None:
+    with open(destinationPath, "w") as outputFile:
+        outputFile.write("# Tags\n")
+        for char in CHARACTER:
+            outputFile.write(f"\n## {char.upper()}\n\n")
+            if tag_set_display[char] == []:
+                outputFile.write("There is no tag in this category.")
+            for tag in tag_set_display[char]:
+                outputFile.write(f" #{tag}")
+            outputFile.write("\n")
+
 def exportTagSet(folderPath: str, banned_words: set[str]) -> None:
     word_set = sorted(DataProcess.get_tuned_word_list_from_folder(folderPath, banned_words))
     tag_set_display = DataProcess.break_tag_set_to_list(word_set)
     CHARACTER = tag_set_display.keys()
 
-    with open(path.TagCatalog_path, "w") as outputFile:
-        outputFile.write("# Tags\n")
-        for char in CHARACTER:
-            outputFile.write(f"\n## {char.upper()}\n")
-            for tag in tag_set_display[char]:
-                outputFile.write(f" #{tag}")
-            outputFile.write("\n")
+    execute_exportTagSet(path.TagCatalog_path, CHARACTER, tag_set_display)
+    execute_exportTagSet(path.Obsidian_TagCatalog_path, CHARACTER, tag_set_display)
 
 def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
     filename_list = DataProcess.get_pdf_name(folderPath)

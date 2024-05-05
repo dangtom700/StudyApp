@@ -1,7 +1,5 @@
 import os
 import PyPDF2
-from itertools import izip
-import matplotlib
 
 def get_banned_words(filepath: str) -> set[str]:
     """
@@ -68,7 +66,7 @@ def get_word_list_from_file(filename: str, banned_words: set[str]) -> set[str]:
     """
     word_list = filename.strip().split()
     single_word_set = set(word_list)
-    double_word_set = get_double_word_list_from_file(word_list)
+    double_word_set = get_double_word_list_from_file(word_list, banned_words)
     tuned_word_list = single_word_set.difference(banned_words, banned_words)
     tuned_word_list = tuned_word_list.union(double_word_set)
     return sorted(tuned_word_list)
@@ -116,5 +114,9 @@ def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
     """
     tag_set_display = {"a":[], "b":[], "c":[], "d":[], "e":[], "f":[], "g":[], "h":[], "i":[], "j":[], "k":[], "l":[], "m":[], "n":[], "o":[], "p":[], "q":[], "r":[], "s":[], "t":[], "u":[], "v":[], "w":[], "x":[], "y":[], "z":[]}
     for tag in tag_set:
-        tag_set_display[tag[0]].append(tag)
+        if any(word in tag for word in ["C++", "C#"]):
+            # replace C++ and C# with C_pp and C_sharp in the double word
+            tag = tag.replace("C++", "C_pp").replace("C#", "C_sharp")
+        
+        tag_set_display[tag[0].lower()].append(tag)
     return tag_set_display
