@@ -118,4 +118,3 @@ def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
     for tag in tag_set:
         tag_set_display[tag[0]].append(tag)
     return tag_set_display
-    

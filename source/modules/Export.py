@@ -2,6 +2,7 @@ import modules.DataProcess as DataProcess
 import modules.path as path
 from datetime import datetime
 from os.path import getmtime
+from csv import reader
 
 def AnnounceFinish() -> None:
     print("Process executed successfully finished.")
@@ -24,12 +25,13 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
 
     with open(path.PDF_info_path, "w") as outputFile:
         outputFile.write("Index;Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;Updated Time\n")
-        for index, filename in enumerate(filename_list, start= 1):
-            outputFile.write(f"{index};{filename};")
+        for filename in filename_list:
+            outputFile.write(f"{filename};")
             outputFile.write(f"{len(filename)};")
             outputFile.write(f"{len(filename.strip().split())};")
             word_list = DataProcess.get_word_list_from_file(folderPath + '/' + filename, banned_words)
-            outputFile.write(f"{word_list};")
+            for word in word_list:
+                outputFile.write(f" #{word} ")
             outputFile.write(f"{len(word_list)};")
             outputFile.write(f"{DataProcess.get_page_count(folderPath + '/' + filename)};")
             format_time = datetime.fromtimestamp(getmtime(folderPath + '/' + filename)).strftime('%Y-%m-%d %H:%M:%S')
@@ -42,8 +44,27 @@ def exportPDF_index(folderPath: str) -> None:
         for index, filename in enumerate(filename_list):
             outputFile.write(f"{index}. [[{filename}.pdf|{filename}]]\n")
 
-def updateStat(filename = "PDF_info.csv") -> None:
+def updateStat() -> None:
     pass
 
-def exportPDF_tokens(filename = "PDF_info.csv") -> None:
-    pass
+def exportPDF_tokens(PDF_info_file: str) -> None:
+    with open(PDF_info_file, "r") as csv_file:
+        csvreader = reader(csv_file, delimiter = ';')
+        data = list(zip(*csvreader))
+    title, title_length_char, title_length_word, multi_tags, tag_number, pages, updated_time = data
+    with open(path.PDF_tokens_path, "w") as outputFile:
+        outputFile.write("[\n")
+        for i in range(len(title)):
+            outputFile.write(f"\t{{\n")
+            outputFile.write(f"\t\t\"title\": \"{title[i]}\",\n")
+            outputFile.write(f"\t\t\"title_length_char\": \"{title_length_char[i]}\",\n")
+            outputFile.write(f"\t\t\"title_length_word\": \"{title_length_word[i]}\",\n")
+            outputFile.write(f"\t\t\"multi_tags\": \"{multi_tags[i]}\",\n")
+            outputFile.write(f"\t\t\"tag_number\": \"{tag_number[i]}\",\n")
+            outputFile.write(f"\t\t\"pages\": \"{pages[i]}\",\n")
+            outputFile.write(f"\t\t\"updated_time\": \"{updated_time[i]}\"\n")
+            if i == len(title) - 1:
+                outputFile.write("\t}\n")
+            else:
+                outputFile.write("\t},\n")
+        outputFile.write("]\n")

@@ -1,6 +1,7 @@
 BOOKS_folder_path = "F:/project/BOOKS"
 ban_path = "F:/project/mini_project/StudyApp/data/ban.txt"
 PDF_info_path = "F:/project/mini_project/StudyApp/data/PDF_info.csv"
+PDF_tokens_path = "F:/project/mini_project/StudyApp/data/PDF_tokens.json"
 TableStat_path = "F:/project/StudyLog/Dashboard/Table Stat.md"
 PDF_index_path = "F:/project/StudyLog/Dashboard/PDF index.md"
 TagCatalog_path = "F:/project/StudyLog/Dashboard/Tag Catalog.md"
