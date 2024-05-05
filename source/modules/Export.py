@@ -64,6 +64,14 @@ def exportPDF_index(folderPath: str) -> None:
             outputFile.write(f"{index}. [[BOOKS/{filename}.pdf|{filename}]]\n")
 
 def updateStat(PDF_info_file: str) -> None:
+
+    # Rewrite this code for cleaning look
+
+    # CSV format: title;title_length_char;title_length_word;multi_tags;tag_number;pages;updated_time
+    # Characteristic: Maximum, Minimum, Avarage, Median, Total
+
+    # Look up for the filename of the maximum and minimum values
+    
     with open(PDF_info_file, "r") as csv_file:
         csvreader = reader(csv_file, delimiter = ';')
         data = list(zip(*csvreader))
@@ -89,7 +97,6 @@ def updateStat(PDF_info_file: str) -> None:
 def exportPDF_tokens(PDF_info_file: str) -> None:
     with open(PDF_info_file, "r") as csv_file:
         csvreader = reader(csv_file, delimiter = ';')
-        headers = next(csvreader)
         data = list(zip(*csvreader))
     title, title_length_char, title_length_word, multi_tags, tag_number, pages, file_size_byte, updated_time = data
     with open(path.PDF_tokens_path, "w") as outputFile:
