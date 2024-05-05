@@ -1,11 +1,11 @@
 # Function Tracking
 
-|_exportTagSet(folderPath, banned_word)__get_banned_words("ban.txt")
-|                                      |_get_pdf_name(folderPath)
+|_exportTagSet(folderPath, banned_word)__get_banned_words("ban.txt") & get_pdf_name(folderPath)
 |                                      |_get_word_list_from_file(pdf_name, banned_word)
 |                                      |_get_tuned_word_list_from_folder(folderPath, banned_word)
-|_exportPDF_info(folderPath, banned_word)__get_banned_words("ban.txt")
-|                                        |_get_pdf_name(folderPath)
+|                                      |_break_tag_set_to_list(tag_set)
+|
+|_exportPDF_info(folderPath, banned_word)__get_banned_words("ban.txt") & get_pdf_name(folderPath)
 |                                        |_get_word_list_from_file(pdf_name, banned_word)
 |                                        |_get_page_count(pdf_name)
 |_exportPDF_index(folderPath)__getpdf_name(folderPath)

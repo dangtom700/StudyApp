@@ -1,6 +1,3 @@
-import numpy as np
-import matplotlib as mpl
-import PyQt5
 import argparse
 import modules.DataProcess as DataProcess
 import modules.Export as Export
