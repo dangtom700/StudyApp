@@ -99,8 +99,9 @@ def get_page_count(pdf_path: str) -> int:
        page_count (int): An integer representing the number of pages in the PDF file.
     """
     pdfFileObj = open(pdf_path, 'rb')
-    pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
-    return pdfReader.numPages()
+    pdfReader = PyPDF2.PdfReader(pdfFileObj)
+    Pages = pdfReader.numPages
+    return str(Pages)
 
 def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
     """

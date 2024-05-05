@@ -1,36 +1,38 @@
 import modules.DataProcess as DataProcess
 import modules.path as path
-from datetime import datetime
 from os.path import getmtime
 from csv import reader
+from time import ctime
 
 def AnnounceFinish() -> None:
     print("Process executed successfully finished.")
 
-def execute_exportTagSet(destinationPath: str, CHARACTER: set[str], tag_set_display: dict[str, list[str]]) -> None:
-    with open(destinationPath, "w") as outputFile:
-        outputFile.write("# Tags\n")
-        for char in CHARACTER:
-            outputFile.write(f"\n## {char.upper()}\n\n")
-            if tag_set_display[char] == []:
-                outputFile.write("There is no tag in this category.")
-            for tag in tag_set_display[char]:
-                outputFile.write(f" #{tag}")
-            outputFile.write("\n")
+def mirrorFile_to_destination(source: str, destination: str) -> None:
+    with open(source, 'r') as read_obj, open(destination, 'w') as write_obj:
+        for line in read_obj:
+            write_obj.write(line)
 
 def exportTagSet(folderPath: str, banned_words: set[str]) -> None:
     word_set = sorted(DataProcess.get_tuned_word_list_from_folder(folderPath, banned_words))
     tag_set_display = DataProcess.break_tag_set_to_list(word_set)
     CHARACTER = tag_set_display.keys()
 
-    execute_exportTagSet(path.TagCatalog_path, CHARACTER, tag_set_display)
-    execute_exportTagSet(path.Obsidian_TagCatalog_path, CHARACTER, tag_set_display)
+    with open(path.TagCatalog_path, "w") as outputFile:
+        outputFile.write("# Tags (Total: " + str(len(word_set)) + ")\n")
+        for char in CHARACTER:
+            outputFile.write(f"\n## {char.upper()} ({len(tag_set_display[char])})\n\n")
+            if tag_set_display[char] == []:
+                outputFile.write("There is no tag in this category.")
+            for tag in tag_set_display[char]:
+                outputFile.write(f" #{tag}")
+            outputFile.write("\n")
+    mirrorFile_to_destination(path.TagCatalog_path, path.Obsidian_TagCatalog_path)
 
 def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
     filename_list = DataProcess.get_pdf_name(folderPath)
 
     with open(path.PDF_info_path, "w") as outputFile:
-        outputFile.write("Index;Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;Updated Time\n")
+        outputFile.write("Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;Updated Time\n")
         for filename in filename_list:
             outputFile.write(f"{filename};")
             outputFile.write(f"{len(filename)};")
@@ -38,10 +40,13 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
             word_list = DataProcess.get_word_list_from_file(folderPath + '/' + filename, banned_words)
             for word in word_list:
                 outputFile.write(f" #{word} ")
-            outputFile.write(f"{len(word_list)};")
-            outputFile.write(f"{DataProcess.get_page_count(folderPath + '/' + filename)};")
-            format_time = datetime.fromtimestamp(getmtime(folderPath + '/' + filename)).strftime('%Y-%m-%d %H:%M:%S')
-            outputFile.write(f"{format_time}\n")
+            outputFile.write(f";{len(word_list)};")
+            outputFile.write(f"{DataProcess.get_page_count(folderPath + '/' + filename + ".pdf")};")
+            # Get the modification time in seconds since EPOCH
+            modification_time = getmtime(folderPath + '/' + filename + ".pdf")
+            # Convert the modification time to a recognizable timestamp
+            formatted_modification_time = ctime(modification_time)
+            outputFile.write(f"{formatted_modification_time}\n")
 
 def exportPDF_index(folderPath: str) -> None:
     filename_list = DataProcess.get_pdf_name(folderPath)
