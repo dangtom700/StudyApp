@@ -1,8 +1,6 @@
 import modules.DataProcess as DataProcess
 import modules.path as path
-from os.path import getmtime
 from csv import reader
-from time import ctime
 
 def AnnounceFinish() -> None:
     print("Process executed successfully finished.")
@@ -13,6 +11,31 @@ def mirrorFile_to_destination(source: str, destination: str) -> None:
             write_obj.write(line)
 
 def exportTagSet(folderPath: str, banned_words: set[str]) -> None:
+    """
+    Export the tag set to a file in the specified folder path.
+
+    Parameters:
+        folderPath (str): The path to the folder where the tag set will be exported.
+        banned_words (set[str]): A set of words to be excluded from the tag set.
+
+    Returns:
+        None
+
+    This function retrieves the tuned word list from the specified folder path using the
+    `get_tuned_word_list_from_folder` function from the `DataProcess` module. It then breaks
+    the word set into a displayable format using the `break_tag_set_to_list` function from the
+    `DataProcess` module. The function writes the tag set to a file specified by the
+    `TagCatalog_path` constant from the `path` module. The file is opened in write mode and
+    the total number of tags is written as a header. For each character in the displayable
+    tag set, the function writes the character and the number of tags associated with it.
+    If there are no tags for a character, a message indicating that there are no tags in
+    that category is written. The function then writes each tag associated with the character.
+    Finally, the function calls the `mirrorFile_to_destination` function to mirror the tag
+    catalog file to the Obsidian tag catalog path.
+
+    Note: The `DataProcess` module and the `path` module must be imported for this function
+    to work properly.
+    """
     word_set = sorted(DataProcess.get_tuned_word_list_from_folder(folderPath, banned_words))
     tag_set_display = DataProcess.break_tag_set_to_list(word_set)
     CHARACTER = tag_set_display.keys()
@@ -29,6 +52,17 @@ def exportTagSet(folderPath: str, banned_words: set[str]) -> None:
     mirrorFile_to_destination(path.TagCatalog_path, path.Obsidian_TagCatalog_path)
 
 def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
+    """
+    A function to export information about PDF files based on the input folder path and banned words.
+    This function retrieves PDF filenames, processes various data about the PDFs, and writes the information to a file.
+    
+    Parameters:
+        folderPath (str): The path to the folder containing the PDF files.
+        banned_words (set[str]): A set of words to be excluded during the information extraction process.
+    
+    Returns:
+        None
+    """
     filename_list = DataProcess.get_pdf_name(folderPath)
 
     with open(path.PDF_info_path, "w") as outputFile:
@@ -43,13 +77,19 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
             outputFile.write(f";{len(word_list)};")
             outputFile.write(f"{DataProcess.get_page_count(folderPath + '/' + filename + ".pdf")};")
             outputFile.write(f"{DataProcess.get_file_size(folderPath + '/' + filename + ".pdf")};")
-            # Get the modification time in seconds since EPOCH
-            modification_time = getmtime(folderPath + '/' + filename + ".pdf")
-            # Convert the modification time to a recognizable timestamp
-            formatted_modification_time = ctime(modification_time)
-            outputFile.write(f"{formatted_modification_time}\n")
+            outputFile.write(f"{DataProcess.get_updated_time(folderPath + '/' + filename + ".pdf")}\n")
 
 def exportPDF_index(folderPath: str) -> None:
+    """
+    A function to export the PDF index to two separate files: PDF_index_path and Obsidian_PDF_index_path. 
+    The PDF index contains a list of filenames along with their corresponding indices. 
+    The function retrieves the list of PDF filenames using DataProcess.get_pdf_name() and writes the index for each filename to the specified paths. 
+    The Obsidian export includes a link to each PDF file in the format [[BOOKS/{filename}.pdf|{filename}]].
+    Parameters:
+        folderPath (str): The path to the folder containing the PDF files.
+    Returns:
+        None
+    """
     filename_list = DataProcess.get_pdf_name(folderPath)
 
     with open(path.PDF_index_path, "w") as outputFile:
@@ -71,7 +111,7 @@ def updateStat(PDF_info_file: str) -> None:
     # Characteristic: Maximum, Minimum, Avarage, Median, Total
 
     # Look up for the filename of the maximum and minimum values
-    
+
     with open(PDF_info_file, "r") as csv_file:
         csvreader = reader(csv_file, delimiter = ';')
         data = list(zip(*csvreader))
@@ -95,6 +135,15 @@ def updateStat(PDF_info_file: str) -> None:
         outputFile.write(f"\nShortest title by words: {title[title_length_word.index(min(title_length_word))]}")
 
 def exportPDF_tokens(PDF_info_file: str) -> None:
+    """
+    Export PDF tokens from a given PDF info file.
+
+    Parameters:
+        PDF_info_file (str): The path to the PDF info file.
+
+    Returns:
+        None
+    """
     with open(PDF_info_file, "r") as csv_file:
         csvreader = reader(csv_file, delimiter = ';')
         data = list(zip(*csvreader))

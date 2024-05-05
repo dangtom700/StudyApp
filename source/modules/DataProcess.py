@@ -1,5 +1,7 @@
 import os
 import PyPDF2
+from os.path import getmtime
+from time import ctime
 
 def get_banned_words(filepath: str) -> set[str]:
     """
@@ -104,7 +106,32 @@ def get_page_count(pdf_path: str) -> int:
     return str(Pages)
 
 def get_file_size(file_path: str) -> int:
+    """
+    Given a file path, this function retrieves the size of the file in bytes.
+
+    Parameters:
+        file_path (str): The path to the file.
+
+    Returns:
+        int: The size of the file in bytes.
+    """
     return os.path.getsize(file_path)
+
+def get_updated_time(file_path: str) -> str:
+    """
+    Given a file path, this function retrieves the modification time of the file and converts it to a recognizable timestamp.
+
+    Parameters:
+        file_path (str): The path to the file.
+
+    Returns:
+        str: The formatted modification time of the file.
+    """
+    # Get the modification time in seconds since EPOCH
+    modification_time = getmtime(file_path)
+    # Convert the modification time to a recognizable timestamp
+    formatted_modification_time = ctime(modification_time)
+    return formatted_modification_time
 
 def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
     """
