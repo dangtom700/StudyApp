@@ -58,7 +58,7 @@
 
 ## O
 
- #OWL #object-orientation #oceanography #old #open #open_data #operating #operating_systems #operations #operations_math #operators #operators_wastewater #opportunities #opportunities_challenges #optimization #organic #organic_nanofillers #organisation #organization #organizational #organizational_behavior #orientation #orientation_mapping
+ #OWL #object-orientation #oceanography #old #open #open_data #operating #operating_systems #operations #operations_math #operators #operators_wastewater #opportunities #opportunities_challenges #optimization #organic #organic_nanofillers #organization #organizational #organizational_behavior #orientation #orientation_mapping
 
 ## P
 
