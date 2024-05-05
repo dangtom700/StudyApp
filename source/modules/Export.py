@@ -36,7 +36,11 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
             outputFile.write(f"{format_time}\n")
 
 def exportPDF_index(folderPath: str) -> None:
-    pass
+    filename_list = DataProcess.get_pdf_name(folderPath)
+
+    with open(path.PDF_index_path, "w") as outputFile:
+        for index, filename in enumerate(filename_list):
+            outputFile.write(f"{index}. [[{filename}.pdf|{filename}]]\n")
 
 def updateStat(filename = "PDF_info.csv") -> None:
     pass
