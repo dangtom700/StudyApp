@@ -107,8 +107,6 @@ def exportPDF_index(folderPath: str) -> None:
 
 def updateStat(PDF_info_file: str) -> None:
 
-    # Rewrite this code for cleaning look
-
     # CSV format:Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;File Size (byte);Updated Time
 
     with open(PDF_info_file, "r") as csv_file:
@@ -124,19 +122,19 @@ def updateStat(PDF_info_file: str) -> None:
     file_size_property = DataProcess.analyze_characteristic_of_property(file_size)
 
     timestamp_history = DataProcess.get_ordered_timestamps(updated_time)
-    keys = title_length_char_property.keys()
+    keys = list(title_length_char_property.keys())
 
     with open(path.TableStat_path, "w") as outputFile:
         outputFile.write("# Statistic of PDFs\n")
         outputFile.write("\n## Title Stat\n\n")
         outputFile.write("| Characteristic| Title Length (char)| Title Length (word)|\n")
         outputFile.write("| --- | --- | --- |\n")
-        for key in keys:
+        for key in keys[1:]:
             outputFile.write(f"| {key} | {title_length_char_property[key]} | {title_length_word_property[key]} |\n")
         outputFile.write("\n## Keywords Stat\n\n")
         outputFile.write("| Characteristic| Tag Number | Pages | File Size (byte)|\n")
         outputFile.write("| --- | --- | --- | --- |\n")
-        for key in keys:
+        for key in keys[1:]:
             outputFile.write(f"| {key} | {tag_number_property[key]} | {pages_property[key]} | {file_size_property[key]} |\n")
         outputFile.write("\n")
 
@@ -164,7 +162,7 @@ def updateStat(PDF_info_file: str) -> None:
 
     with open(path.PropertyStat_tokens_path, "w") as outputFile:
         dict_list = [title_length_char_property, title_length_word_property, tag_number_property, pages_property, file_size_property]
-        json_string = json.dumps(dict_list)
+        json_string = json.dumps(dict_list,indent=4)
         outputFile.write(json_string)
 
 def exportPDF_tokens(PDF_info_file: str) -> None:

@@ -172,7 +172,8 @@ def analyze_characteristic_of_property(property: list[str]) -> dict[str,int]:
     pvariance_property = statistics.pvariance(int_property)
     variance_property = statistics.variance(int_property)
 
-    return {"Minimum": min_property,
+    return {"Property": property[0],
+            "Minimum": min_property,
             "Maximum": max_property,
             "Total": total_property,
             "Avarage": round(avg_property,3),
