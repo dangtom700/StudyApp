@@ -1,13 +1,13 @@
 
-# Tags (Total: 1024)
+# Tags (Total: 999)
 
 ## A (74)
 
  #AI #AI_automation #AI_era #AI_machine #AI_work #AIoT #AIoT_new #Anaconda #Anaconda_Jupyterlab #Azure #absolute #absolute_beginners #abstracted #abstracted_simplification #accounting #action #actuators #advanced #advanced_computer #advanced_technology #aesthetics #aesthetics_pragmatics #afterlife #afterlife_virtual #against #against_established #age #age_symbols #ageing #agency #agency_rise #agriculture #algorithms #algorithms_object-orientation #alogon #alogon_thinkable #amazing #amazing_game #analysis #analysis_exercises #analysis_guide #analysis_macrotexture #analysis_philosophy #analyst #analytical #analytics #analytics_project #animation #applications #applications_program #applications_recent #approach #archaeology #architect #architectural #architectural_modelling #architecture #archives #art #artificial #artificial_intelligence #asia #aspects #asset #asset_management #audio #audio_design #audio_fundamentals #automatic #automatic_control #automation #autonomous #autonomous_mobile #autonomous_robots
 
-## B (38)
+## B (36)
 
- #Blender #Blender_graphics #backend #backend_development #backlash #bad #bad_science #basic #basic_concepts #basic_engineering #basic_gambling #battery #battery_management #beginners #beginners_journey #beginners_unlocking #behavior #behind #belong #better #beyond #beyond_free #biology #biology_chemistry #body #boundaries #brain #brain_abstracted #brief #brief_history #brief_journey #buildings #built #built_upon #business #business_analytics #business_guide #business_how
+ #Blender #Blender_graphics #backend #backend_development #bad #bad_science #basic #basic_concepts #basic_engineering #basic_gambling #battery #battery_management #beginners #beginners_journey #beginners_unlocking #behavior #behind #belong #better #beyond #beyond_free #biology #biology_chemistry #body #boundaries #brain #brain_abstracted #brief #brief_history #brief_journey #buildings #built #business #business_analytics #business_guide #business_how
 
 ## C (82)
 
@@ -21,21 +21,21 @@
 
  #economic #economic_dynamics #educational #educational_psychology #effective #effective_machine #effective_programming #efficient #efficient_coding #efficient_electrical #electric #electric_circuit #electrical #electrical_systems #electronics #element #element_analysis #embedded #embedded_systems #emerging #emerging_perspectives #emerging_real #enabling #enabling_systemic #enabling_technology #energy #energy_efficient #energy_environment #energy_systems #engaging #engaging_game #engineer #engineer_handbook #engineering #engineering_challenges #engineering_concepts #engineering_manufacturing #engineering_mathematics #engineering_measurement #engineering_mechanics #engineering_noise #engineering_science #engineering_statics #enhanced #enhanced_solid #entrepreneurship #environment #equation #era #essential #essential_guide #established #established_knowledge #evolutionary #evolutionary_concepts #excel #excel_cookbook #exercises #exercises_solutions #experiences #experiments #expertise #explanatory #explanatory_approach #exploring #exploring_game #expressing #expressions
 
-## F (30)
+## F (29)
 
- #Figma #fabrication #fabrication_characterization #facilitating #facilitating_students #factors #figure #figure_drawing #financial #financial_systems #finite #finite_element #fluid #fluid_dynamics #fluid_mechanics #fluid_theory #formalizing #formalizing_REA #foundation #foundations #framework #framework_case #free #freedom #freedom_beyond #fun #fun_engaging #fun_project #fundamentals #fundamentals_learn
+ #Figma #fabrication #fabrication_characterization #facilitating #facilitating_students #factors #figure #figure_drawing #financial #financial_systems #finite #finite_element #fluid #fluid_dynamics #fluid_mechanics #fluid_theory #formalizing #formalizing_REA #foundation #framework #framework_case #free #freedom #freedom_beyond #fun #fun_engaging #fun_project #fundamentals #fundamentals_learn
 
 ## G (41)
 
  #GML #GML_programming #GUI #GUI_programming #GameMaker #GameMaker_fundamentals #Git #gambling #gambling_mathematics #game #game_audio #game_backend #game_design #game_development #game_jam #game_mechanics #game_theory #games #geography #geography_places #global #global_context #good #good_science #graph #graph_databases #graphics #graphics_communication #graphics_computer #great #great_software #green #green_energy #ground #growth #guest #guide #guide_mastering #guidebook #guru #guru_mastering
 
-## H (32)
+## H (31)
 
- #HTML #HTML_CSS #habitus #hand-on #hand-on_project-based #handbook #handbook_control #handbook_design #handbook_energy #handbook_manufacturing #handbook_material #handbook_systems #help #high #high_performance #historic #historic_buildings #history #history_stone #history_technology #how #how_AI #how_designers #how_learning #human #human_AI #human_factors #human_geography #human_interactions #human_resources #humanities #humanities_create
+ #HTML #HTML_CSS #habitus #hand-on #hand-on_project-based #handbook #handbook_control #handbook_design #handbook_energy #handbook_manufacturing #handbook_material #handbook_systems #help #high #high_performance #historic #historic_buildings #history #history_technology #how #how_AI #how_designers #how_learning #human #human_AI #human_factors #human_geography #human_interactions #human_resources #humanities #humanities_create
 
-## I (50)
+## I (47)
 
- #Introduction #IoT #IoT_enabling #ideas #ideation #ideation_inventive #ideation_stimulation #identity #identity_who #imaginaries #implementation #implementing #implementing_great #incommunication #industry #information #information_asset #information_design #information_literacy #information_science #information_systems #innovation #innovation_training #innovative #innovative_social #insights #insights_strategies #instrumentation #integration #integration_methods #intelligence #intelligent #intelligent_decision #intelligent_robots #intelligent_transportation #interactions #interactions_reflections #interactive #interactive_way #internet #internet_afterlife #introduction #introduction_Java #introduction_writing #inventive #inventive_knowledge #investigating #investigating_oceanography #issues #issues_opportunities
+ #IoT #IoT_enabling #ideas #ideation #ideation_inventive #ideation_stimulation #identity #identity_who #imaginaries #implementation #implementing #incommunication #industry #information #information_asset #information_design #information_literacy #information_science #information_systems #innovation #innovation_training #innovative #innovative_social #insights #insights_strategies #instrumentation #integration #integration_methods #intelligence #intelligent #intelligent_decision #intelligent_robots #intelligent_transportation #interactions #interactions_reflections #interactive #internet #internet_afterlife #introduction #introduction_Java #introduction_writing #inventive #inventive_knowledge #investigating #investigating_oceanography #issues #issues_opportunities
 
 ## J (8)
 
@@ -49,9 +49,9 @@
 
  #language #language_models #language_processing #large #large_language #leading #lean #learn #learn_GML #learn_Python #learning #learning_crash #learning_facilitating #learning_foundation #learning_teams #level #libraries #libraries_literatures #library #life #lifecycle #lighting #lighting_material #listening #literacy #literacy_framework #literatures #lithium #logic #logic_programming #logos #loop #loop_systems #low-cost #low-cost_no-code
 
-## M (88)
+## M (83)
 
- #Microsoft #Microsoft_Azure #machine #machine_learning #macrotexture #macrotexture_microtexture #maintaining #making #making_sense #manage #manage_your #management #management_body #management_information #management_succeed #management_systems #management_why #manager #manager_guide #mange #mange_your #manual #manufacturing #manufacturing_systems #mapping #mastering #mastering_C_pp #mastering_large #mastering_project #matedata #matedata_management #material #material_modelling #material_painting #materials #materials_design #math #math_concepts #math_numeric #mathematical #mathematical_approach #mathematical_ideas #mathematical_modelling #mathematics #mathematics_manual #matters #meaningful #meaningful_life #measurement #mechanical #mechanical_engineer #mechanics #mechanics_basic #mechanics_dynamics #mechanics_principles #mechanisms #mechanisms_sensors #mechatronics #media #media_analytics #methods #methods_design #microcontrollers #microelectronics #microtexture #milk #milk_products #mobile #mobile_robots #modelling #modelling_analysis #modelling_approach #modelling_design #modelling_lighting #models #modern #modern_control #modern_design #modern_graphics #modern_power #modern_statistics #molecular #molecular_simulation #money #multi-level #multi-level_structure #must #must_manage
+ #Microsoft #Microsoft_Azure #machine #machine_learning #macrotexture #macrotexture_microtexture #maintaining #making #making_sense #manage #management #management_body #management_information #management_succeed #management_systems #manager #manager_guide #manual #manufacturing #manufacturing_systems #mapping #mastering #mastering_C_pp #mastering_project #matedata #matedata_management #material #material_modelling #material_painting #materials #materials_design #math #math_concepts #math_numeric #mathematical #mathematical_approach #mathematical_ideas #mathematical_modelling #mathematics #mathematics_manual #matters #meaningful #meaningful_life #measurement #mechanical #mechanical_engineer #mechanics #mechanics_basic #mechanics_dynamics #mechanics_principles #mechanisms #mechanisms_sensors #mechatronics #media #media_analytics #methods #methods_design #microcontrollers #microelectronics #microtexture #milk #milk_products #mobile #mobile_robots #modelling #modelling_analysis #modelling_approach #modelling_design #modelling_lighting #models #modern #modern_control #modern_design #modern_graphics #modern_power #modern_statistics #molecular #molecular_simulation #money #multi-level #multi-level_structure #must #must_manage
 
 ## N (33)
 
@@ -73,33 +73,33 @@
 
  #R #REA #R_Python #React #re-examining #real #real_time #reality #reasoning #recent #recent_development #recent_trends #reclaim #recognition #reflections #regions #reliability #rendering #repairing #repairing_old #research #resources #revolutions #revolutions_progress #rise #risk #risk_analysis #risk_engineering #roadmap #robotics #robots #robots_mechanisms #robots_planning
 
-## S (111)
+## S (107)
 
- #SCA #salvation #science #science_applications #science_bad #science_enabling #science_engineering #science_fundamentals #science_good #science_leading #sciences #sciences_teaching #scientific #scientific_knowledge #scientific_libraries #scientist #scraping #scripting #security #security_design #seminal #seminal_work #sense #sensors #sensors_actuators #shortcuts #sigma #sigma_methods #signal #signal_audio #simple #simple_type #simplification #simulation #simulation_technology #skills #small #small_signal #smart #smart_cities #social #social_media #social_sciences #society #software #software_engineering #software_user #solid #solid_materials #solutions #sorcery #soul #soundscape #soundscape_creation #stability #stability_dynamics #standards #standards_technology #statics #statics_open #statistical #statistical_methods #statistical_quality #statistics #steer #stimulation #stone #stone_age #strategies #structural #structural_stability #structure #structures #students #students_personal #studies #studies_practices #succeed #succeed_data #success #successful #successful_discipline #successful_implementation #support #support_system #surface #surface_environment #surprise #sustainability #sustainability_engineering #sustainability_innovation #sustainable #sustainable_engineering #symbols #synthesis #synthesis_properties #system #systemic #systemic_knowledge #systems #systems_accounting #systems_automation #systems_design #systems_engineering #systems_evolutionary #systems_formalizing #systems_fundamentals #systems_handbook #systems_science #systems_stability #systems_thinking
+ #SCA #salvation #science #science_applications #science_enabling #science_engineering #science_fundamentals #science_leading #science_teaching #scientific #scientific_knowledge #scientific_libraries #scientist #scraping #scripting #security #security_design #seminal #seminal_work #sense #sensors #sensors_actuators #shortcuts #sigma #sigma_methods #signal #signal_audio #simple #simple_type #simplification #simulation #simulation_technology #skills #small #small_signal #smart #smart_cities #social #social_media #social_science #society #software #software_engineering #software_user #solid #solid_materials #solutions #sorcery #soul #soundscape #soundscape_creation #stability #stability_dynamics #standards #standards_technology #statics #statics_open #statistical #statistical_methods #statistical_quality #statistics #stimulation #stone #stone_age #strategies #structural #structural_stability #structure #structures #students #students_personal #studies #studies_practices #succeed #succeed_data #success #successful #successful_discipline #successful_implementation #support #support_system #surface #surface_environment #surprise #sustainability #sustainability_engineering #sustainability_innovation #sustainable #sustainable_engineering #symbols #synthesis #synthesis_properties #system #systemic #systemic_knowledge #systems #systems_accounting #systems_automation #systems_design #systems_engineering #systems_evolutionary #systems_formalizing #systems_fundamentals #systems_handbook #systems_science #systems_stability #systems_thinking
 
 ## T (43)
 
  #teaching #teams #tech #techniques #technology #technology_energy #technology_opportunities #test #test_automation #texture #texture_analysis #theoretical #theoretical_aspects #theory #theory_algorithms #theory_philosophy #theory_planning #therapeutic #therapeutic_characteristics #things #things_AIoT #thinkable #thinking #thinking_understanding #thinking_visually #thought #thought_experiments #time #time_machine #time_problems #time_simulation #tools #tools_cognitive #trading #training #transportation #transportation_system #treatment #treatment_operations #treatment_plant #trends #type #type_theory
 
-## U (20)
+## U (17)
 
- #UX #UX_lifecycle #ultimate #ultimate_freedom #unbound #unbound_key #understanding #understanding_how #unique #unlocking #unlocking_efficient #unofficial #unofficial_project #unthinkable #upon #upon_OWL #user #user_experiences #users #users_guide
+ #UX #UX_lifecycle #ultimate #ultimate_freedom #unbound #unbound_key #understanding #understanding_how #unique #unlocking #unlocking_efficient #unofficial #unofficial_project #unthinkable #user #user_experiences #user_guide
 
 ## V (14)
 
  #VBA #VBA_guru #vacuum #vacuum_technology #valuable #valuable_digital #verification #vibration #vibration_engineering #virtual #virtual_salvation #visual #visual_research #visually
 
-## W (19)
+## W (16)
 
- #wastewater #wastewater_treatment #water #way #way_you #web #web_design #web_development #web_scraping #where #who #why #why_you #work #world #worth #writing #written #written_communication
+ #wastewater #wastewater_treatment #water #web #web_design #web_development #web_scraping #where #who #why #work #world #worth #writing #written #written_communication
 
 ## X (0)
 
 There is no tag in this category.
 
-## Y (6)
+## Y (3)
 
- #you #you_mange #you_must #your #your_data #your_money
+ #your #your_data #your_money
 
 ## Z (0)
 

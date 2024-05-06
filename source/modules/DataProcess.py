@@ -72,8 +72,8 @@ def get_word_list_from_file(filename: str, banned_words: set[str]) -> set[str]:
     word_list = filename.strip().split()
     single_word_set = set(word_list)
     double_word_set = get_double_word_list_from_file(word_list, banned_words)
-    tuned_word_list = single_word_set.difference(banned_words, banned_words)
-    tuned_word_list = tuned_word_list.union(double_word_set)
+    tuned_word_list = single_word_set.union(double_word_set)
+    tuned_word_list = tuned_word_list.difference(banned_words)
     return sorted(tuned_word_list)
 
 def get_tuned_word_list_from_folder(folderPath: str, banned_words: set[str]) -> set[str]:

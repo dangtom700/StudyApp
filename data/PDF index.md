@@ -80,11 +80,11 @@
 77. fluid mechanics basic concepts and principles
 78. fluid mechanics basic concepts and principles 2
 79. foundation of data science with Python
-80. foundations of library and information science
+80. foundation of library and information science
 81. fundamentals of fluid mechanics for scientist and engineer
 82. fundamentals of matedata management succeed data information and knowledge management
 83. fundamentals of microelectronics
-84. game audio fundamentals an Introduction to the theory planning and practice of soundscape creation for games
+84. game audio fundamentals an introduction to the theory planning and practice of soundscape creation for games
 85. game backend development with Microsoft Azure and PlayFab
 86. game design deep dive trading and collectible card games
 87. game design tools cognitive psychological and practical approach
@@ -100,10 +100,10 @@
 97. human geography places and regions in global context
 98. industry 4.0 concepts process and systems
 99. information and knowledge systems
-100. information asset management why you must manage your data information and knowledge the way you mange your money
+100. information asset management why you must manage your data information and knowledge the way you manage your money
 101. information design unbound key concepts and skills for making sense in a changing world
 102. information science
-103. innovative social sciences teaching and learning facilitating students personal growth and career success
+103. innovative social science teaching and learning facilitating students personal growth and career success
 104. insights strategies and applications of business analytics
 105. intelligent decision support system for IoT enabling technology opportunities challenges and applications
 106. intelligent robots and drones for precision agriculture
@@ -215,7 +215,7 @@
 212. thinking about science good science bad science and how to make it better
 213. thought experiments
 214. ultimate freedom beyond free will
-215. users guide to vacuum technology
+215. user guide to vacuum technology
 216. vibration engineering
 217. visual research a concise introduction to thinking visually
 218. web design playground HTML CSS the interactive way

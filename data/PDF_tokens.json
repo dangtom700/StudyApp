@@ -1,5 +1,15 @@
 [
 	{
+		"title": "Title",
+		"title_length_char": "Title Length (char)",
+		"title_length_word": "Title Length (word)",
+		"multi_tags": "Multi-Tags",
+		"tag_number": "Tag Number",
+		"pages": "Pages",
+		"file_size_byte": "File Size (byte)",
+		"updated_time": "Updated Time"
+	},
+	{
 		"title": "C++ high performance for financial systems",
 		"title_length_char": "42",
 		"title_length_word": "6",
@@ -143,8 +153,8 @@
 		"title": "UX lifecycle the business guide to implementing great software user experiences",
 		"title_length_char": "79",
 		"title_length_word": "11",
-		"multi_tags": " #UX  #UX_lifecycle  #business  #business_guide  #experiences  #great  #great_software  #guide  #implementing  #implementing_great  #lifecycle  #software  #software_user  #user  #user_experiences ",
-		"tag_number": "15",
+		"multi_tags": " #UX  #UX_lifecycle  #business  #business_guide  #experiences  #great  #great_software  #guide  #implementing  #lifecycle  #software  #software_user  #user  #user_experiences ",
+		"tag_number": "14",
 		"pages": "184",
 		"file_size_byte": "1877589",
 		"updated_time": "Wed Apr 17 20:18:44 2024"
@@ -193,8 +203,8 @@
 		"title": "age of revolutions progress and backlash from 1600 to the present",
 		"title_length_char": "65",
 		"title_length_word": "11",
-		"multi_tags": " #age  #backlash  #present  #progress  #revolutions  #revolutions_progress ",
-		"tag_number": "6",
+		"multi_tags": " #age  #present  #progress  #revolutions  #revolutions_progress ",
+		"tag_number": "5",
 		"pages": "378",
 		"file_size_byte": "10966094",
 		"updated_time": "Sun Apr 14 23:30:45 2024"
@@ -363,8 +373,8 @@
 		"title": "communication in history stone age symbols to social media",
 		"title_length_char": "58",
 		"title_length_word": "9",
-		"multi_tags": " #age  #age_symbols  #communication  #history  #history_stone  #media  #social  #social_media  #stone  #stone_age  #symbols ",
-		"tag_number": "11",
+		"multi_tags": " #age  #age_symbols  #communication  #history  #media  #social  #social_media  #stone  #stone_age  #symbols ",
+		"tag_number": "10",
 		"pages": "301",
 		"file_size_byte": "12930637",
 		"updated_time": "Sun Mar 17 22:22:40 2024"
@@ -790,10 +800,10 @@
 		"updated_time": "Sun Feb 18 22:37:08 2024"
 	},
 	{
-		"title": "foundations of library and information science",
-		"title_length_char": "46",
+		"title": "foundation of library and information science",
+		"title_length_char": "45",
 		"title_length_word": "6",
-		"multi_tags": " #foundations  #information  #information_science  #library  #science ",
+		"multi_tags": " #foundation  #information  #information_science  #library  #science ",
 		"tag_number": "5",
 		"pages": "1070",
 		"file_size_byte": "6239752",
@@ -830,10 +840,10 @@
 		"updated_time": "Mon Dec 25 20:18:15 2023"
 	},
 	{
-		"title": "game audio fundamentals an Introduction to the theory planning and practice of soundscape creation for games",
+		"title": "game audio fundamentals an introduction to the theory planning and practice of soundscape creation for games",
 		"title_length_char": "108",
 		"title_length_word": "16",
-		"multi_tags": " #Introduction  #audio  #audio_fundamentals  #creation  #fundamentals  #game  #game_audio  #games  #planning  #practice  #soundscape  #soundscape_creation  #theory  #theory_planning ",
+		"multi_tags": " #audio  #audio_fundamentals  #creation  #fundamentals  #game  #game_audio  #games  #introduction  #planning  #practice  #soundscape  #soundscape_creation  #theory  #theory_planning ",
 		"tag_number": "14",
 		"pages": "282",
 		"file_size_byte": "19522613",
@@ -990,11 +1000,11 @@
 		"updated_time": "Wed Apr 17 22:17:35 2024"
 	},
 	{
-		"title": "information asset management why you must manage your data information and knowledge the way you mange your money",
-		"title_length_char": "113",
+		"title": "information asset management why you must manage your data information and knowledge the way you manage your money",
+		"title_length_char": "114",
 		"title_length_word": "18",
-		"multi_tags": " #asset  #asset_management  #data  #data_information  #information  #information_asset  #knowledge  #manage  #manage_your  #management  #management_why  #mange  #mange_your  #money  #must  #must_manage  #way  #way_you  #why  #why_you  #you  #you_mange  #you_must  #your  #your_data  #your_money ",
-		"tag_number": "26",
+		"multi_tags": " #asset  #asset_management  #data  #data_information  #information  #information_asset  #knowledge  #manage  #management  #money  #must  #must_manage  #why  #your  #your_data  #your_money ",
+		"tag_number": "16",
 		"pages": "213",
 		"file_size_byte": "6442759",
 		"updated_time": "Thu May  2 17:48:41 2024"
@@ -1020,10 +1030,10 @@
 		"updated_time": "Thu Apr 18 08:06:35 2024"
 	},
 	{
-		"title": "innovative social sciences teaching and learning facilitating students personal growth and career success",
-		"title_length_char": "105",
+		"title": "innovative social science teaching and learning facilitating students personal growth and career success",
+		"title_length_char": "104",
 		"title_length_word": "13",
-		"multi_tags": " #career  #career_success  #facilitating  #facilitating_students  #growth  #innovative  #innovative_social  #learning  #learning_facilitating  #personal  #personal_growth  #sciences  #sciences_teaching  #social  #social_sciences  #students  #students_personal  #success  #teaching ",
+		"multi_tags": " #career  #career_success  #facilitating  #facilitating_students  #growth  #innovative  #innovative_social  #learning  #learning_facilitating  #personal  #personal_growth  #science  #science_teaching  #social  #social_science  #students  #students_personal  #success  #teaching ",
 		"tag_number": "19",
 		"pages": "199",
 		"file_size_byte": "3419040",
@@ -1393,8 +1403,8 @@
 		"title": "mastering large language models",
 		"title_length_char": "31",
 		"title_length_word": "4",
-		"multi_tags": " #language  #language_models  #large  #large_language  #mastering  #mastering_large  #models ",
-		"tag_number": "7",
+		"multi_tags": " #language  #language_models  #large  #large_language  #mastering  #models ",
+		"tag_number": "6",
 		"pages": "903",
 		"file_size_byte": "7634422",
 		"updated_time": "Sun Apr 14 21:58:38 2024"
@@ -1953,8 +1963,8 @@
 		"title": "the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA",
 		"title_length_char": "108",
 		"title_length_word": "18",
-		"multi_tags": " #OWL  #REA  #SCA  #architect  #built  #built_upon  #formalizing  #formalizing_REA  #framework  #knowledge-based  #knowledge-based_systems  #systems  #systems_formalizing  #upon  #upon_OWL ",
-		"tag_number": "15",
+		"multi_tags": " #OWL  #REA  #SCA  #architect  #built  #formalizing  #formalizing_REA  #framework  #knowledge-based  #knowledge-based_systems  #systems  #systems_formalizing ",
+		"tag_number": "12",
 		"pages": "274",
 		"file_size_byte": "18160098",
 		"updated_time": "Thu May  2 17:32:46 2024"
@@ -2113,8 +2123,8 @@
 		"title": "thinking about science good science bad science and how to make it better",
 		"title_length_char": "73",
 		"title_length_word": "13",
-		"multi_tags": " #bad  #bad_science  #better  #good  #good_science  #how  #science  #science_bad  #science_good  #thinking ",
-		"tag_number": "10",
+		"multi_tags": " #bad  #bad_science  #better  #good  #good_science  #how  #science  #thinking ",
+		"tag_number": "8",
 		"pages": "816",
 		"file_size_byte": "11088771",
 		"updated_time": "Wed Mar 13 14:36:19 2024"
@@ -2140,10 +2150,10 @@
 		"updated_time": "Sat Mar 16 21:03:37 2024"
 	},
 	{
-		"title": "users guide to vacuum technology",
-		"title_length_char": "32",
+		"title": "user guide to vacuum technology",
+		"title_length_char": "31",
 		"title_length_word": "5",
-		"multi_tags": " #guide  #technology  #users  #users_guide  #vacuum  #vacuum_technology ",
+		"multi_tags": " #guide  #technology  #user  #user_guide  #vacuum  #vacuum_technology ",
 		"tag_number": "6",
 		"pages": "579",
 		"file_size_byte": "10048697",
@@ -2173,8 +2183,8 @@
 		"title": "web design playground HTML CSS the interactive way",
 		"title_length_char": "50",
 		"title_length_word": "8",
-		"multi_tags": " #CSS  #HTML  #HTML_CSS  #design  #design_playground  #interactive  #interactive_way  #playground  #playground_HTML  #way  #web  #web_design ",
-		"tag_number": "12",
+		"multi_tags": " #CSS  #HTML  #HTML_CSS  #design  #design_playground  #interactive  #playground  #playground_HTML  #web  #web_design ",
+		"tag_number": "10",
 		"pages": "442",
 		"file_size_byte": "75609256",
 		"updated_time": "Tue Feb 27 21:34:13 2024"
@@ -2243,8 +2253,8 @@
 		"title": "where is science leading us and what can we do to steer it",
 		"title_length_char": "58",
 		"title_length_word": "13",
-		"multi_tags": " #leading  #science  #science_leading  #steer  #where ",
-		"tag_number": "5",
+		"multi_tags": " #leading  #science  #science_leading  #where ",
+		"tag_number": "4",
 		"pages": "341",
 		"file_size_byte": "5569253",
 		"updated_time": "Sun Apr 14 21:46:23 2024"

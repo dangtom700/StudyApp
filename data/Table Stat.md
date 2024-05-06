@@ -6,17 +6,17 @@
 | --- | --- | --- |
 | Minimum | 42 | 6 |
 | Maximum | 34 | 4 |
-| Total | 11699 | 1602 |
-| Avarage | 51.765 | 7.088 |
-| Harmonic Mean | 37.982 | 5.201 |
+| Total | 11697 | 1602 |
+| Avarage | 51.757 | 7.088 |
+| Harmonic Mean | 37.973 | 5.201 |
 | Median | 47.0 | 7.0 |
 | Median Low | 47 | 7 |
 | Median High | 47 | 7 |
 | Mode | 32 | 4 |
-| Population Standard Deviation | 25.316 | 3.58 |
-| Standard Deviation | 25.372 | 3.588 |
-| Population Variance | 640.879 | 12.815 |
-| Variance | 643.727 | 12.872 |
+| Population Standard Deviation | 25.322 | 3.58 |
+| Standard Deviation | 25.378 | 3.588 |
+| Population Variance | 641.193 | 12.815 |
+| Variance | 644.043 | 12.872 |
 
 ## Keywords Stat
 
@@ -24,17 +24,17 @@
 | --- | --- | --- | --- |
 | Minimum | 8 | 340 | 14410508 |
 | Maximum | 4 | 222 | 18597873 |
-| Total | 1659 | 95497 | 5245301071 |
-| Avarage | 7.341 | 422.553 | 23209296.774 |
-| Harmonic Mean | 4.95 | 287.583 | 6592485.425 |
+| Total | 1637 | 95497 | 5245301071 |
+| Avarage | 7.243 | 422.553 | 23209296.774 |
+| Harmonic Mean | 4.928 | 287.583 | 6592485.425 |
 | Median | 7.0 | 331.0 | 12130089.0 |
 | Median Low | 7 | 330 | 12111235 |
 | Median High | 7 | 332 | 12148943 |
 | Mode | 4 | 263 | 14410508 |
-| Population Standard Deviation | 4.003 | 287.866 | 44197999.017 |
-| Standard Deviation | 4.012 | 288.505 | 44296107.904 |
-| Population Variance | 16.021 | 82866.743 | 1953463117136428.2 |
-| Variance | 16.092 | 83235.039 | 1962145175434812.5 |
+| Population Standard Deviation | 3.808 | 287.866 | 44197999.017 |
+| Standard Deviation | 3.817 | 288.505 | 44296107.904 |
+| Population Variance | 14.503 | 82866.743 | 1953463117136428.2 |
+| Variance | 14.567 | 83235.039 | 1962145175434812.5 |
 
 ## Time Stamp History
 
