@@ -106,6 +106,30 @@ def exportPDF_index(folderPath: str) -> None:
 
 
 def updateStat(PDF_info_file: str) -> None:
+    """
+    Updates the statistics of PDFs based on the information provided in the given CSV file.
+
+    Parameters:
+        PDF_info_file (str): The path to the CSV file containing the information about the PDFs.
+            The CSV file should have the following format:
+            - Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;File Size (byte);Updated Time
+
+    Returns:
+        None
+
+    This function reads the CSV file and extracts the necessary data. It then analyzes the characteristics of various properties
+    such as title length (char) and title length (word), tag number, pages, and file size using the `DataProcess.analyze_characteristic_of_property` function.
+    The analyzed properties are stored in separate dictionaries.
+
+    The function also retrieves the timestamp history using the `DataProcess.get_ordered_timestamps` function.
+
+    The analyzed properties and timestamp history are used to generate a markdown table that provides statistics about the PDFs.
+    The table is written to the file specified by `path.TableStat_path`.
+
+    The function also mirrors the generated table to the destination specified by `path.Obsidian_TableStat_path`.
+
+    Finally, the analyzed properties are converted to JSON format and written to the file specified by `path.PropertyStat_tokens_path`.
+    """
 
     # CSV format:Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;File Size (byte);Updated Time
 
