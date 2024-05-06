@@ -1,6 +1,7 @@
 import modules.DataProcess as DataProcess
 import modules.path as path
 from csv import reader
+import json
 
 def AnnounceFinish() -> None:
     print("Process executed successfully finished.")
@@ -103,36 +104,68 @@ def exportPDF_index(folderPath: str) -> None:
         for index, filename in enumerate(filename_list, start= 1):
             outputFile.write(f"{index}. [[BOOKS/{filename}.pdf|{filename}]]\n")
 
+
 def updateStat(PDF_info_file: str) -> None:
 
     # Rewrite this code for cleaning look
 
-    # CSV format: title;title_length_char;title_length_word;multi_tags;tag_number;pages;updated_time
-    # Characteristic: Maximum, Minimum, Avarage, Median, Total
-
-    # Look up for the filename of the maximum and minimum values
+    # CSV format:Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;File Size (byte);Updated Time
 
     with open(PDF_info_file, "r") as csv_file:
         csvreader = reader(csv_file, delimiter = ';')
         data = list(zip(*csvreader))
-    title, title_length_char, title_length_word, multi_tags, tag_number, pages, updated_time = data
-    with open(path.TableStat_path, "w") as outputFile:
-        outputFile.write("| Characteristic| Title Length (char)| Title Length (word)| Tag Number | Pages |\n")
-        outputFile.write("| --- | --- | --- | --- | --- |\n")
-        outputFile.write(f"|Maximum| {max(title_length_char)} | {max(title_length_word)} | {max(tag_number)} | {max(pages)} |\n")
-        outputFile.write(f"|Minimum| {min(title_length_char)} | {min(title_length_word)} | {min(tag_number)} | {min(pages)} |\n")
-        outputFile.write(f"|Avarage| {sum(title_length_char) / len(title_length_char):.2f} | {sum(title_length_word) / len(title_length_word):.2f} | {sum(tag_number) / len(tag_number):.2f} | {sum(pages) / len(pages):.2f} |\n")
-        outputFile.write(f"|Total| {sum(title_length_char)} | {sum(title_length_word)} | {sum(tag_number)} | {sum(pages)} |\n")
-        sorted(title_length_char)
-        sorted(title_length_word)
-        sorted(tag_number)
-        sorted(pages)
-        outputFile.write(f"|Median| {title_length_char[len(title_length_char) // 2]} | {title_length_word[len(title_length_word) // 2]} | {tag_number[len(tag_number) // 2]} | {pages[len(pages) // 2]} |\n")
 
-        outputFile.write(f"\nLongest title by characters: {title[title_length_char.index(max(title_length_char))]}")
-        outputFile.write(f"\nShortest titleby charcters: {title[title_length_char.index(min(title_length_char))]}")
-        outputFile.write(f"\nLongest title by words: {title[title_length_word.index(max(title_length_word))]}")
-        outputFile.write(f"\nShortest title by words: {title[title_length_word.index(min(title_length_word))]}")
+    title, title_length_char, title_length_word,multi_tag, tag_number, pages, file_size, updated_time = data
+
+    title_length_char_property = DataProcess.analyze_characteristic_of_property(title_length_char)
+    title_length_word_property = DataProcess.analyze_characteristic_of_property(title_length_word)
+    tag_number_property = DataProcess.analyze_characteristic_of_property(tag_number)
+    pages_property = DataProcess.analyze_characteristic_of_property(pages)
+    file_size_property = DataProcess.analyze_characteristic_of_property(file_size)
+
+    timestamp_history = DataProcess.get_ordered_timestamps(updated_time)
+    keys = title_length_char_property.keys()
+
+    with open(path.TableStat_path, "w") as outputFile:
+        outputFile.write("# Statistic of PDFs\n")
+        outputFile.write("\n## Title Stat\n\n")
+        outputFile.write("| Characteristic| Title Length (char)| Title Length (word)|\n")
+        outputFile.write("| --- | --- | --- |\n")
+        for key in keys:
+            outputFile.write(f"| {key} | {title_length_char_property[key]} | {title_length_word_property[key]} |\n")
+        outputFile.write("\n## Keywords Stat\n\n")
+        outputFile.write("| Characteristic| Tag Number | Pages | File Size (byte)|\n")
+        outputFile.write("| --- | --- | --- | --- |\n")
+        for key in keys:
+            outputFile.write(f"| {key} | {tag_number_property[key]} | {pages_property[key]} | {file_size_property[key]} |\n")
+        outputFile.write("\n")
+
+        outputFile.write("## Time Stamp History\n\n")
+        counter = 0
+        for timestamp in timestamp_history:
+            if timestamp == timestamp_history[0]:
+                outputFile.write(f"Start at {timestamp}\n")
+                continue
+            if timestamp == timestamp_history[-1]:
+                outputFile.write(f"Most Recent at {timestamp}\n")
+                continue
+            if timestamp == timestamp_history[-2]:
+                counter = 2
+            outputFile.write(f"=> {timestamp}")
+            counter += 1
+            if counter < 3:
+                outputFile.write(" ")
+            else:
+                outputFile.write("\n")
+                counter = 0
+            
+
+    mirrorFile_to_destination(path.TableStat_path, path.Obsidian_TableStat_path)
+
+    with open(path.PropertyStat_tokens_path, "w") as outputFile:
+        dict_list = [title_length_char_property, title_length_word_property, tag_number_property, pages_property, file_size_property]
+        json_string = json.dumps(dict_list)
+        outputFile.write(json_string)
 
 def exportPDF_tokens(PDF_info_file: str) -> None:
     """

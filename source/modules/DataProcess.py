@@ -2,6 +2,9 @@ import os
 import PyPDF2
 from os.path import getmtime
 from time import ctime
+from datetime import datetime
+import statistics
+
 
 def get_banned_words(filepath: str) -> set[str]:
     """
@@ -151,3 +154,43 @@ def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
         
         tag_set_display[tag[0].lower()].append(tag)
     return tag_set_display
+
+def analyze_characteristic_of_property(property: list[str]) -> dict[str,int]:
+    int_property = list(map(int, property[1:]))
+    sorted(int_property)
+    min_property =int_property[0]
+    max_property =int_property[-1]
+    total_property = sum(int_property)
+    avg_property = statistics.mean(int_property)
+    harmean_property = statistics.harmonic_mean(int_property)
+    median_property = statistics.median(int_property)
+    median_low_property = statistics.median_low(int_property)
+    median_high_property = statistics.median_high(int_property)
+    mode_property = statistics.mode(int_property)
+    population_stdev_property = statistics.pstdev(int_property)
+    standard_deviation_property = statistics.stdev(int_property)
+    pvariance_property = statistics.pvariance(int_property)
+    variance_property = statistics.variance(int_property)
+
+    return {"Minimum": min_property,
+            "Maximum": max_property,
+            "Total": total_property,
+            "Avarage": round(avg_property,3),
+            "Harmonic Mean": round(harmean_property,3),
+            "Median": median_property,
+            "Median Low": median_low_property,
+            "Median High": median_high_property,
+            "Mode": mode_property,
+            "Population Standard Deviation": round(population_stdev_property,3),
+            "Standard Deviation": round(standard_deviation_property,3),
+            "Population Variance": round(pvariance_property,3),
+            "Variance": round(variance_property,3)}
+
+def get_ordered_timestamps(timestamps: list[str]) -> list[datetime]:
+    ordered_dates = sorted(
+        map(
+            datetime.strptime, timestamps[1:],
+            ['%a %b %d %H:%M:%S %Y'] * (len(timestamps) - 1)
+        )
+    )
+    return ordered_dates
