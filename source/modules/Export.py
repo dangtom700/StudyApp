@@ -50,7 +50,7 @@ def exportTagSet(folderPath: str, banned_words: set[str]) -> None:
             for tag in tag_set_display[char]:
                 outputFile.write(f" #{tag}")
             outputFile.write("\n")
-    mirrorFile_to_destination(path.TagCatalog_path, path.Obsidian_TagCatalog_path)
+    #mirrorFile_to_destination(path.TagCatalog_path, path.Obsidian_TagCatalog_path)
 
 def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
     """
@@ -182,7 +182,7 @@ def updateStat(PDF_info_file: str) -> None:
                 counter = 0
             
 
-    mirrorFile_to_destination(path.TableStat_path, path.Obsidian_TableStat_path)
+    #mirrorFile_to_destination(path.TableStat_path, path.Obsidian_TableStat_path)
 
     with open(path.PropertyStat_tokens_path, "w") as outputFile:
         dict_list = [title_length_char_property, title_length_word_property, tag_number_property, pages_property, file_size_property]
