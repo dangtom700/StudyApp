@@ -69,12 +69,13 @@ def get_word_list_from_file(filename: str, banned_words: set[str]) -> set[str]:
     Returns:
         set[str]: A sorted set of words extracted from the filename, excluding banned words and double words.
     """
-    word_list = filename.strip().split()
-    single_word_set = set(word_list)
-    double_word_set = get_double_word_list_from_file(word_list, banned_words)
-    tuned_word_list = single_word_set.union(double_word_set)
-    tuned_word_list = tuned_word_list.difference(banned_words)
-    return sorted(tuned_word_list)
+    words = filename.strip().split()
+    single_words = set(words)
+    double_words = get_double_word_list_from_file(words, banned_words)
+    tuned_words = single_words.union(double_words)
+    tuned_words = tuned_words.difference(banned_words)
+    tuned_words = {word.replace("C++", "C_pp").replace("C#", "C_sharp") for word in tuned_words}
+    return sorted(tuned_words)
 
 def get_tuned_word_list_from_folder(folderPath: str, banned_words: set[str]) -> set[str]:
     """
@@ -148,9 +149,9 @@ def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
     """
     tag_set_display = {"a":[], "b":[], "c":[], "d":[], "e":[], "f":[], "g":[], "h":[], "i":[], "j":[], "k":[], "l":[], "m":[], "n":[], "o":[], "p":[], "q":[], "r":[], "s":[], "t":[], "u":[], "v":[], "w":[], "x":[], "y":[], "z":[]}
     for tag in tag_set:
-        if any(word in tag for word in ["C++", "C#"]):
-            # replace C++ and C# with C_pp and C_sharp in the double word
-            tag = tag.replace("C++", "C_pp").replace("C#", "C_sharp")
+        # if any(word in tag for word in ["C++", "C#"]):
+        #     # replace C++ and C# with C_pp and C_sharp in the double word
+        #     tag = tag.replace("C++", "C_pp").replace("C#", "C_sharp")
         
         tag_set_display[tag[0].lower()].append(tag)
     return tag_set_display

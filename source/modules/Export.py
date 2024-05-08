@@ -50,7 +50,7 @@ def exportTagSet(folderPath: str, banned_words: set[str]) -> None:
             for tag in tag_set_display[char]:
                 outputFile.write(f" #{tag}")
             outputFile.write("\n")
-    #mirrorFile_to_destination(path.TagCatalog_path, path.Obsidian_TagCatalog_path)
+    mirrorFile_to_destination(path.TagCatalog_path, path.Obsidian_TagCatalog_path)
 
 def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
     """
@@ -92,17 +92,30 @@ def exportPDF_index(folderPath: str) -> None:
         None
     """
     filename_list = DataProcess.get_pdf_name(folderPath)
+    banned_words = DataProcess.get_banned_words(path.ban_path)
 
     with open(path.PDF_index_path, "w") as outputFile:
         outputFile.write("\n# PDF index (Total: " + str(len(filename_list)) + ")\n\n")
         for index, filename in enumerate(filename_list, start= 1):
             outputFile.write(f"{index}. {filename}\n")
+            
+            outputFile.write("\nKeywords:")
+            keyword_list = DataProcess.get_word_list_from_file(filename, banned_words)
+            for keyword in keyword_list:
+                outputFile.write(f" #{keyword}")
+            outputFile.write("\n\n")
 
     # Export to Obsidian
     with open(path.Obsidian_PDF_index_path, "w") as outputFile:
         outputFile.write("\n# PDF index (Total: " + str(len(filename_list)) + ")\n\n")
         for index, filename in enumerate(filename_list, start= 1):
             outputFile.write(f"{index}. [[BOOKS/{filename}.pdf|{filename}]]\n")
+
+            outputFile.write("\nKeywords:")
+            keyword_list = DataProcess.get_word_list_from_file(filename, banned_words)
+            for keyword in keyword_list:
+                outputFile.write(f" #{keyword}")
+            outputFile.write("\n\n")
 
 
 def updateStat(PDF_info_file: str) -> None:
@@ -182,7 +195,7 @@ def updateStat(PDF_info_file: str) -> None:
                 counter = 0
             
 
-    #mirrorFile_to_destination(path.TableStat_path, path.Obsidian_TableStat_path)
+    mirrorFile_to_destination(path.TableStat_path, path.Obsidian_TableStat_path)
 
     with open(path.PropertyStat_tokens_path, "w") as outputFile:
         dict_list = [title_length_char_property, title_length_word_property, tag_number_property, pages_property, file_size_property]
