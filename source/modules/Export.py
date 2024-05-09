@@ -48,7 +48,7 @@ def exportTagSet(folderPath: str, banned_words: set[str]) -> None:
             if tag_set_display[char] == []:
                 outputFile.write("There is no tag in this category.")
             for tag in tag_set_display[char]:
-                outputFile.write(f" #{tag}")
+                outputFile.write(f"#{tag} ")
             outputFile.write("\n")
     mirrorFile_to_destination(path.TagCatalog_path, path.Obsidian_TagCatalog_path)
 
@@ -67,7 +67,7 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
     filename_list = DataProcess.get_pdf_name(folderPath)
 
     with open(path.PDF_info_path, "w") as outputFile:
-        outputFile.write("Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;File Size (byte);Updated Time\n")
+        outputFile.write("Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;File Size (byte);Updated Time\n")
         for filename in filename_list:
             outputFile.write(f"{filename};")
             outputFile.write(f"{len(filename)};")
@@ -76,7 +76,6 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
             for word in word_list:
                 outputFile.write(f" #{word} ")
             outputFile.write(f";{len(word_list)};")
-            outputFile.write(f"{DataProcess.get_page_count(folderPath + '/' + filename + ".pdf")};")
             outputFile.write(f"{DataProcess.get_file_size(folderPath + '/' + filename + ".pdf")};")
             outputFile.write(f"{DataProcess.get_updated_time(folderPath + '/' + filename + ".pdf")}\n")
 
@@ -101,8 +100,9 @@ def exportPDF_index(folderPath: str) -> None:
             
             outputFile.write("\nKeywords:")
             keyword_list = DataProcess.get_word_list_from_file(filename, banned_words)
+            
             for keyword in keyword_list:
-                outputFile.write(f" #{keyword}")
+                outputFile.write(f"#{keyword} ")
             outputFile.write("\n\n")
 
     # Export to Obsidian
@@ -113,6 +113,7 @@ def exportPDF_index(folderPath: str) -> None:
 
             outputFile.write("\nKeywords:")
             keyword_list = DataProcess.get_word_list_from_file(filename, banned_words)
+            
             for keyword in keyword_list:
                 outputFile.write(f" #{keyword}")
             outputFile.write("\n\n")
@@ -150,12 +151,11 @@ def updateStat(PDF_info_file: str) -> None:
         csvreader = reader(csv_file, delimiter = ';')
         data = list(zip(*csvreader))
 
-    title, title_length_char, title_length_word,multi_tag, tag_number, pages, file_size, updated_time = data
+    title, title_length_char, title_length_word,multi_tag, tag_number, file_size, updated_time = data
 
     title_length_char_property = DataProcess.analyze_characteristic_of_property(title_length_char)
     title_length_word_property = DataProcess.analyze_characteristic_of_property(title_length_word)
     tag_number_property = DataProcess.analyze_characteristic_of_property(tag_number)
-    pages_property = DataProcess.analyze_characteristic_of_property(pages)
     file_size_property = DataProcess.analyze_characteristic_of_property(file_size)
 
     timestamp_history = DataProcess.get_ordered_timestamps(updated_time)
@@ -169,10 +169,10 @@ def updateStat(PDF_info_file: str) -> None:
         for key in keys[1:]:
             outputFile.write(f"| {key} | {title_length_char_property[key]} | {title_length_word_property[key]} |\n")
         outputFile.write("\n## Keywords Stat\n\n")
-        outputFile.write("| Characteristic| Tag Number | Pages | File Size (byte)|\n")
+        outputFile.write("| Characteristic| Tag Number | File Size (byte)|\n")
         outputFile.write("| --- | --- | --- | --- |\n")
         for key in keys[1:]:
-            outputFile.write(f"| {key} | {tag_number_property[key]} | {pages_property[key]} | {file_size_property[key]} |\n")
+            outputFile.write(f"| {key} | {tag_number_property[key]} | {file_size_property[key]} |\n")
         outputFile.write("\n")
 
         outputFile.write("## Time Stamp History\n\n")
@@ -198,7 +198,7 @@ def updateStat(PDF_info_file: str) -> None:
     mirrorFile_to_destination(path.TableStat_path, path.Obsidian_TableStat_path)
 
     with open(path.PropertyStat_tokens_path, "w") as outputFile:
-        dict_list = [title_length_char_property, title_length_word_property, tag_number_property, pages_property, file_size_property]
+        dict_list = [title_length_char_property, title_length_word_property, tag_number_property, file_size_property]
         json_string = json.dumps(dict_list,indent=4)
         outputFile.write(json_string)
 
@@ -215,7 +215,7 @@ def exportPDF_tokens(PDF_info_file: str) -> None:
     with open(PDF_info_file, "r") as csv_file:
         csvreader = reader(csv_file, delimiter = ';')
         data = list(zip(*csvreader))
-    title, title_length_char, title_length_word, multi_tags, tag_number, pages, file_size_byte, updated_time = data
+    title, title_length_char, title_length_word, multi_tags, tag_number, file_size_byte, updated_time = data
     with open(path.PDF_tokens_path, "w") as outputFile:
         outputFile.write("[\n")
         for i in range(len(title)):
@@ -225,7 +225,6 @@ def exportPDF_tokens(PDF_info_file: str) -> None:
             outputFile.write(f"\t\t\"title_length_word\": \"{title_length_word[i]}\",\n")
             outputFile.write(f"\t\t\"multi_tags\": \"{multi_tags[i]}\",\n")
             outputFile.write(f"\t\t\"tag_number\": \"{tag_number[i]}\",\n")
-            outputFile.write(f"\t\t\"pages\": \"{pages[i]}\",\n")
             outputFile.write(f"\t\t\"file_size_byte\": \"{file_size_byte[i]}\",\n")
             outputFile.write(f"\t\t\"updated_time\": \"{updated_time[i]}\"\n")
             if i == len(title) - 1:

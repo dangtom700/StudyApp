@@ -5,7 +5,6 @@
 		"title_length_word": "Title Length (word)",
 		"multi_tags": "Multi-Tags",
 		"tag_number": "Tag Number",
-		"pages": "Pages",
 		"file_size_byte": "File Size (byte)",
 		"updated_time": "Updated Time"
 	},
@@ -13,9 +12,8 @@
 		"title": "C++ high performance for financial systems",
 		"title_length_char": "42",
 		"title_length_word": "6",
-		"multi_tags": " #C++  #C++_high  #financial  #financial_systems  #high  #high_performance  #performance  #systems ",
-		"tag_number": "8",
-		"pages": "340",
+		"multi_tags": " #C_pp  #financial  #financial_systems  #high  #high_performance  #performance  #systems ",
+		"tag_number": "7",
 		"file_size_byte": "14410508",
 		"updated_time": "Sun Apr 14 23:30:45 2024"
 	},
@@ -25,7 +23,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #GML  #GML_programming  #GameMaker  #GameMaker_fundamentals  #amazing  #amazing_game  #fundamentals  #fundamentals_learn  #game  #learn  #learn_GML  #programming ",
 		"tag_number": "12",
-		"pages": "416",
 		"file_size_byte": "30067432",
 		"updated_time": "Sat Feb  4 19:14:04 2023"
 	},
@@ -35,7 +32,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #CSS  #HTML  #HTML_CSS  #JavaScript  #dummies ",
 		"tag_number": "5",
-		"pages": "1087",
 		"file_size_byte": "26199259",
 		"updated_time": "Mon Oct  9 14:24:47 2023"
 	},
@@ -43,9 +39,8 @@
 		"title": "I human AI automation and the guest to reclaim what makes us unique",
 		"title_length_char": "67",
 		"title_length_word": "13",
-		"multi_tags": " #AI  #AI_automation  #automation  #guest  #human  #human_AI  #reclaim  #unique ",
-		"tag_number": "8",
-		"pages": "205",
+		"multi_tags": " #AI  #AI_automation  #I  #I_human  #automation  #guest  #human  #human_AI  #reclaim  #unique ",
+		"tag_number": "10",
 		"file_size_byte": "9796810",
 		"updated_time": "Sun Mar 31 23:10:58 2024"
 	},
@@ -55,9 +50,17 @@
 		"title_length_word": "8",
 		"multi_tags": " #JavaScript  #JavaScript_programming  #design  #design_expressions  #development  #expressions  #programming  #programming_security  #security  #security_design  #web  #web_development ",
 		"tag_number": "12",
-		"pages": "263",
 		"file_size_byte": "9539357",
 		"updated_time": "Mon Oct  9 14:21:17 2023"
+	},
+	{
+		"title": "MEMs design and fabrication",
+		"title_length_char": "27",
+		"title_length_word": "4",
+		"multi_tags": " #MEMs  #MEMs_design  #design  #fabrication ",
+		"tag_number": "4",
+		"file_size_byte": "16176723",
+		"updated_time": "Wed May  8 17:40:00 2024"
 	},
 	{
 		"title": "PowerShell essential guide mastering the fundamentals of scripting and automation",
@@ -65,7 +68,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #PowerShell  #PowerShell_essential  #automation  #essential  #essential_guide  #fundamentals  #guide  #guide_mastering  #mastering  #scripting ",
 		"tag_number": "10",
-		"pages": "294",
 		"file_size_byte": "16792845",
 		"updated_time": "Sun Mar 31 23:22:05 2024"
 	},
@@ -75,7 +77,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #GUI  #PyQt5  #Python  #Python_GUI ",
 		"tag_number": "4",
-		"pages": "553",
 		"file_size_byte": "9642077",
 		"updated_time": "Sun Feb 18 22:53:15 2024"
 	},
@@ -85,7 +86,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #Python  #dummies ",
 		"tag_number": "2",
-		"pages": "703",
 		"file_size_byte": "42877092",
 		"updated_time": "Fri Oct 21 22:21:00 2022"
 	},
@@ -95,7 +95,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #Python  #Python_crash  #course  #crash  #crash_course  #hand-on  #hand-on_project-based  #introduction  #programming  #project-based  #project-based_introduction ",
 		"tag_number": "11",
-		"pages": "725",
 		"file_size_byte": "6548285",
 		"updated_time": "Sun Feb 18 22:53:32 2024"
 	},
@@ -105,7 +104,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #Python  #Python_programming  #fundamentals  #programming  #programming_fundamentals ",
 		"tag_number": "5",
-		"pages": "241",
 		"file_size_byte": "7409818",
 		"updated_time": "Sat Feb  4 19:21:12 2023"
 	},
@@ -115,7 +113,6 @@
 		"title_length_word": "13",
 		"multi_tags": " #Anaconda  #Anaconda_Jupyterlab  #Jupyterlab  #Python  #Python_scientific  #Python_tools  #introduction  #libraries  #scientific  #scientific_libraries  #scientist  #tools ",
 		"tag_number": "12",
-		"pages": "932",
 		"file_size_byte": "35367204",
 		"updated_time": "Sun Feb 18 22:54:10 2024"
 	},
@@ -123,9 +120,8 @@
 		"title": "Qt6 C++ GUI programming cookbook",
 		"title_length_char": "32",
 		"title_length_word": "5",
-		"multi_tags": " #C++  #C++_GUI  #GUI  #GUI_programming  #Qt6  #Qt6_C++  #cookbook  #programming  #programming_cookbook ",
+		"multi_tags": " #C_pp  #C_pp_GUI  #GUI  #GUI_programming  #Qt6  #Qt6_C_pp  #cookbook  #programming  #programming_cookbook ",
 		"tag_number": "9",
-		"pages": "656",
 		"file_size_byte": "24324114",
 		"updated_time": "Sun Apr 14 23:30:46 2024"
 	},
@@ -135,7 +131,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #React  #design  #design_patterns  #patterns ",
 		"tag_number": "4",
-		"pages": "525",
 		"file_size_byte": "13419001",
 		"updated_time": "Thu Jan 25 16:42:32 2024"
 	},
@@ -143,9 +138,8 @@
 		"title": "UX for business how to design valuable digital companies",
 		"title_length_char": "56",
 		"title_length_word": "9",
-		"multi_tags": " #UX  #business  #business_how  #companies  #design  #design_valuable  #digital  #digital_companies  #how  #valuable  #valuable_digital ",
-		"tag_number": "11",
-		"pages": "363",
+		"multi_tags": " #UX  #business  #companies  #design  #design_valuable  #digital  #digital_companies  #how  #valuable  #valuable_digital ",
+		"tag_number": "10",
 		"file_size_byte": "7046213",
 		"updated_time": "Tue Feb 27 21:29:27 2024"
 	},
@@ -155,7 +149,6 @@
 		"title_length_word": "11",
 		"multi_tags": " #UX  #UX_lifecycle  #business  #business_guide  #experiences  #great  #great_software  #guide  #implementing  #lifecycle  #software  #software_user  #user  #user_experiences ",
 		"tag_number": "14",
-		"pages": "184",
 		"file_size_byte": "1877589",
 		"updated_time": "Wed Apr 17 20:18:44 2024"
 	},
@@ -165,7 +158,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #VBA  #VBA_guru  #art  #automation  #guru  #guru_mastering  #mastering ",
 		"tag_number": "7",
-		"pages": "536",
 		"file_size_byte": "3976973",
 		"updated_time": "Sun Mar 31 23:22:02 2024"
 	},
@@ -175,7 +167,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #approach  #human  #human_resources  #mathematical  #mathematical_approach  #resources ",
 		"tag_number": "6",
-		"pages": "230",
 		"file_size_byte": "4682894",
 		"updated_time": "Sun Apr 14 22:21:05 2024"
 	},
@@ -183,9 +174,8 @@
 		"title": "advanced computer science applications recent trends in AI machine learning and network security",
 		"title_length_char": "96",
 		"title_length_word": "13",
-		"multi_tags": " #AI  #AI_machine  #advanced  #advanced_computer  #applications  #applications_recent  #computer  #computer_science  #learning  #machine  #machine_learning  #network  #network_security  #recent  #recent_trends  #science  #science_applications  #security  #trends ",
-		"tag_number": "19",
-		"pages": "410",
+		"multi_tags": " #AI  #AI_machine  #advanced  #applications  #computer  #computer_science  #learning  #machine  #machine_learning  #network  #network_security  #recent  #recent_trends  #science  #science_applications  #security  #trends ",
+		"tag_number": "17",
 		"file_size_byte": "22561847",
 		"updated_time": "Sun Apr 14 19:58:19 2024"
 	},
@@ -195,7 +185,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #AI  #age  #agency  #agency_rise  #rise ",
 		"tag_number": "5",
-		"pages": "183",
 		"file_size_byte": "6136439",
 		"updated_time": "Sat Mar 16 21:23:06 2024"
 	},
@@ -205,7 +194,6 @@
 		"title_length_word": "11",
 		"multi_tags": " #age  #present  #progress  #revolutions  #revolutions_progress ",
 		"tag_number": "5",
-		"pages": "378",
 		"file_size_byte": "10966094",
 		"updated_time": "Sun Apr 14 23:30:45 2024"
 	},
@@ -215,7 +203,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #analysis  #dynamics  #dynamics_modelling  #economic  #economic_dynamics  #introduction  #modelling  #modelling_analysis  #simulation ",
 		"tag_number": "9",
-		"pages": "256",
 		"file_size_byte": "5901529",
 		"updated_time": "Thu Mar 28 19:46:32 2024"
 	},
@@ -225,7 +212,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #information  #information_science  #introduction  #science ",
 		"tag_number": "4",
-		"pages": "808",
 		"file_size_byte": "24556120",
 		"updated_time": "Thu Apr 18 19:34:57 2024"
 	},
@@ -235,7 +221,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #applications  #deep  #deep_learning  #game  #game_theory  #learning  #theory ",
 		"tag_number": "7",
-		"pages": "93",
 		"file_size_byte": "1917121",
 		"updated_time": "Sun Apr 14 19:59:26 2024"
 	},
@@ -245,7 +230,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #artificial  #artificial_intelligence  #challenges  #intelligence  #issues  #issues_opportunities  #opportunities  #society ",
 		"tag_number": "8",
-		"pages": "294",
 		"file_size_byte": "40730185",
 		"updated_time": "Sun Mar 10 23:20:31 2024"
 	},
@@ -255,7 +239,6 @@
 		"title_length_word": "11",
 		"multi_tags": " #AIoT  #AIoT_new  #artificial  #artificial_intelligence  #communication  #communication_systems  #intelligence  #new  #new_standards  #standards  #standards_technology  #systems  #technology  #things  #things_AIoT ",
 		"tag_number": "15",
-		"pages": "231",
 		"file_size_byte": "9701949",
 		"updated_time": "Sun Mar 10 23:34:38 2024"
 	},
@@ -265,7 +248,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #autonomous  #autonomous_mobile  #mobile  #mobile_robots  #navigation  #planning  #planning_navigation  #robots  #robots_planning  #simulation ",
 		"tag_number": "10",
-		"pages": "1062",
 		"file_size_byte": "58020475",
 		"updated_time": "Thu Mar 28 20:32:57 2024"
 	},
@@ -275,7 +257,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #basic  #basic_engineering  #engineering  #engineering_science  #science ",
 		"tag_number": "5",
-		"pages": "431",
 		"file_size_byte": "26521141",
 		"updated_time": "Tue Jan 31 00:36:14 2023"
 	},
@@ -285,7 +266,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #accounting  #approach  #basic  #basic_engineering  #engineering  #engineering_science  #modelling  #modelling_approach  #science  #systems  #systems_accounting ",
 		"tag_number": "11",
-		"pages": "525",
 		"file_size_byte": "12508265",
 		"updated_time": "Mon Jan 30 23:50:14 2023"
 	},
@@ -295,7 +275,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #basic  #basic_gambling  #behind  #gambling  #gambling_mathematics  #mathematics  #neon  #number  #number_behind ",
 		"tag_number": "9",
-		"pages": "324",
 		"file_size_byte": "22490379",
 		"updated_time": "Wed Apr 17 19:37:54 2024"
 	},
@@ -305,7 +284,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #basic  #digital  #digital_electronics  #electronics ",
 		"tag_number": "4",
-		"pages": "258",
 		"file_size_byte": "13960395",
 		"updated_time": "Sun Mar 10 22:49:17 2024"
 	},
@@ -315,7 +293,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #applications  #battery  #battery_management  #management  #management_systems  #systems ",
 		"tag_number": "6",
-		"pages": "410",
 		"file_size_byte": "25049320",
 		"updated_time": "Wed Mar 13 11:50:39 2024"
 	},
@@ -325,7 +302,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #analysis  #analysis_philosophy  #brief  #brief_history  #concepts  #history  #number  #philosophy  #philosophy_concepts ",
 		"tag_number": "9",
-		"pages": "265",
 		"file_size_byte": "3562698",
 		"updated_time": "Tue Jan 31 21:10:34 2023"
 	},
@@ -335,7 +311,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #brief  #brief_journey  #discrete  #discrete_mathematics  #journey  #mathematics ",
 		"tag_number": "6",
-		"pages": "191",
 		"file_size_byte": "1720385",
 		"updated_time": "Tue Jan 31 21:15:22 2023"
 	},
@@ -345,7 +320,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #action  #business ",
 		"tag_number": "2",
-		"pages": "563",
 		"file_size_byte": "12696436",
 		"updated_time": "Mon Mar 11 00:09:33 2024"
 	},
@@ -355,7 +329,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #clean  #clean_numerical  #numerical  #numerical_simulation  #simulation ",
 		"tag_number": "5",
-		"pages": "161",
 		"file_size_byte": "24154803",
 		"updated_time": "Thu Mar 28 19:44:24 2024"
 	},
@@ -365,7 +338,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #closing  #designers  #loop  #loop_systems  #systems  #systems_thinking  #thinking ",
 		"tag_number": "7",
-		"pages": "342",
 		"file_size_byte": "7685053",
 		"updated_time": "Wed Mar 20 00:33:14 2024"
 	},
@@ -375,7 +347,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #age  #age_symbols  #communication  #history  #media  #social  #social_media  #stone  #stone_age  #symbols ",
 		"tag_number": "10",
-		"pages": "301",
 		"file_size_byte": "12930637",
 		"updated_time": "Sun Mar 17 22:22:40 2024"
 	},
@@ -385,7 +356,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #archaeology  #companion ",
 		"tag_number": "2",
-		"pages": "570",
 		"file_size_byte": "5704318",
 		"updated_time": "Wed Mar 13 11:14:01 2024"
 	},
@@ -395,9 +365,17 @@
 		"title_length_word": "9",
 		"multi_tags": " #Blender  #Blender_graphics  #animation  #complete  #complete_guide  #computer  #computer_modelling  #graphics  #graphics_computer  #guide  #modelling ",
 		"tag_number": "11",
-		"pages": "382",
 		"file_size_byte": "136253777",
 		"updated_time": "Thu Oct 26 13:58:30 2023"
+	},
+	{
+		"title": "contemporary engineering economics",
+		"title_length_char": "34",
+		"title_length_word": "3",
+		"multi_tags": " #contemporary  #contemporary_engineering  #economics  #engineering  #engineering_economics ",
+		"tag_number": "5",
+		"file_size_byte": "131652496",
+		"updated_time": "Wed May  8 15:47:03 2024"
 	},
 	{
 		"title": "control basic for mechatronics",
@@ -405,7 +383,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #basic  #control  #control_basic  #mechatronics ",
 		"tag_number": "4",
-		"pages": "175",
 		"file_size_byte": "14956550",
 		"updated_time": "Mon Jan 29 23:31:02 2024"
 	},
@@ -415,7 +392,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #control  #control_engineering  #engineering  #mechatronics ",
 		"tag_number": "4",
-		"pages": "222",
 		"file_size_byte": "44010430",
 		"updated_time": "Sun Feb 11 20:28:25 2024"
 	},
@@ -425,7 +401,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #control  #control_handbook  #control_systems  #fundamentals  #handbook  #handbook_control  #systems  #systems_fundamentals ",
 		"tag_number": "8",
-		"pages": "788",
 		"file_size_byte": "11209007",
 		"updated_time": "Wed Feb  7 17:18:42 2024"
 	},
@@ -435,7 +410,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #control  #control_systems  #engineering  #systems  #systems_engineering ",
 		"tag_number": "5",
-		"pages": "1005",
 		"file_size_byte": "11956430",
 		"updated_time": "Thu Feb 29 13:41:18 2024"
 	},
@@ -445,7 +419,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #convergent  #convergent_journalism  #introduction  #introduction_writing  #journalism  #media  #producing  #writing ",
 		"tag_number": "8",
-		"pages": "207",
 		"file_size_byte": "12111235",
 		"updated_time": "Sun Mar 17 22:22:57 2024"
 	},
@@ -455,7 +428,6 @@
 		"title_length_word": "16",
 		"multi_tags": " #analysis  #analysis_guide  #beginners  #beginners_journey  #data  #data_science  #essential  #guide  #journey  #science ",
 		"tag_number": "10",
-		"pages": "180",
 		"file_size_byte": "1442699",
 		"updated_time": "Sun Apr 14 23:30:47 2024"
 	},
@@ -465,7 +437,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #Python  #R  #R_Python  #data  #data_science  #fundamentals  #open  #open_data  #science  #science_fundamentals ",
 		"tag_number": "10",
-		"pages": "1412",
 		"file_size_byte": "7813527",
 		"updated_time": "Sun Apr 14 23:30:46 2024"
 	},
@@ -475,7 +446,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #C  #C_theory  #data  #data_structure  #program  #structure  #theory ",
 		"tag_number": "7",
-		"pages": "428",
 		"file_size_byte": "6302169",
 		"updated_time": "Sun Mar  3 19:12:52 2024"
 	},
@@ -483,9 +453,8 @@
 		"title": "data structures and algorithms for beginners unlocking efficient coding techniques from the ground up",
 		"title_length_char": "101",
 		"title_length_word": "14",
-		"multi_tags": " #algorithms  #beginners  #beginners_unlocking  #coding  #coding_techniques  #data  #data_structures  #efficient  #efficient_coding  #ground  #structures  #techniques  #unlocking  #unlocking_efficient ",
-		"tag_number": "14",
-		"pages": "287",
+		"multi_tags": " #algorithms  #beginners  #coding  #coding_techniques  #data  #data_structures  #efficient  #efficient_coding  #ground  #structures  #techniques  #unlocking  #unlocking_efficient ",
+		"tag_number": "13",
 		"file_size_byte": "13052778",
 		"updated_time": "Sun Apr 14 22:34:33 2024"
 	},
@@ -495,7 +464,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #concepts  #deep  #deep_learning  #foundation  #learning  #learning_foundation ",
 		"tag_number": "6",
-		"pages": "656",
 		"file_size_byte": "49578553",
 		"updated_time": "Wed Mar 13 12:15:40 2024"
 	},
@@ -503,9 +471,8 @@
 		"title": "design thinking understanding how designers think and work",
 		"title_length_char": "58",
 		"title_length_word": "8",
-		"multi_tags": " #design  #design_thinking  #designers  #how  #how_designers  #thinking  #thinking_understanding  #understanding  #understanding_how  #work ",
-		"tag_number": "10",
-		"pages": "201",
+		"multi_tags": " #design  #design_thinking  #designers  #how  #thinking  #thinking_understanding  #understanding  #understanding_how  #work ",
+		"tag_number": "9",
 		"file_size_byte": "14301547",
 		"updated_time": "Tue Feb 27 21:53:22 2024"
 	},
@@ -515,7 +482,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #Figma  #designers  #designers_guide  #guide ",
 		"tag_number": "4",
-		"pages": "161",
 		"file_size_byte": "18548213",
 		"updated_time": "Thu Jan 25 16:42:45 2024"
 	},
@@ -525,7 +491,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #design  #design_studies  #designing  #designing_knowledge  #emerging  #emerging_perspectives  #knowledge  #knowledge_emerging  #perspectives  #practices  #studies  #studies_practices ",
 		"tag_number": "12",
-		"pages": "285",
 		"file_size_byte": "55930044",
 		"updated_time": "Tue Feb 27 21:29:19 2024"
 	},
@@ -535,7 +500,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #differential  #differential_equation  #emerging  #emerging_real  #equation  #problems  #real  #real_time  #solutions  #time  #time_problems ",
 		"tag_number": "11",
-		"pages": "313",
 		"file_size_byte": "11679056",
 		"updated_time": "Wed Feb  7 16:38:22 2024"
 	},
@@ -545,7 +509,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #artificial  #artificial_intelligence  #critique  #digital  #digital_habitus  #habitus  #imaginaries  #intelligence ",
 		"tag_number": "8",
-		"pages": "185",
 		"file_size_byte": "8713901",
 		"updated_time": "Wed Apr 17 19:53:01 2024"
 	},
@@ -555,7 +518,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #control  #design  #design_modelling  #distributed  #distributed_energy  #energy  #energy_systems  #modelling  #systems  #systems_design ",
 		"tag_number": "10",
-		"pages": "309",
 		"file_size_byte": "17165016",
 		"updated_time": "Wed Feb  7 16:23:45 2024"
 	},
@@ -565,9 +527,17 @@
 		"title_length_word": "5",
 		"multi_tags": " #create  #create_knowledge  #humanities  #humanities_create  #knowledge ",
 		"tag_number": "5",
-		"pages": "264",
 		"file_size_byte": "1603309",
 		"updated_time": "Thu May  2 17:59:02 2024"
+	},
+	{
+		"title": "economics and engineering institutions practices and cultures",
+		"title_length_char": "61",
+		"title_length_word": "7",
+		"multi_tags": " #cultures  #economics  #engineering  #engineering_institutions  #institutions  #institutions_practices  #practices ",
+		"tag_number": "7",
+		"file_size_byte": "3046985",
+		"updated_time": "Wed May  8 17:39:45 2024"
 	},
 	{
 		"title": "effective machine learning teams",
@@ -575,7 +545,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #effective  #effective_machine  #learning  #learning_teams  #machine  #machine_learning  #teams ",
 		"tag_number": "7",
-		"pages": "115",
 		"file_size_byte": "1174470",
 		"updated_time": "Sat Mar  2 11:13:17 2024"
 	},
@@ -585,7 +554,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #analysis  #circuit  #circuit_analysis  #electric  #electric_circuit ",
 		"tag_number": "5",
-		"pages": "729",
 		"file_size_byte": "14572365",
 		"updated_time": "Thu Jan 25 16:42:22 2024"
 	},
@@ -595,7 +563,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #electronics  #scientist ",
 		"tag_number": "2",
-		"pages": "165",
 		"file_size_byte": "13717349",
 		"updated_time": "Sun Mar 10 22:55:55 2024"
 	},
@@ -605,7 +572,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #element  #robotics ",
 		"tag_number": "2",
-		"pages": "311",
 		"file_size_byte": "9672875",
 		"updated_time": "Tue Jan 31 09:36:58 2023"
 	},
@@ -615,7 +581,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #design  #embedded  #embedded_systems  #handbook  #handbook_systems  #systems  #systems_design  #systems_handbook  #verification ",
 		"tag_number": "9",
-		"pages": "667",
 		"file_size_byte": "170124456",
 		"updated_time": "Sun Feb 19 09:06:32 2023"
 	},
@@ -625,9 +590,26 @@
 		"title_length_word": "6",
 		"multi_tags": " #buildings  #efficient  #efficient_electrical  #electrical  #electrical_systems  #energy  #energy_efficient  #systems ",
 		"tag_number": "8",
-		"pages": "582",
 		"file_size_byte": "29431517",
 		"updated_time": "Mon Jan 29 23:29:00 2024"
+	},
+	{
+		"title": "engineering economics",
+		"title_length_char": "21",
+		"title_length_word": "2",
+		"multi_tags": " #economics  #engineering  #engineering_economics ",
+		"tag_number": "3",
+		"file_size_byte": "192164082",
+		"updated_time": "Wed May  8 17:40:26 2024"
+	},
+	{
+		"title": "engineering economics financial decision making for engineers",
+		"title_length_char": "61",
+		"title_length_word": "7",
+		"multi_tags": " #decision  #decision_making  #economics  #economics_financial  #engineering  #engineering_economics  #engineers  #financial  #financial_decision  #making ",
+		"tag_number": "10",
+		"file_size_byte": "4117976",
+		"updated_time": "Wed May  8 15:48:59 2024"
 	},
 	{
 		"title": "engineering mathematics and computing",
@@ -635,7 +617,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #computing  #engineering  #engineering_mathematics  #mathematics ",
 		"tag_number": "4",
-		"pages": "303",
 		"file_size_byte": "5655269",
 		"updated_time": "Tue Jan 31 10:08:22 2023"
 	},
@@ -645,7 +626,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #engineering  #engineering_measurement  #instrumentation  #measurement ",
 		"tag_number": "4",
-		"pages": "131",
 		"file_size_byte": "2653739",
 		"updated_time": "Tue Jan 31 09:38:44 2023"
 	},
@@ -655,7 +635,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #dynamics  #engineering  #engineering_mechanics  #mechanics  #mechanics_dynamics ",
 		"tag_number": "5",
-		"pages": "753",
 		"file_size_byte": "116982098",
 		"updated_time": "Mon Jan 29 23:13:16 2024"
 	},
@@ -665,7 +644,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #dynamics  #engineering  #engineering_mechanics  #mechanics  #mechanics_dynamics ",
 		"tag_number": "5",
-		"pages": "750",
 		"file_size_byte": "49922324",
 		"updated_time": "Thu Jan 25 16:46:05 2024"
 	},
@@ -675,7 +653,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #control  #engineering  #engineering_noise  #noise  #noise_control ",
 		"tag_number": "5",
-		"pages": "921",
 		"file_size_byte": "12148943",
 		"updated_time": "Sun Mar 10 22:39:35 2024"
 	},
@@ -685,7 +662,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #engineering  #engineering_statics  #interactive  #open  #statics  #statics_open ",
 		"tag_number": "6",
-		"pages": "330",
 		"file_size_byte": "15453801",
 		"updated_time": "Tue Jan 31 00:32:56 2023"
 	},
@@ -695,7 +671,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #HTML  #essential  #essential_guide  #guide ",
 		"tag_number": "4",
-		"pages": "501",
 		"file_size_byte": "15486408",
 		"updated_time": "Sat Feb  4 19:14:18 2023"
 	},
@@ -705,7 +680,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #biology  #essential ",
 		"tag_number": "2",
-		"pages": "721",
 		"file_size_byte": "541870406",
 		"updated_time": "Mon Mar 11 00:14:46 2024"
 	},
@@ -715,7 +689,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #essential  #information  #information_systems  #management  #management_information  #systems ",
 		"tag_number": "6",
-		"pages": "536",
 		"file_size_byte": "15216413",
 		"updated_time": "Sun Mar 10 23:56:00 2024"
 	},
@@ -725,7 +698,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #essential  #oceanography ",
 		"tag_number": "2",
-		"pages": "632",
 		"file_size_byte": "95295104",
 		"updated_time": "Sat Mar 16 21:29:41 2024"
 	},
@@ -735,7 +707,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #cookbook  #excel  #excel_cookbook ",
 		"tag_number": "3",
-		"pages": "75",
 		"file_size_byte": "2255896",
 		"updated_time": "Wed Mar 13 12:02:24 2024"
 	},
@@ -745,9 +716,17 @@
 		"title_length_word": "11",
 		"multi_tags": " #engaging  #engaging_game  #exploring  #exploring_game  #fun  #fun_engaging  #game  #game_mechanics  #mechanics  #mechanics_principles  #principles  #technology ",
 		"tag_number": "12",
-		"pages": "205",
 		"file_size_byte": "9514994",
 		"updated_time": "Sat Feb  4 19:09:22 2023"
+	},
+	{
+		"title": "fabrication and design of resonant microdevices",
+		"title_length_char": "47",
+		"title_length_word": "6",
+		"multi_tags": " #design  #fabrication  #microdevices  #resonant  #resonant_microdevices ",
+		"tag_number": "5",
+		"file_size_byte": "3197103",
+		"updated_time": "Wed May  8 13:11:06 2024"
 	},
 	{
 		"title": "figure drawing got all its worth",
@@ -755,7 +734,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #drawing  #figure  #figure_drawing  #worth ",
 		"tag_number": "4",
-		"pages": "197",
 		"file_size_byte": "24912228",
 		"updated_time": "Thu Aug 24 05:51:40 2017"
 	},
@@ -765,7 +743,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #fluid  #fluid_mechanics  #mechanics ",
 		"tag_number": "3",
-		"pages": "864",
 		"file_size_byte": "80852145",
 		"updated_time": "Mon Jan 29 23:14:31 2024"
 	},
@@ -775,7 +752,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #basic  #basic_concepts  #concepts  #fluid  #fluid_mechanics  #mechanics  #mechanics_basic  #principles ",
 		"tag_number": "8",
-		"pages": "456",
 		"file_size_byte": "44764728",
 		"updated_time": "Sun Feb 19 09:12:44 2023"
 	},
@@ -785,7 +761,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #basic  #basic_concepts  #concepts  #fluid  #fluid_mechanics  #mechanics  #mechanics_basic  #principles ",
 		"tag_number": "8",
-		"pages": "534",
 		"file_size_byte": "9490885",
 		"updated_time": "Sun Feb 19 09:00:10 2023"
 	},
@@ -795,7 +770,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #Python  #data  #data_science  #foundation  #science ",
 		"tag_number": "5",
-		"pages": "503",
 		"file_size_byte": "50917248",
 		"updated_time": "Sun Feb 18 22:37:08 2024"
 	},
@@ -805,7 +779,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #foundation  #information  #information_science  #library  #science ",
 		"tag_number": "5",
-		"pages": "1070",
 		"file_size_byte": "6239752",
 		"updated_time": "Thu Apr 18 19:39:56 2024"
 	},
@@ -815,7 +788,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #engineer  #fluid  #fluid_mechanics  #fundamentals  #mechanics  #scientist ",
 		"tag_number": "6",
-		"pages": "579",
 		"file_size_byte": "10822990",
 		"updated_time": "Mon Dec 25 20:23:00 2023"
 	},
@@ -825,7 +797,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #data  #data_information  #fundamentals  #information  #knowledge  #knowledge_management  #management  #management_succeed  #matedata  #matedata_management  #succeed  #succeed_data ",
 		"tag_number": "12",
-		"pages": "63",
 		"file_size_byte": "2124183",
 		"updated_time": "Thu May  2 17:45:56 2024"
 	},
@@ -835,7 +806,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #fundamentals  #microelectronics ",
 		"tag_number": "2",
-		"pages": "932",
 		"file_size_byte": "6889752",
 		"updated_time": "Mon Dec 25 20:18:15 2023"
 	},
@@ -845,7 +815,6 @@
 		"title_length_word": "16",
 		"multi_tags": " #audio  #audio_fundamentals  #creation  #fundamentals  #game  #game_audio  #games  #introduction  #planning  #practice  #soundscape  #soundscape_creation  #theory  #theory_planning ",
 		"tag_number": "14",
-		"pages": "282",
 		"file_size_byte": "19522613",
 		"updated_time": "Wed Apr 17 19:38:17 2024"
 	},
@@ -855,7 +824,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #Azure  #Microsoft  #Microsoft_Azure  #PlayFab  #backend  #backend_development  #development  #game  #game_backend ",
 		"tag_number": "9",
-		"pages": "394",
 		"file_size_byte": "6621589",
 		"updated_time": "Sat Feb  4 19:14:08 2023"
 	},
@@ -863,9 +831,8 @@
 		"title": "game design deep dive trading and collectible card games",
 		"title_length_char": "56",
 		"title_length_word": "9",
-		"multi_tags": " #card  #card_games  #collectible  #collectible_card  #deep  #deep_dive  #design  #design_deep  #dive  #dive_trading  #game  #game_design  #games  #trading ",
-		"tag_number": "14",
-		"pages": "163",
+		"multi_tags": " #card  #card_games  #collectible  #collectible_card  #deep  #deep_dive  #design  #dive  #dive_trading  #game  #game_design  #games  #trading ",
+		"tag_number": "13",
 		"file_size_byte": "32030216",
 		"updated_time": "Wed Apr 17 20:13:28 2024"
 	},
@@ -875,7 +842,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #approach  #cognitive  #cognitive_psychological  #design  #design_tools  #game  #game_design  #practical  #practical_approach  #psychological  #tools  #tools_cognitive ",
 		"tag_number": "12",
-		"pages": "269",
 		"file_size_byte": "10340820",
 		"updated_time": "Tue Feb 27 21:42:38 2024"
 	},
@@ -885,7 +851,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #game  #game_jam  #history  #history_technology  #jam  #jam_history  #organization  #technology ",
 		"tag_number": "8",
-		"pages": "136",
 		"file_size_byte": "3282203",
 		"updated_time": "Sat Feb  4 19:13:18 2023"
 	},
@@ -895,7 +860,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #analytics  #applications  #cities  #databases  #databases_applications  #graph  #graph_databases  #media  #media_analytics  #smart  #smart_cities  #social  #social_media ",
 		"tag_number": "13",
-		"pages": "191",
 		"file_size_byte": "12584642",
 		"updated_time": "Thu Mar 28 19:03:31 2024"
 	},
@@ -905,7 +869,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #handbook  #management  #project  #project_management ",
 		"tag_number": "4",
-		"pages": "667",
 		"file_size_byte": "10458209",
 		"updated_time": "Sun Mar  3 19:05:15 2024"
 	},
@@ -915,7 +878,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #design  #design_design  #design_fundamentals  #designers  #fundamentals  #shortcuts  #web  #web_design ",
 		"tag_number": "8",
-		"pages": "161",
 		"file_size_byte": "13055734",
 		"updated_time": "Mon Oct  9 14:23:03 2023"
 	},
@@ -925,7 +887,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #AI  #AI_work  #how  #how_AI  #science  #sorcery  #work ",
 		"tag_number": "7",
-		"pages": "275",
 		"file_size_byte": "6228511",
 		"updated_time": "Sat Mar 16 21:11:24 2024"
 	},
@@ -935,7 +896,6 @@
 		"title_length_word": "14",
 		"multi_tags": " #educational  #educational_psychology  #how  #how_learning  #learning  #practices  #psychology  #seminal  #seminal_work  #work ",
 		"tag_number": "10",
-		"pages": "417",
 		"file_size_byte": "18278526",
 		"updated_time": "Sun Apr 14 20:30:32 2024"
 	},
@@ -945,7 +905,6 @@
 		"title_length_word": "14",
 		"multi_tags": " #analyst  #data  #data_analyst  #how  #low-cost  #low-cost_no-code  #no-code  #no-code_roadmap  #roadmap  #tech ",
 		"tag_number": "10",
-		"pages": "291",
 		"file_size_byte": "3461049",
 		"updated_time": "Sun Mar  3 18:50:42 2024"
 	},
@@ -955,7 +914,6 @@
 		"title_length_word": "14",
 		"multi_tags": " #architecture  #automation  #guide  #how  #machine  #practical  #practical_guide  #test  #time  #time_machine ",
 		"tag_number": "10",
-		"pages": "345",
 		"file_size_byte": "9869309",
 		"updated_time": "Sun Mar 31 23:22:08 2024"
 	},
@@ -965,7 +923,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #automation  #engineering  #engineering_manufacturing  #factors  #human  #human_factors  #interactions  #manufacturing  #manufacturing_systems  #systems  #systems_automation ",
 		"tag_number": "11",
-		"pages": "258",
 		"file_size_byte": "16086166",
 		"updated_time": "Sun Mar 31 23:11:36 2024"
 	},
@@ -975,7 +932,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #context  #geography  #geography_places  #global  #global_context  #human  #human_geography  #places  #regions ",
 		"tag_number": "9",
-		"pages": "484",
 		"file_size_byte": "67290704",
 		"updated_time": "Tue Apr 23 10:32:31 2024"
 	},
@@ -985,7 +941,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #concepts  #concepts_process  #industry  #process  #systems ",
 		"tag_number": "5",
-		"pages": "281",
 		"file_size_byte": "11739016",
 		"updated_time": "Sun Mar 10 22:53:23 2024"
 	},
@@ -995,7 +950,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #information  #knowledge  #knowledge_systems  #systems ",
 		"tag_number": "4",
-		"pages": "194",
 		"file_size_byte": "13937354",
 		"updated_time": "Wed Apr 17 22:17:35 2024"
 	},
@@ -1005,7 +959,6 @@
 		"title_length_word": "18",
 		"multi_tags": " #asset  #asset_management  #data  #data_information  #information  #information_asset  #knowledge  #manage  #management  #money  #must  #must_manage  #why  #your  #your_data  #your_money ",
 		"tag_number": "16",
-		"pages": "213",
 		"file_size_byte": "6442759",
 		"updated_time": "Thu May  2 17:48:41 2024"
 	},
@@ -1015,7 +968,6 @@
 		"title_length_word": "14",
 		"multi_tags": " #changing  #changing_world  #concepts  #design  #design_unbound  #information  #information_design  #key  #key_concepts  #making  #making_sense  #sense  #skills  #unbound  #unbound_key  #world ",
 		"tag_number": "16",
-		"pages": "273",
 		"file_size_byte": "179293811",
 		"updated_time": "Tue Feb 27 21:29:13 2024"
 	},
@@ -1025,7 +977,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #information  #information_science  #science ",
 		"tag_number": "3",
-		"pages": "103",
 		"file_size_byte": "4766184",
 		"updated_time": "Thu Apr 18 08:06:35 2024"
 	},
@@ -1033,9 +984,8 @@
 		"title": "innovative social science teaching and learning facilitating students personal growth and career success",
 		"title_length_char": "104",
 		"title_length_word": "13",
-		"multi_tags": " #career  #career_success  #facilitating  #facilitating_students  #growth  #innovative  #innovative_social  #learning  #learning_facilitating  #personal  #personal_growth  #science  #science_teaching  #social  #social_science  #students  #students_personal  #success  #teaching ",
-		"tag_number": "19",
-		"pages": "199",
+		"multi_tags": " #career  #career_success  #facilitating  #facilitating_students  #growth  #innovative  #learning  #learning_facilitating  #personal  #personal_growth  #science  #science_teaching  #social  #social_science  #students  #students_personal  #success  #teaching ",
+		"tag_number": "18",
 		"file_size_byte": "3419040",
 		"updated_time": "Sun Apr 14 20:44:17 2024"
 	},
@@ -1045,7 +995,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #analytics  #applications  #business  #business_analytics  #insights  #insights_strategies  #strategies ",
 		"tag_number": "7",
-		"pages": "263",
 		"file_size_byte": "2090926",
 		"updated_time": "Sun Apr 14 20:57:18 2024"
 	},
@@ -1055,7 +1004,6 @@
 		"title_length_word": "12",
 		"multi_tags": " #IoT  #IoT_enabling  #applications  #challenges  #decision  #decision_support  #enabling  #enabling_technology  #intelligent  #intelligent_decision  #opportunities  #opportunities_challenges  #support  #support_system  #system  #technology  #technology_opportunities ",
 		"tag_number": "17",
-		"pages": "346",
 		"file_size_byte": "30199991",
 		"updated_time": "Sun Apr 14 20:24:50 2024"
 	},
@@ -1065,7 +1013,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #agriculture  #drones  #intelligent  #intelligent_robots  #precision  #precision_agriculture  #robots ",
 		"tag_number": "7",
-		"pages": "479",
 		"file_size_byte": "18910757",
 		"updated_time": "Sun Apr 14 20:39:20 2024"
 	},
@@ -1073,9 +1020,8 @@
 		"title": "intelligent transportation system and advanced technology energy environment and sustainability",
 		"title_length_char": "95",
 		"title_length_word": "10",
-		"multi_tags": " #advanced  #advanced_technology  #energy  #energy_environment  #environment  #intelligent  #intelligent_transportation  #sustainability  #system  #technology  #technology_energy  #transportation  #transportation_system ",
-		"tag_number": "13",
-		"pages": "379",
+		"multi_tags": " #advanced  #advanced_technology  #energy  #environment  #intelligent  #intelligent_transportation  #sustainability  #system  #technology  #technology_energy  #transportation  #transportation_system ",
+		"tag_number": "12",
 		"file_size_byte": "9183561",
 		"updated_time": "Sun Apr 14 20:19:16 2024"
 	},
@@ -1085,7 +1031,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #afterlife  #afterlife_virtual  #century  #internet  #internet_afterlife  #salvation  #virtual  #virtual_salvation ",
 		"tag_number": "8",
-		"pages": "298",
 		"file_size_byte": "3041219",
 		"updated_time": "Wed Mar 20 00:31:33 2024"
 	},
@@ -1095,7 +1040,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #Java  #development  #game  #game_development  #introduction  #introduction_Java ",
 		"tag_number": "6",
-		"pages": "256",
 		"file_size_byte": "8276362",
 		"updated_time": "Sat Feb  4 19:13:54 2023"
 	},
@@ -1105,7 +1049,6 @@
 		"title_length_word": "14",
 		"multi_tags": " #Blender  #architectural  #architectural_modelling  #compositing  #introduction  #lighting  #lighting_material  #material  #material_painting  #modelling  #modelling_lighting  #organic  #painting  #painting_rendering  #rendering ",
 		"tag_number": "15",
-		"pages": "477",
 		"file_size_byte": "28174420",
 		"updated_time": "Thu Oct 26 13:53:36 2023"
 	},
@@ -1115,7 +1058,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #actuators  #algorithms  #autonomous  #autonomous_robots  #introduction  #mechanisms  #mechanisms_sensors  #robots  #robots_mechanisms  #sensors  #sensors_actuators ",
 		"tag_number": "11",
-		"pages": "368",
 		"file_size_byte": "13259640",
 		"updated_time": "Tue Jan 31 09:38:12 2023"
 	},
@@ -1125,7 +1067,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #chemical  #chemical_engineering  #engineering  #introduction ",
 		"tag_number": "4",
-		"pages": "574",
 		"file_size_byte": "19058733",
 		"updated_time": "Mon Mar 11 00:09:05 2024"
 	},
@@ -1135,7 +1076,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #compiler  #compiler_design  #design  #introduction ",
 		"tag_number": "4",
-		"pages": "303",
 		"file_size_byte": "10644829",
 		"updated_time": "Wed Feb  7 17:13:21 2024"
 	},
@@ -1145,7 +1085,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #critique  #critique_history  #design  #design_theory  #history  #introduction  #philosophy  #philosophy_critique  #practices  #theory  #theory_philosophy ",
 		"tag_number": "11",
-		"pages": "287",
 		"file_size_byte": "21595611",
 		"updated_time": "Tue Feb 27 21:25:44 2024"
 	},
@@ -1155,7 +1094,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #engineer  #engineering  #introduction  #scientist ",
 		"tag_number": "4",
-		"pages": "629",
 		"file_size_byte": "89318866",
 		"updated_time": "Tue Jan 31 00:35:52 2023"
 	},
@@ -1165,7 +1103,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #introduction  #logic  #logic_programming  #programming ",
 		"tag_number": "4",
-		"pages": "201",
 		"file_size_byte": "75269949",
 		"updated_time": "Sat Feb  4 19:21:30 2023"
 	},
@@ -1175,7 +1112,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #engineering  #guide  #introduction  #nuclear  #nuclear_engineering ",
 		"tag_number": "5",
-		"pages": "306",
 		"file_size_byte": "8853828",
 		"updated_time": "Sun Mar 10 22:46:02 2024"
 	},
@@ -1185,7 +1121,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #engineering  #introduction  #philosophy ",
 		"tag_number": "3",
-		"pages": "259",
 		"file_size_byte": "5050669",
 		"updated_time": "Tue Jan 31 09:54:30 2023"
 	},
@@ -1195,7 +1130,6 @@
 		"title_length_word": "12",
 		"multi_tags": " #control  #design  #experiments  #introduction  #methods  #methods_design  #probability  #probability_statistical  #quality  #quality_control  #statistical  #statistical_methods  #statistical_quality ",
 		"tag_number": "13",
-		"pages": "623",
 		"file_size_byte": "19515740",
 		"updated_time": "Sun Apr 14 23:21:12 2024"
 	},
@@ -1205,7 +1139,6 @@
 		"title_length_word": "12",
 		"multi_tags": " #R  #analysis  #analysis_exercises  #applications  #data  #data_analysis  #exercises  #exercises_solutions  #introduction  #solutions  #statistics ",
 		"tag_number": "11",
-		"pages": "584",
 		"file_size_byte": "6945811",
 		"updated_time": "Tue Jan 31 10:11:04 2023"
 	},
@@ -1215,9 +1148,17 @@
 		"title_length_word": "9",
 		"multi_tags": " #analysis  #analysis_macrotexture  #introduction  #macrotexture  #macrotexture_microtexture  #mapping  #microtexture  #orientation  #orientation_mapping  #texture  #texture_analysis ",
 		"tag_number": "11",
-		"pages": "581",
 		"file_size_byte": "45576371",
 		"updated_time": "Sun Mar 10 23:32:38 2024"
+	},
+	{
+		"title": "introductory mems fabrication and applications",
+		"title_length_char": "46",
+		"title_length_word": "5",
+		"multi_tags": " #applications  #fabrication  #introductory  #introductory_mems  #mems  #mems_fabrication ",
+		"tag_number": "6",
+		"file_size_byte": "5062377",
+		"updated_time": "Wed May  8 13:16:49 2024"
 	},
 	{
 		"title": "investigating oceanography",
@@ -1225,7 +1166,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #investigating  #investigating_oceanography  #oceanography ",
 		"tag_number": "3",
-		"pages": "530",
 		"file_size_byte": "101965472",
 		"updated_time": "Sat Mar 16 21:47:37 2024"
 	},
@@ -1235,7 +1175,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #analysis  #ideation  #ideation_inventive  #ideation_stimulation  #inventive  #inventive_knowledge  #knowledge  #knowledge_analysis  #stimulation ",
 		"tag_number": "9",
-		"pages": "336",
 		"file_size_byte": "51266353",
 		"updated_time": "Thu Mar 28 19:42:44 2024"
 	},
@@ -1245,7 +1184,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #enabling  #enabling_systemic  #knowledge  #knowledge_synthesis  #science  #science_enabling  #synthesis  #systemic  #systemic_knowledge  #systems  #systems_science ",
 		"tag_number": "11",
-		"pages": "245",
 		"file_size_byte": "12005826",
 		"updated_time": "Thu May  2 17:49:27 2024"
 	},
@@ -1255,7 +1193,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #integration  #integration_methods  #knowledge  #knowledge-based  #knowledge-based_systems  #knowledge_integration  #methods  #probabilistic  #probabilistic_knowledge-based  #systems ",
 		"tag_number": "10",
-		"pages": "203",
 		"file_size_byte": "23566065",
 		"updated_time": "Thu May  2 17:42:33 2024"
 	},
@@ -1265,7 +1202,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #AI  #AI_era  #era  #knowledge  #knowledge_management  #management  #management_systems  #processes  #systems ",
 		"tag_number": "9",
-		"pages": "389",
 		"file_size_byte": "12851192",
 		"updated_time": "Thu May  2 17:52:00 2024"
 	},
@@ -1275,7 +1211,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #engineering  #knowledge  #knowledge_science  #management  #science  #science_engineering ",
 		"tag_number": "6",
-		"pages": "715",
 		"file_size_byte": "56253853",
 		"updated_time": "Sat Feb  4 19:10:30 2023"
 	},
@@ -1285,7 +1220,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #knowledge-based  #knowledge-based_systems  #systems ",
 		"tag_number": "3",
-		"pages": "380",
 		"file_size_byte": "20414608",
 		"updated_time": "Thu May  2 17:31:28 2024"
 	},
@@ -1293,9 +1227,8 @@
 		"title": "lean six sigma methods for production optimization",
 		"title_length_char": "50",
 		"title_length_word": "7",
-		"multi_tags": " #lean  #methods  #optimization  #production  #production_optimization  #sigma  #sigma_methods ",
-		"tag_number": "7",
-		"pages": "156",
+		"multi_tags": " #lean  #lean_six  #methods  #optimization  #production  #production_optimization  #sigma  #sigma_methods  #six  #six_sigma ",
+		"tag_number": "10",
 		"file_size_byte": "4840488",
 		"updated_time": "Sun Apr 14 20:04:45 2024"
 	},
@@ -1305,7 +1238,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #Python  #fun  #fun_project  #learn  #learn_Python  #project ",
 		"tag_number": "6",
-		"pages": "345",
 		"file_size_byte": "19585403",
 		"updated_time": "Thu Mar 28 20:25:03 2024"
 	},
@@ -1315,7 +1247,6 @@
 		"title_length_word": "13",
 		"multi_tags": " #level  #multi-level  #multi-level_structure  #philosophy  #philosophy_re-examining  #re-examining  #reality  #science  #structure ",
 		"tag_number": "9",
-		"pages": "293",
 		"file_size_byte": "4246828",
 		"updated_time": "Tue Jan 31 09:54:42 2023"
 	},
@@ -1325,7 +1256,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #archives  #libraries  #libraries_literatures  #literatures ",
 		"tag_number": "4",
-		"pages": "308",
 		"file_size_byte": "1989043",
 		"updated_time": "Wed Apr 17 22:36:51 2024"
 	},
@@ -1335,7 +1265,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #aesthetics  #aesthetics_pragmatics  #afterlife  #data  #data_aesthetics  #incommunication  #listening  #pragmatics ",
 		"tag_number": "8",
-		"pages": "185",
 		"file_size_byte": "1978761",
 		"updated_time": "Wed Mar 20 00:25:31 2024"
 	},
@@ -1343,9 +1272,8 @@
 		"title": "logos and alogon thinkable and the unthinkable in mathematics from the Pythagoreans to the modern",
 		"title_length_char": "97",
 		"title_length_word": "15",
-		"multi_tags": " #Pythagoreans  #alogon  #alogon_thinkable  #logos  #mathematics  #modern  #thinkable  #unthinkable ",
-		"tag_number": "8",
-		"pages": "307",
+		"multi_tags": " #Pythagoreans  #alogon  #logos  #mathematics  #modern  #thinkable  #unthinkable ",
+		"tag_number": "7",
 		"file_size_byte": "3691441",
 		"updated_time": "Tue Jan 31 09:51:08 2023"
 	},
@@ -1355,7 +1283,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #deep  #deep_learning  #language  #language_processing  #learning  #machine  #machine_learning  #natural  #natural_language  #processing ",
 		"tag_number": "10",
-		"pages": "245",
 		"file_size_byte": "9717866",
 		"updated_time": "Sat Mar  2 11:13:11 2024"
 	},
@@ -1365,7 +1292,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #course  #crash  #crash_course  #engineer  #learning  #learning_crash  #machine  #machine_learning ",
 		"tag_number": "8",
-		"pages": "465",
 		"file_size_byte": "11978889",
 		"updated_time": "Sat Mar  2 12:57:04 2024"
 	},
@@ -1375,7 +1301,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #buildings  #historic  #historic_buildings  #maintaining  #old  #repairing  #repairing_old ",
 		"tag_number": "7",
-		"pages": "274",
 		"file_size_byte": "92432565",
 		"updated_time": "Wed Mar 13 11:20:56 2024"
 	},
@@ -1385,7 +1310,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #accounting  #cost  #cost_accounting  #management ",
 		"tag_number": "4",
-		"pages": "862",
 		"file_size_byte": "29592893",
 		"updated_time": "Sat Mar 16 21:47:43 2024"
 	},
@@ -1393,9 +1317,8 @@
 		"title": "mastering C++ network automation",
 		"title_length_char": "32",
 		"title_length_word": "4",
-		"multi_tags": " #C++  #C++_network  #automation  #mastering  #mastering_C++  #network  #network_automation ",
+		"multi_tags": " #C_pp  #C_pp_network  #automation  #mastering  #mastering_C_pp  #network  #network_automation ",
 		"tag_number": "7",
-		"pages": "437",
 		"file_size_byte": "4257194",
 		"updated_time": "Sun Apr 14 23:30:47 2024"
 	},
@@ -1405,7 +1328,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #language  #language_models  #large  #large_language  #mastering  #models ",
 		"tag_number": "6",
-		"pages": "903",
 		"file_size_byte": "7634422",
 		"updated_time": "Sun Apr 14 21:58:38 2024"
 	},
@@ -1415,7 +1337,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #analytics  #analytics_project  #discipline  #discovery  #discovery_successful  #engineering  #mastering  #mastering_project  #project  #project_discovery  #successful  #successful_discipline ",
 		"tag_number": "12",
-		"pages": "183",
 		"file_size_byte": "9069718",
 		"updated_time": "Sun Mar  3 19:15:57 2024"
 	},
@@ -1425,7 +1346,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #analysis  #element  #element_analysis  #finite  #finite_element  #material  #material_modelling  #modelling ",
 		"tag_number": "8",
-		"pages": "320",
 		"file_size_byte": "47800929",
 		"updated_time": "Sun Mar 10 22:58:57 2024"
 	},
@@ -1435,7 +1355,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #engineer  #math  #math_numeric  #mechanical  #mechanical_engineer  #numeric  #programming ",
 		"tag_number": "7",
-		"pages": "451",
 		"file_size_byte": "30518212",
 		"updated_time": "Tue Jan 31 00:29:42 2023"
 	},
@@ -1445,7 +1364,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #dynamics  #fluid  #fluid_dynamics  #mathematical  #mathematical_modelling  #modelling  #nanofluids ",
 		"tag_number": "7",
-		"pages": "555",
 		"file_size_byte": "28599142",
 		"updated_time": "Sun Mar 10 22:43:08 2024"
 	},
@@ -1455,7 +1373,6 @@
 		"title_length_word": "16",
 		"multi_tags": " #calculation  #concepts  #manual  #math  #math_concepts  #mathematics  #mathematics_manual  #operations  #operations_math  #operators  #operators_wastewater  #plant  #plant_operators  #treatment  #treatment_operations  #treatment_plant  #wastewater  #wastewater_treatment  #water ",
 		"tag_number": "19",
-		"pages": "340",
 		"file_size_byte": "8894561",
 		"updated_time": "Wed Apr 17 19:40:21 2024"
 	},
@@ -1465,7 +1382,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #control  #design  #design_instrumentation  #engineer  #engineer_handbook  #handbook  #handbook_design  #instrumentation  #mechanical  #mechanical_engineer ",
 		"tag_number": "10",
-		"pages": "1010",
 		"file_size_byte": "11983484",
 		"updated_time": "Sat Feb 17 00:16:11 2024"
 	},
@@ -1475,7 +1391,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #energy  #engineer  #engineer_handbook  #handbook  #handbook_energy  #mechanical  #mechanical_engineer  #power ",
 		"tag_number": "8",
-		"pages": "1198",
 		"file_size_byte": "17261756",
 		"updated_time": "Sat Feb 17 00:26:13 2024"
 	},
@@ -1485,7 +1400,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #engineer  #engineer_handbook  #handbook  #handbook_manufacturing  #management  #manufacturing  #mechanical  #mechanical_engineer ",
 		"tag_number": "8",
-		"pages": "882",
 		"file_size_byte": "10097091",
 		"updated_time": "Sat Feb 17 00:14:07 2024"
 	},
@@ -1495,7 +1409,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #engineer  #engineer_handbook  #engineering  #engineering_mechanics  #handbook  #handbook_material  #material  #mechanical  #mechanical_engineer  #mechanics ",
 		"tag_number": "10",
-		"pages": "1042",
 		"file_size_byte": "12616739",
 		"updated_time": "Sat Feb 17 00:14:44 2024"
 	},
@@ -1505,7 +1418,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #development  #media ",
 		"tag_number": "2",
-		"pages": "242",
 		"file_size_byte": "988503",
 		"updated_time": "Sat Mar 16 20:36:09 2024"
 	},
@@ -1515,7 +1427,6 @@
 		"title_length_word": "1",
 		"multi_tags": " #microcontrollers ",
 		"tag_number": "1",
-		"pages": "177",
 		"file_size_byte": "715675",
 		"updated_time": "Mon Jan 30 23:59:56 2023"
 	},
@@ -1525,7 +1436,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #engineering  #modelling  #simulation ",
 		"tag_number": "3",
-		"pages": "258",
 		"file_size_byte": "28330016",
 		"updated_time": "Thu Mar 28 20:26:23 2024"
 	},
@@ -1535,7 +1445,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #control  #control_systems  #modern  #modern_control  #systems ",
 		"tag_number": "5",
-		"pages": "1024",
 		"file_size_byte": "61554090",
 		"updated_time": "Thu Feb 29 13:52:57 2024"
 	},
@@ -1545,7 +1454,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #communication  #graphics  #graphics_communication  #modern  #modern_graphics ",
 		"tag_number": "5",
-		"pages": "2144",
 		"file_size_byte": "170916247",
 		"updated_time": "Sat Mar 16 21:43:00 2024"
 	},
@@ -1555,7 +1463,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #Python  #approach  #computer-based  #computer-based_approach  #modern  #modern_statistics  #statistics ",
 		"tag_number": "7",
-		"pages": "453",
 		"file_size_byte": "7775650",
 		"updated_time": "Tue Jan 31 10:08:52 2023"
 	},
@@ -1565,7 +1472,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #algorithms  #algorithms_object-orientation  #computing  #fluid  #fluid_theory  #molecular  #molecular_simulation  #object-orientation  #parallel  #parallel_computing  #simulation  #theory  #theory_algorithms ",
 		"tag_number": "13",
-		"pages": "616",
 		"file_size_byte": "19146260",
 		"updated_time": "Thu Mar 28 19:44:44 2024"
 	},
@@ -1575,7 +1481,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #applications  #characterization  #fabrication  #fabrication_characterization  #nanofillers  #nanofillers_fabrication  #organic  #organic_nanofillers ",
 		"tag_number": "8",
-		"pages": "337",
 		"file_size_byte": "14641755",
 		"updated_time": "Wed Apr 17 20:10:47 2024"
 	},
@@ -1585,7 +1490,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #Perspective  #applications  #design  #design_synthesis  #enhanced  #enhanced_solid  #materials  #materials_design  #nanotechnology  #nanotechnology_enhanced  #properties  #properties_applications  #solid  #solid_materials  #synthesis  #synthesis_properties ",
 		"tag_number": "16",
-		"pages": "319",
 		"file_size_byte": "12498675",
 		"updated_time": "Wed Apr 17 19:31:42 2024"
 	},
@@ -1595,7 +1499,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #approach  #explanatory  #explanatory_approach  #knowledge  #nature  #scientific  #scientific_knowledge ",
 		"tag_number": "7",
-		"pages": "281",
 		"file_size_byte": "2946232",
 		"updated_time": "Tue Jan 31 09:54:36 2023"
 	},
@@ -1605,7 +1508,6 @@
 		"title_length_word": "12",
 		"multi_tags": " #applications  #biology  #biology_chemistry  #chaos  #chemistry  #dynamics  #engineering  #nonlinear  #nonlinear_dynamics  #physics  #physics_biology ",
 		"tag_number": "11",
-		"pages": "616",
 		"file_size_byte": "27901225",
 		"updated_time": "Sun Mar 10 23:29:48 2024"
 	},
@@ -1615,7 +1517,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #control  #dynamics  #nonlinear  #nonlinear_systems  #stability  #stability_dynamics  #systems  #systems_stability ",
 		"tag_number": "8",
-		"pages": "235",
 		"file_size_byte": "3657862",
 		"updated_time": "Wed Feb  7 16:18:03 2024"
 	},
@@ -1625,7 +1526,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #information  #novelty  #novelty_information  #surprise ",
 		"tag_number": "4",
-		"pages": "294",
 		"file_size_byte": "4326539",
 		"updated_time": "Tue Jan 31 10:11:10 2023"
 	},
@@ -1635,7 +1535,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #concepts  #design  #design_principles  #evolutionary  #evolutionary_concepts  #modern  #modern_design  #operating  #operating_systems  #principles  #systems  #systems_evolutionary ",
 		"tag_number": "12",
-		"pages": "641",
 		"file_size_byte": "15785484",
 		"updated_time": "Tue Feb 27 21:25:05 2024"
 	},
@@ -1645,7 +1544,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #behavior  #organizational  #organizational_behavior ",
 		"tag_number": "3",
-		"pages": "799",
 		"file_size_byte": "66915020",
 		"updated_time": "Sat Mar 16 22:00:36 2024"
 	},
@@ -1655,7 +1553,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #analytical  #differential  #differential_equation  #equation  #introduction  #methods  #numerical  #numerical_methods  #partial  #partial_differential ",
 		"tag_number": "10",
-		"pages": "463",
 		"file_size_byte": "7439250",
 		"updated_time": "Tue Jan 31 10:08:32 2023"
 	},
@@ -1665,7 +1562,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #drawing  #drawing_handbook  #handbook  #perspective  #perspective_drawing ",
 		"tag_number": "5",
-		"pages": "98",
 		"file_size_byte": "46148566",
 		"updated_time": "Thu Aug  3 02:31:44 2017"
 	},
@@ -1675,7 +1571,6 @@
 		"title_length_word": "3",
 		"multi_tags": " #computing  #philosophy ",
 		"tag_number": "2",
-		"pages": "264",
 		"file_size_byte": "3954770",
 		"updated_time": "Tue Jan 31 09:51:20 2023"
 	},
@@ -1685,9 +1580,17 @@
 		"title_length_word": "5",
 		"multi_tags": " #philosophy  #science  #scientist ",
 		"tag_number": "3",
-		"pages": "263",
 		"file_size_byte": "3566316",
 		"updated_time": "Tue Jan 31 09:55:58 2023"
+	},
+	{
+		"title": "power electronics converters applications and design",
+		"title_length_char": "52",
+		"title_length_word": "6",
+		"multi_tags": " #applications  #converters  #converters_applications  #design  #electronics  #electronics_converters  #power  #power_electronics ",
+		"tag_number": "8",
+		"file_size_byte": "43724284",
+		"updated_time": "Wed May  8 12:51:30 2024"
 	},
 	{
 		"title": "practical control engineering for mechatronics and automation",
@@ -1695,7 +1598,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #automation  #control  #control_engineering  #engineering  #mechatronics  #practical  #practical_control ",
 		"tag_number": "7",
-		"pages": "339",
 		"file_size_byte": "14509083",
 		"updated_time": "Sun Mar 31 23:11:59 2024"
 	},
@@ -1705,7 +1607,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #Git  #pro  #pro_Git ",
 		"tag_number": "3",
-		"pages": "441",
 		"file_size_byte": "10420579",
 		"updated_time": "Sun Feb 19 08:40:54 2023"
 	},
@@ -1715,7 +1616,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #R  #applications  #applications_program  #probability  #probability_statistics  #program  #program_written  #statistics  #stimulation  #written ",
 		"tag_number": "10",
-		"pages": "643",
 		"file_size_byte": "10875560",
 		"updated_time": "Tue Jan 31 10:08:48 2023"
 	},
@@ -1725,7 +1625,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #control  #control_modelling  #design  #modelling  #modelling_design  #process  #process_control  #simulation ",
 		"tag_number": "8",
-		"pages": "452",
 		"file_size_byte": "31309311",
 		"updated_time": "Thu Mar 28 21:14:22 2024"
 	},
@@ -1735,7 +1634,6 @@
 		"title_length_word": "15",
 		"multi_tags": " #body  #certification  #development  #guidebook  #innovation  #innovation_training  #knowledge  #management  #management_body  #product  #product_development  #product_innovation  #training ",
 		"tag_number": "13",
-		"pages": "433",
 		"file_size_byte": "13678680",
 		"updated_time": "Thu May  2 18:00:43 2024"
 	},
@@ -1743,9 +1641,8 @@
 		"title": "professional C++",
 		"title_length_char": "16",
 		"title_length_word": "2",
-		"multi_tags": " #C++  #professional  #professional_C++ ",
+		"multi_tags": " #C_pp  #professional  #professional_C_pp ",
 		"tag_number": "3",
-		"pages": "1379",
 		"file_size_byte": "15623303",
 		"updated_time": "Wed Mar 13 11:28:17 2024"
 	},
@@ -1755,7 +1652,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #JavaScript  #JavaScript_programming  #absolute  #absolute_beginners  #beginners  #language  #programming  #programming_language ",
 		"tag_number": "8",
-		"pages": "332",
 		"file_size_byte": "11721674",
 		"updated_time": "Tue Jan 31 09:42:30 2023"
 	},
@@ -1765,7 +1661,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #language  #programming  #programming_language  #systems ",
 		"tag_number": "4",
-		"pages": "1056",
 		"file_size_byte": "29712604",
 		"updated_time": "Tue Jan 31 00:15:28 2023"
 	},
@@ -1775,7 +1670,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #management  #manager  #project  #project_management  #project_manager  #unofficial  #unofficial_project ",
 		"tag_number": "7",
-		"pages": "177",
 		"file_size_byte": "10680595",
 		"updated_time": "Sun Mar  3 19:09:33 2024"
 	},
@@ -1785,7 +1679,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #ageing  #punk  #punk_ageing  #time ",
 		"tag_number": "4",
-		"pages": "272",
 		"file_size_byte": "6485542",
 		"updated_time": "Sun Apr 14 22:00:44 2024"
 	},
@@ -1795,7 +1688,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #electronics  #modern  #modern_power  #power  #power_electronics  #real  #real_time  #simulation  #simulation_technology  #technology  #time  #time_simulation ",
 		"tag_number": "12",
-		"pages": "319",
 		"file_size_byte": "14737565",
 		"updated_time": "Thu Mar 28 20:20:30 2024"
 	},
@@ -1805,7 +1697,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #automatic  #automatic_control  #control  #control_systems  #development  #recent  #recent_development  #systems ",
 		"tag_number": "8",
-		"pages": "490",
 		"file_size_byte": "18429355",
 		"updated_time": "Wed Feb  7 16:28:45 2024"
 	},
@@ -1815,7 +1706,6 @@
 		"title_length_word": "7",
 		"multi_tags": " #age  #media  #recognition  #social  #social_media ",
 		"tag_number": "5",
-		"pages": "194",
 		"file_size_byte": "5383952",
 		"updated_time": "Sun Mar 17 22:20:52 2024"
 	},
@@ -1825,7 +1715,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #game  #how  #life ",
 		"tag_number": "3",
-		"pages": "130",
 		"file_size_byte": "2001964",
 		"updated_time": "Wed Mar 20 00:33:14 2024"
 	},
@@ -1833,9 +1722,8 @@
 		"title": "simple and effective programming with C#",
 		"title_length_char": "40",
 		"title_length_word": "6",
-		"multi_tags": " #C#  #effective  #effective_programming  #programming  #simple ",
+		"multi_tags": " #C_sharp  #effective  #effective_programming  #programming  #simple ",
 		"tag_number": "5",
-		"pages": "322",
 		"file_size_byte": "7486858",
 		"updated_time": "Tue Jan 31 09:42:16 2023"
 	},
@@ -1845,7 +1733,6 @@
 		"title_length_word": "13",
 		"multi_tags": " #expressing  #ideas  #logic  #mathematical  #mathematical_ideas  #practical  #practical_logic  #reasoning  #simple  #simple_type  #theory  #type  #type_theory ",
 		"tag_number": "13",
-		"pages": "309",
 		"file_size_byte": "3258939",
 		"updated_time": "Tue Jan 31 09:42:22 2023"
 	},
@@ -1855,7 +1742,6 @@
 		"title_length_word": "1",
 		"multi_tags": " #simulation ",
 		"tag_number": "1",
-		"pages": "338",
 		"file_size_byte": "6837523",
 		"updated_time": "Thu Mar 28 20:25:01 2024"
 	},
@@ -1865,9 +1751,17 @@
 		"title_length_word": "4",
 		"multi_tags": " #audio  #audio_design  #design  #signal  #signal_audio  #small  #small_signal ",
 		"tag_number": "7",
-		"pages": "847",
 		"file_size_byte": "35118375",
 		"updated_time": "Sat Mar 16 21:16:10 2024"
+	},
+	{
+		"title": "smart cities power electronics renewable energy and internet of things",
+		"title_length_char": "70",
+		"title_length_word": "10",
+		"multi_tags": " #cities  #cities_power  #electronics  #electronics_renewable  #energy  #internet  #power  #power_electronics  #renewable  #renewable_energy  #smart  #smart_cities  #things ",
+		"tag_number": "13",
+		"file_size_byte": "47779909",
+		"updated_time": "Wed May  8 12:51:42 2024"
 	},
 	{
 		"title": "soul in the game the art of a meaningful life",
@@ -1875,7 +1769,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #art  #game  #life  #meaningful  #meaningful_life  #soul ",
 		"tag_number": "6",
-		"pages": "335",
 		"file_size_byte": "5316629",
 		"updated_time": "Thu Mar 28 21:14:24 2024"
 	},
@@ -1885,7 +1778,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #material  #mechanics  #statics ",
 		"tag_number": "3",
-		"pages": "1638",
 		"file_size_byte": "53351261",
 		"updated_time": "Thu Oct 26 13:22:24 2023"
 	},
@@ -1895,7 +1787,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #computational  #computational_modelling  #modelling  #stability  #structural  #structural_stability ",
 		"tag_number": "6",
-		"pages": "279",
 		"file_size_byte": "4204478",
 		"updated_time": "Sun Apr 14 22:07:44 2024"
 	},
@@ -1905,7 +1796,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #design  #game  #game_design  #structure ",
 		"tag_number": "4",
-		"pages": "281",
 		"file_size_byte": "12680240",
 		"updated_time": "Mon Jan 29 23:42:35 2024"
 	},
@@ -1915,7 +1805,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #asia  #environment  #human  #human_interactions  #interactions  #interactions_reflections  #reflections  #surface  #surface_environment ",
 		"tag_number": "9",
-		"pages": "240",
 		"file_size_byte": "19298079",
 		"updated_time": "Sun Apr 14 21:38:15 2024"
 	},
@@ -1925,7 +1814,6 @@
 		"title_length_word": "6",
 		"multi_tags": " #applications  #challenges  #challenges_technology  #engineering  #engineering_challenges  #sustainability  #sustainability_engineering  #technology ",
 		"tag_number": "8",
-		"pages": "359",
 		"file_size_byte": "30931546",
 		"updated_time": "Wed Feb  7 16:41:27 2024"
 	},
@@ -1935,7 +1823,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #entrepreneurship  #innovation  #sustainability  #sustainability_innovation ",
 		"tag_number": "4",
-		"pages": "329",
 		"file_size_byte": "26249645",
 		"updated_time": "Tue Jan 31 00:22:26 2023"
 	},
@@ -1945,7 +1832,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #concepts  #energy  #engineering  #engineering_concepts  #green  #green_energy  #practices  #practices_green  #sustainable  #sustainable_engineering  #technology ",
 		"tag_number": "11",
-		"pages": "514",
 		"file_size_byte": "22032488",
 		"updated_time": "Sun Apr 14 21:45:26 2024"
 	},
@@ -1955,7 +1841,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #automation  #guide  #manager  #manager_guide  #test  #test_automation ",
 		"tag_number": "6",
-		"pages": "427",
 		"file_size_byte": "28795830",
 		"updated_time": "Sun Apr 14 23:30:47 2024"
 	},
@@ -1965,7 +1850,6 @@
 		"title_length_word": "18",
 		"multi_tags": " #OWL  #REA  #SCA  #architect  #built  #formalizing  #formalizing_REA  #framework  #knowledge-based  #knowledge-based_systems  #systems  #systems_formalizing ",
 		"tag_number": "12",
-		"pages": "274",
 		"file_size_byte": "18160098",
 		"updated_time": "Thu May  2 17:32:46 2024"
 	},
@@ -1975,7 +1859,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #afterlife  #data ",
 		"tag_number": "2",
-		"pages": "208",
 		"file_size_byte": "6091146",
 		"updated_time": "Wed Mar 20 00:26:16 2024"
 	},
@@ -1983,9 +1866,8 @@
 		"title": "the age of identity who do our kids think they  are and how do we help  them belong",
 		"title_length_char": "83",
 		"title_length_word": "18",
-		"multi_tags": " #age  #belong  #help  #how  #identity  #identity_who  #kids  #who ",
-		"tag_number": "8",
-		"pages": "201",
+		"multi_tags": " #age  #belong  #help  #how  #identity  #kids  #who ",
+		"tag_number": "7",
 		"file_size_byte": "5491821",
 		"updated_time": "Sun Apr 14 20:09:56 2024"
 	},
@@ -1995,7 +1877,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #boundaries  #data ",
 		"tag_number": "2",
-		"pages": "333",
 		"file_size_byte": "3152331",
 		"updated_time": "Sun Apr 14 21:59:11 2024"
 	},
@@ -2005,7 +1886,6 @@
 		"title_length_word": "11",
 		"multi_tags": " #abstracted  #abstracted_simplification  #brain  #brain_abstracted  #history  #neuroscience  #philosophy  #simplification ",
 		"tag_number": "8",
-		"pages": "377",
 		"file_size_byte": "2427731",
 		"updated_time": "Sun Apr 14 21:43:18 2024"
 	},
@@ -2015,7 +1895,6 @@
 		"title_length_word": "11",
 		"multi_tags": " #characteristics  #chemistry  #milk  #milk_products  #physicochemical  #physicochemical_properties  #products  #products_physicochemical  #properties  #properties_therapeutic  #therapeutic  #therapeutic_characteristics ",
 		"tag_number": "12",
-		"pages": "401",
 		"file_size_byte": "10814110",
 		"updated_time": "Wed Apr 17 19:28:47 2024"
 	},
@@ -2025,7 +1904,6 @@
 		"title_length_word": "13",
 		"multi_tags": " #against  #against_established  #campaign  #campaign_against  #death  #established  #established_knowledge  #expertise  #knowledge  #matters  #why ",
 		"tag_number": "11",
-		"pages": "337",
 		"file_size_byte": "12316629",
 		"updated_time": "Thu May  2 17:54:24 2024"
 	},
@@ -2035,7 +1913,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #game  #how  #life ",
 		"tag_number": "3",
-		"pages": "110",
 		"file_size_byte": "2137684",
 		"updated_time": "Thu Mar 28 21:14:23 2024"
 	},
@@ -2045,7 +1922,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #case  #case_studies  #framework  #framework_case  #implementation  #information  #information_literacy  #literacy  #literacy_framework  #studies  #successful  #successful_implementation ",
 		"tag_number": "12",
-		"pages": "324",
 		"file_size_byte": "5674331",
 		"updated_time": "Thu Apr 18 19:39:55 2024"
 	},
@@ -2055,7 +1931,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #information  #organization ",
 		"tag_number": "2",
-		"pages": "483",
 		"file_size_byte": "24720431",
 		"updated_time": "Thu Apr 18 19:31:44 2024"
 	},
@@ -2065,7 +1940,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #lithium  #science ",
 		"tag_number": "2",
-		"pages": "322",
 		"file_size_byte": "8516949",
 		"updated_time": "Sun Mar 10 23:11:18 2024"
 	},
@@ -2075,7 +1949,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #aspects  #engineering  #software  #software_engineering  #theoretical  #theoretical_aspects ",
 		"tag_number": "6",
-		"pages": "441",
 		"file_size_byte": "18718829",
 		"updated_time": "Sat Feb  4 19:09:46 2023"
 	},
@@ -2085,7 +1958,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #C ",
 		"tag_number": "1",
-		"pages": "130",
 		"file_size_byte": "978841",
 		"updated_time": "Tue Jan 31 00:07:10 2023"
 	},
@@ -2093,9 +1965,8 @@
 		"title": "think C++",
 		"title_length_char": "9",
 		"title_length_word": "2",
-		"multi_tags": " #C++ ",
+		"multi_tags": " #C_pp ",
 		"tag_number": "1",
-		"pages": "191",
 		"file_size_byte": "842631",
 		"updated_time": "Tue Jan 31 00:07:18 2023"
 	},
@@ -2105,7 +1976,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #Java ",
 		"tag_number": "1",
-		"pages": "374",
 		"file_size_byte": "2002627",
 		"updated_time": "Tue Jan 31 00:01:44 2023"
 	},
@@ -2115,7 +1985,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #Python ",
 		"tag_number": "1",
-		"pages": "244",
 		"file_size_byte": "813882",
 		"updated_time": "Tue Jan 31 00:01:52 2023"
 	},
@@ -2125,7 +1994,6 @@
 		"title_length_word": "13",
 		"multi_tags": " #bad  #bad_science  #better  #good  #good_science  #how  #science  #thinking ",
 		"tag_number": "8",
-		"pages": "816",
 		"file_size_byte": "11088771",
 		"updated_time": "Wed Mar 13 14:36:19 2024"
 	},
@@ -2135,7 +2003,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #experiments  #thought  #thought_experiments ",
 		"tag_number": "3",
-		"pages": "137",
 		"file_size_byte": "3263382",
 		"updated_time": "Tue Jan 31 09:55:54 2023"
 	},
@@ -2143,9 +2010,8 @@
 		"title": "ultimate freedom beyond free will",
 		"title_length_char": "33",
 		"title_length_word": "5",
-		"multi_tags": " #beyond  #beyond_free  #free  #freedom  #freedom_beyond  #ultimate  #ultimate_freedom ",
-		"tag_number": "7",
-		"pages": "181",
+		"multi_tags": " #beyond  #beyond_free  #free  #freedom  #ultimate  #ultimate_freedom ",
+		"tag_number": "6",
 		"file_size_byte": "4502588",
 		"updated_time": "Sat Mar 16 21:03:37 2024"
 	},
@@ -2155,7 +2021,6 @@
 		"title_length_word": "5",
 		"multi_tags": " #guide  #technology  #user  #user_guide  #vacuum  #vacuum_technology ",
 		"tag_number": "6",
-		"pages": "579",
 		"file_size_byte": "10048697",
 		"updated_time": "Wed Mar 13 11:22:20 2024"
 	},
@@ -2165,7 +2030,6 @@
 		"title_length_word": "2",
 		"multi_tags": " #engineering  #vibration  #vibration_engineering ",
 		"tag_number": "3",
-		"pages": "109",
 		"file_size_byte": "31339771",
 		"updated_time": "Sun Apr 14 23:04:32 2024"
 	},
@@ -2175,7 +2039,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #concise  #concise_introduction  #introduction  #research  #thinking  #thinking_visually  #visual  #visual_research  #visually ",
 		"tag_number": "9",
-		"pages": "228",
 		"file_size_byte": "35601007",
 		"updated_time": "Tue Feb 27 22:01:34 2024"
 	},
@@ -2185,7 +2048,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #CSS  #HTML  #HTML_CSS  #design  #design_playground  #interactive  #playground  #playground_HTML  #web  #web_design ",
 		"tag_number": "10",
-		"pages": "442",
 		"file_size_byte": "75609256",
 		"updated_time": "Tue Feb 27 21:34:13 2024"
 	},
@@ -2195,7 +2057,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #Python  #scraping  #web  #web_scraping ",
 		"tag_number": "4",
-		"pages": "35",
 		"file_size_byte": "2115631",
 		"updated_time": "Wed Mar 20 00:33:14 2024"
 	},
@@ -2205,7 +2066,6 @@
 		"title_length_word": "9",
 		"multi_tags": " #analytics  #data  #data_driven  #driven  #driven_analytics  #engineer ",
 		"tag_number": "6",
-		"pages": "279",
 		"file_size_byte": "4725511",
 		"updated_time": "Sat Mar 16 21:52:14 2024"
 	},
@@ -2215,7 +2075,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #analysis  #engineer  #reliability  #risk  #risk_analysis ",
 		"tag_number": "5",
-		"pages": "481",
 		"file_size_byte": "6007915",
 		"updated_time": "Sat Mar 16 21:52:55 2024"
 	},
@@ -2225,7 +2084,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #engineer  #engineering  #management  #risk  #risk_engineering ",
 		"tag_number": "5",
-		"pages": "265",
 		"file_size_byte": "20874529",
 		"updated_time": "Thu Jan 25 16:42:09 2024"
 	},
@@ -2235,7 +2093,6 @@
 		"title_length_word": "8",
 		"multi_tags": " #cities  #engineer  #smart  #smart_cities ",
 		"tag_number": "4",
-		"pages": "254",
 		"file_size_byte": "17310199",
 		"updated_time": "Sat Mar 16 21:51:42 2024"
 	},
@@ -2245,7 +2102,6 @@
 		"title_length_word": "10",
 		"multi_tags": " #engineer  #internet  #things ",
 		"tag_number": "3",
-		"pages": "217",
 		"file_size_byte": "6416653",
 		"updated_time": "Wed Feb  7 16:32:32 2024"
 	},
@@ -2255,7 +2111,6 @@
 		"title_length_word": "13",
 		"multi_tags": " #leading  #science  #science_leading  #where ",
 		"tag_number": "4",
-		"pages": "341",
 		"file_size_byte": "5569253",
 		"updated_time": "Sun Apr 14 21:46:23 2024"
 	},
@@ -2265,7 +2120,6 @@
 		"title_length_word": "4",
 		"multi_tags": " #communication  #engineer  #written  #written_communication ",
 		"tag_number": "4",
-		"pages": "222",
 		"file_size_byte": "18597873",
 		"updated_time": "Mon Jan 30 23:57:12 2023"
 	}

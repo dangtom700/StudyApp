@@ -4,37 +4,37 @@
 
 | Characteristic| Title Length (char)| Title Length (word)|
 | --- | --- | --- |
-| Minimum | 42 | 6 |
-| Maximum | 34 | 4 |
-| Total | 11697 | 1602 |
-| Avarage | 51.757 | 7.088 |
-| Harmonic Mean | 37.973 | 5.201 |
-| Median | 47.0 | 7.0 |
+| Minimum | 7 | 1 |
+| Maximum | 131 | 18 |
+| Total | 12116 | 1652 |
+| Avarage | 51.557 | 7.03 |
+| Harmonic Mean | 38.057 | 5.17 |
+| Median | 47 | 7 |
 | Median Low | 47 | 7 |
 | Median High | 47 | 7 |
 | Mode | 32 | 4 |
-| Population Standard Deviation | 25.322 | 3.58 |
-| Standard Deviation | 25.378 | 3.588 |
-| Population Variance | 641.193 | 12.815 |
-| Variance | 644.043 | 12.872 |
+| Population Standard Deviation | 25.039 | 3.551 |
+| Standard Deviation | 25.092 | 3.558 |
+| Population Variance | 626.953 | 12.608 |
+| Variance | 629.632 | 12.662 |
 
 ## Keywords Stat
 
-| Characteristic| Tag Number | Pages | File Size (byte)|
+| Characteristic| Tag Number | File Size (byte)|
 | --- | --- | --- | --- |
-| Minimum | 8 | 340 | 14410508 |
-| Maximum | 4 | 222 | 18597873 |
-| Total | 1637 | 95497 | 5245301071 |
-| Avarage | 7.243 | 422.553 | 23209296.774 |
-| Harmonic Mean | 4.928 | 287.583 | 6592485.425 |
-| Median | 7.0 | 331.0 | 12130089.0 |
-| Median Low | 7 | 330 | 12111235 |
-| Median High | 7 | 332 | 12148943 |
-| Mode | 4 | 263 | 14410508 |
-| Population Standard Deviation | 3.808 | 287.866 | 44197999.017 |
-| Standard Deviation | 3.817 | 288.505 | 44296107.904 |
-| Population Variance | 14.503 | 82866.743 | 1953463117136428.2 |
-| Variance | 14.567 | 83235.039 | 1962145175434812.5 |
+| Minimum | 1 | 715675 |
+| Maximum | 19 | 541870406 |
+| Total | 1691 | 5692223006 |
+| Avarage | 7.196 | 24222225.557 |
+| Harmonic Mean | 4.946 | 6623221.575 |
+| Median | 7 | 12148943 |
+| Median Low | 7 | 12148943 |
+| Median High | 7 | 12148943 |
+| Mode | 4 | 14410508 |
+| Population Standard Deviation | 3.725 | 45388255.501 |
+| Standard Deviation | 3.733 | 45485135.559 |
+| Population Variance | 13.877 | 2060093737423480.0 |
+| Variance | 13.936 | 2068897556814178.8 |
 
 ## Time Stamp History
 
@@ -113,5 +113,8 @@ Start at 2017-08-03 02:31:44
 => 2024-04-18 19:39:56 => 2024-04-23 10:32:31 => 2024-05-02 17:31:28
 => 2024-05-02 17:32:46 => 2024-05-02 17:42:33 => 2024-05-02 17:45:56
 => 2024-05-02 17:48:41 => 2024-05-02 17:49:27 => 2024-05-02 17:52:00
-=> 2024-05-02 17:54:24 => 2024-05-02 17:59:02
-Most Recent at 2024-05-02 18:00:43
+=> 2024-05-02 17:54:24 => 2024-05-02 17:59:02 => 2024-05-02 18:00:43
+=> 2024-05-08 12:51:30 => 2024-05-08 12:51:42 => 2024-05-08 13:11:06
+=> 2024-05-08 13:16:49 => 2024-05-08 15:47:03 => 2024-05-08 15:48:59
+=> 2024-05-08 17:39:45 => 2024-05-08 17:40:00
+Most Recent at 2024-05-08 17:40:26
