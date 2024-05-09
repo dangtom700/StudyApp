@@ -20,21 +20,21 @@
 
 ## Keywords Stat
 
-| Characteristic| Tag Number | File Size (byte)|
+| Characteristic| Tag Number | File Size (Kb)|
 | --- | --- | --- | --- |
-| Minimum | 1 | 715675 |
-| Maximum | 19 | 541870406 |
-| Total | 1691 | 5692223006 |
-| Avarage | 7.196 | 24222225.557 |
-| Harmonic Mean | 4.946 | 6623221.575 |
-| Median | 7 | 12148943 |
-| Median Low | 7 | 12148943 |
-| Median High | 7 | 12148943 |
-| Mode | 4 | 14410508 |
-| Population Standard Deviation | 3.725 | 45388255.501 |
-| Standard Deviation | 3.733 | 45485135.559 |
-| Population Variance | 13.877 | 2060093737423480.0 |
-| Variance | 13.936 | 2068897556814178.8 |
+| Minimum | 1 | 699 |
+| Maximum | 19 | 529171 |
+| Total | 1691 | 5558939 |
+| Avarage | 7.196 | 23655.06 |
+| Harmonic Mean | 4.946 | 6469.002 |
+| Median | 7 | 11865 |
+| Median Low | 7 | 11865 |
+| Median High | 7 | 11865 |
+| Mode | 4 | 1956 |
+| Population Standard Deviation | 3.725 | 44324.479 |
+| Standard Deviation | 3.733 | 44419.088 |
+| Population Variance | 13.877 | 1964659436.754 |
+| Variance | 13.936 | 1973055417.253 |
 
 ## Time Stamp History
 

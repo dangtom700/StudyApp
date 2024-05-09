@@ -5,7 +5,7 @@
 		"title_length_word": "Title Length (word)",
 		"multi_tags": "Multi-Tags",
 		"tag_number": "Tag Number",
-		"file_size_byte": "File Size (byte)",
+		"file_size_byte": "File Size (Kb)",
 		"updated_time": "Updated Time"
 	},
 	{
@@ -14,7 +14,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #C_pp  #financial  #financial_systems  #high  #high_performance  #performance  #systems ",
 		"tag_number": "7",
-		"file_size_byte": "14410508",
+		"file_size_byte": "14073",
 		"updated_time": "Sun, Apr 14, 2024, 23:30:45"
 	},
 	{
@@ -23,7 +23,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #GML  #GML_programming  #GameMaker  #GameMaker_fundamentals  #amazing  #amazing_game  #fundamentals  #fundamentals_learn  #game  #learn  #learn_GML  #programming ",
 		"tag_number": "12",
-		"file_size_byte": "30067432",
+		"file_size_byte": "29363",
 		"updated_time": "Sat, Feb 04, 2023, 19:14:04"
 	},
 	{
@@ -32,7 +32,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #CSS  #HTML  #HTML_CSS  #JavaScript  #dummies ",
 		"tag_number": "5",
-		"file_size_byte": "26199259",
+		"file_size_byte": "25586",
 		"updated_time": "Mon, Oct 09, 2023, 14:24:47"
 	},
 	{
@@ -41,7 +41,7 @@
 		"title_length_word": "13",
 		"multi_tags": " #AI  #AI_automation  #I  #I_human  #automation  #guest  #human  #human_AI  #reclaim  #unique ",
 		"tag_number": "10",
-		"file_size_byte": "9796810",
+		"file_size_byte": "9568",
 		"updated_time": "Sun, Mar 31, 2024, 23:10:58"
 	},
 	{
@@ -50,7 +50,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #JavaScript  #JavaScript_programming  #design  #design_expressions  #development  #expressions  #programming  #programming_security  #security  #security_design  #web  #web_development ",
 		"tag_number": "12",
-		"file_size_byte": "9539357",
+		"file_size_byte": "9316",
 		"updated_time": "Mon, Oct 09, 2023, 14:21:17"
 	},
 	{
@@ -59,7 +59,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #MEMs  #MEMs_design  #design  #fabrication ",
 		"tag_number": "4",
-		"file_size_byte": "16176723",
+		"file_size_byte": "15798",
 		"updated_time": "Wed, May 08, 2024, 17:40:00"
 	},
 	{
@@ -68,7 +68,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #PowerShell  #PowerShell_essential  #automation  #essential  #essential_guide  #fundamentals  #guide  #guide_mastering  #mastering  #scripting ",
 		"tag_number": "10",
-		"file_size_byte": "16792845",
+		"file_size_byte": "16400",
 		"updated_time": "Sun, Mar 31, 2024, 23:22:05"
 	},
 	{
@@ -77,7 +77,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #GUI  #PyQt5  #Python  #Python_GUI ",
 		"tag_number": "4",
-		"file_size_byte": "9642077",
+		"file_size_byte": "9417",
 		"updated_time": "Sun, Feb 18, 2024, 22:53:15"
 	},
 	{
@@ -86,7 +86,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #Python  #dummies ",
 		"tag_number": "2",
-		"file_size_byte": "42877092",
+		"file_size_byte": "41873",
 		"updated_time": "Fri, Oct 21, 2022, 22:21:00"
 	},
 	{
@@ -95,7 +95,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #Python  #Python_crash  #course  #crash  #crash_course  #hand-on  #hand-on_project-based  #introduction  #programming  #project-based  #project-based_introduction ",
 		"tag_number": "11",
-		"file_size_byte": "6548285",
+		"file_size_byte": "6395",
 		"updated_time": "Sun, Feb 18, 2024, 22:53:32"
 	},
 	{
@@ -104,7 +104,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #Python  #Python_programming  #fundamentals  #programming  #programming_fundamentals ",
 		"tag_number": "5",
-		"file_size_byte": "7409818",
+		"file_size_byte": "7237",
 		"updated_time": "Sat, Feb 04, 2023, 19:21:12"
 	},
 	{
@@ -113,7 +113,7 @@
 		"title_length_word": "13",
 		"multi_tags": " #Anaconda  #Anaconda_Jupyterlab  #Jupyterlab  #Python  #Python_scientific  #Python_tools  #introduction  #libraries  #scientific  #scientific_libraries  #scientist  #tools ",
 		"tag_number": "12",
-		"file_size_byte": "35367204",
+		"file_size_byte": "34539",
 		"updated_time": "Sun, Feb 18, 2024, 22:54:10"
 	},
 	{
@@ -122,7 +122,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #C_pp  #C_pp_GUI  #GUI  #GUI_programming  #Qt6  #Qt6_C_pp  #cookbook  #programming  #programming_cookbook ",
 		"tag_number": "9",
-		"file_size_byte": "24324114",
+		"file_size_byte": "23755",
 		"updated_time": "Sun, Apr 14, 2024, 23:30:46"
 	},
 	{
@@ -131,7 +131,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #React  #design  #design_patterns  #patterns ",
 		"tag_number": "4",
-		"file_size_byte": "13419001",
+		"file_size_byte": "13105",
 		"updated_time": "Thu, Jan 25, 2024, 16:42:32"
 	},
 	{
@@ -140,7 +140,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #UX  #business  #companies  #design  #design_valuable  #digital  #digital_companies  #how  #valuable  #valuable_digital ",
 		"tag_number": "10",
-		"file_size_byte": "7046213",
+		"file_size_byte": "6882",
 		"updated_time": "Tue, Feb 27, 2024, 21:29:27"
 	},
 	{
@@ -149,7 +149,7 @@
 		"title_length_word": "11",
 		"multi_tags": " #UX  #UX_lifecycle  #business  #business_guide  #experiences  #great  #great_software  #guide  #implementing  #lifecycle  #software  #software_user  #user  #user_experiences ",
 		"tag_number": "14",
-		"file_size_byte": "1877589",
+		"file_size_byte": "1834",
 		"updated_time": "Wed, Apr 17, 2024, 20:18:44"
 	},
 	{
@@ -158,7 +158,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #VBA  #VBA_guru  #art  #automation  #guru  #guru_mastering  #mastering ",
 		"tag_number": "7",
-		"file_size_byte": "3976973",
+		"file_size_byte": "3884",
 		"updated_time": "Sun, Mar 31, 2024, 23:22:02"
 	},
 	{
@@ -167,7 +167,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #approach  #human  #human_resources  #mathematical  #mathematical_approach  #resources ",
 		"tag_number": "6",
-		"file_size_byte": "4682894",
+		"file_size_byte": "4574",
 		"updated_time": "Sun, Apr 14, 2024, 22:21:05"
 	},
 	{
@@ -176,7 +176,7 @@
 		"title_length_word": "13",
 		"multi_tags": " #AI  #AI_machine  #advanced  #applications  #computer  #computer_science  #learning  #machine  #machine_learning  #network  #network_security  #recent  #recent_trends  #science  #science_applications  #security  #trends ",
 		"tag_number": "17",
-		"file_size_byte": "22561847",
+		"file_size_byte": "22034",
 		"updated_time": "Sun, Apr 14, 2024, 19:58:19"
 	},
 	{
@@ -185,7 +185,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #AI  #age  #agency  #agency_rise  #rise ",
 		"tag_number": "5",
-		"file_size_byte": "6136439",
+		"file_size_byte": "5993",
 		"updated_time": "Sat, Mar 16, 2024, 21:23:06"
 	},
 	{
@@ -194,7 +194,7 @@
 		"title_length_word": "11",
 		"multi_tags": " #age  #present  #progress  #revolutions  #revolutions_progress ",
 		"tag_number": "5",
-		"file_size_byte": "10966094",
+		"file_size_byte": "10710",
 		"updated_time": "Sun, Apr 14, 2024, 23:30:45"
 	},
 	{
@@ -203,7 +203,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #analysis  #dynamics  #dynamics_modelling  #economic  #economic_dynamics  #introduction  #modelling  #modelling_analysis  #simulation ",
 		"tag_number": "9",
-		"file_size_byte": "5901529",
+		"file_size_byte": "5764",
 		"updated_time": "Thu, Mar 28, 2024, 19:46:32"
 	},
 	{
@@ -212,7 +212,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #information  #information_science  #introduction  #science ",
 		"tag_number": "4",
-		"file_size_byte": "24556120",
+		"file_size_byte": "23981",
 		"updated_time": "Thu, Apr 18, 2024, 19:34:57"
 	},
 	{
@@ -221,7 +221,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #applications  #deep  #deep_learning  #game  #game_theory  #learning  #theory ",
 		"tag_number": "7",
-		"file_size_byte": "1917121",
+		"file_size_byte": "1873",
 		"updated_time": "Sun, Apr 14, 2024, 19:59:26"
 	},
 	{
@@ -230,7 +230,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #artificial  #artificial_intelligence  #challenges  #intelligence  #issues  #issues_opportunities  #opportunities  #society ",
 		"tag_number": "8",
-		"file_size_byte": "40730185",
+		"file_size_byte": "39776",
 		"updated_time": "Sun, Mar 10, 2024, 23:20:31"
 	},
 	{
@@ -239,7 +239,7 @@
 		"title_length_word": "11",
 		"multi_tags": " #AIoT  #AIoT_new  #artificial  #artificial_intelligence  #communication  #communication_systems  #intelligence  #new  #new_standards  #standards  #standards_technology  #systems  #technology  #things  #things_AIoT ",
 		"tag_number": "15",
-		"file_size_byte": "9701949",
+		"file_size_byte": "9475",
 		"updated_time": "Sun, Mar 10, 2024, 23:34:38"
 	},
 	{
@@ -248,7 +248,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #autonomous  #autonomous_mobile  #mobile  #mobile_robots  #navigation  #planning  #planning_navigation  #robots  #robots_planning  #simulation ",
 		"tag_number": "10",
-		"file_size_byte": "58020475",
+		"file_size_byte": "56661",
 		"updated_time": "Thu, Mar 28, 2024, 20:32:57"
 	},
 	{
@@ -257,7 +257,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #basic  #basic_engineering  #engineering  #engineering_science  #science ",
 		"tag_number": "5",
-		"file_size_byte": "26521141",
+		"file_size_byte": "25900",
 		"updated_time": "Tue, Jan 31, 2023, 00:36:14"
 	},
 	{
@@ -266,7 +266,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #accounting  #approach  #basic  #basic_engineering  #engineering  #engineering_science  #modelling  #modelling_approach  #science  #systems  #systems_accounting ",
 		"tag_number": "11",
-		"file_size_byte": "12508265",
+		"file_size_byte": "12216",
 		"updated_time": "Mon, Jan 30, 2023, 23:50:14"
 	},
 	{
@@ -275,7 +275,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #basic  #basic_gambling  #behind  #gambling  #gambling_mathematics  #mathematics  #neon  #number  #number_behind ",
 		"tag_number": "9",
-		"file_size_byte": "22490379",
+		"file_size_byte": "21964",
 		"updated_time": "Wed, Apr 17, 2024, 19:37:54"
 	},
 	{
@@ -284,7 +284,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #basic  #digital  #digital_electronics  #electronics ",
 		"tag_number": "4",
-		"file_size_byte": "13960395",
+		"file_size_byte": "13634",
 		"updated_time": "Sun, Mar 10, 2024, 22:49:17"
 	},
 	{
@@ -293,7 +293,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #applications  #battery  #battery_management  #management  #management_systems  #systems ",
 		"tag_number": "6",
-		"file_size_byte": "25049320",
+		"file_size_byte": "24463",
 		"updated_time": "Wed, Mar 13, 2024, 11:50:39"
 	},
 	{
@@ -302,7 +302,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #analysis  #analysis_philosophy  #brief  #brief_history  #concepts  #history  #number  #philosophy  #philosophy_concepts ",
 		"tag_number": "9",
-		"file_size_byte": "3562698",
+		"file_size_byte": "3480",
 		"updated_time": "Tue, Jan 31, 2023, 21:10:34"
 	},
 	{
@@ -311,7 +311,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #brief  #brief_journey  #discrete  #discrete_mathematics  #journey  #mathematics ",
 		"tag_number": "6",
-		"file_size_byte": "1720385",
+		"file_size_byte": "1681",
 		"updated_time": "Tue, Jan 31, 2023, 21:15:22"
 	},
 	{
@@ -320,7 +320,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #action  #business ",
 		"tag_number": "2",
-		"file_size_byte": "12696436",
+		"file_size_byte": "12399",
 		"updated_time": "Mon, Mar 11, 2024, 00:09:33"
 	},
 	{
@@ -329,7 +329,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #clean  #clean_numerical  #numerical  #numerical_simulation  #simulation ",
 		"tag_number": "5",
-		"file_size_byte": "24154803",
+		"file_size_byte": "23589",
 		"updated_time": "Thu, Mar 28, 2024, 19:44:24"
 	},
 	{
@@ -338,7 +338,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #closing  #designers  #loop  #loop_systems  #systems  #systems_thinking  #thinking ",
 		"tag_number": "7",
-		"file_size_byte": "7685053",
+		"file_size_byte": "7505",
 		"updated_time": "Wed, Mar 20, 2024, 00:33:14"
 	},
 	{
@@ -347,7 +347,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #age  #age_symbols  #communication  #history  #media  #social  #social_media  #stone  #stone_age  #symbols ",
 		"tag_number": "10",
-		"file_size_byte": "12930637",
+		"file_size_byte": "12628",
 		"updated_time": "Sun, Mar 17, 2024, 22:22:40"
 	},
 	{
@@ -356,7 +356,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #archaeology  #companion ",
 		"tag_number": "2",
-		"file_size_byte": "5704318",
+		"file_size_byte": "5571",
 		"updated_time": "Wed, Mar 13, 2024, 11:14:01"
 	},
 	{
@@ -365,7 +365,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #Blender  #Blender_graphics  #animation  #complete  #complete_guide  #computer  #computer_modelling  #graphics  #graphics_computer  #guide  #modelling ",
 		"tag_number": "11",
-		"file_size_byte": "136253777",
+		"file_size_byte": "133061",
 		"updated_time": "Thu, Oct 26, 2023, 13:58:30"
 	},
 	{
@@ -374,7 +374,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #contemporary  #contemporary_engineering  #economics  #engineering  #engineering_economics ",
 		"tag_number": "5",
-		"file_size_byte": "131652496",
+		"file_size_byte": "128567",
 		"updated_time": "Wed, May 08, 2024, 15:47:03"
 	},
 	{
@@ -383,7 +383,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #basic  #control  #control_basic  #mechatronics ",
 		"tag_number": "4",
-		"file_size_byte": "14956550",
+		"file_size_byte": "14607",
 		"updated_time": "Mon, Jan 29, 2024, 23:31:02"
 	},
 	{
@@ -392,7 +392,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #control  #control_engineering  #engineering  #mechatronics ",
 		"tag_number": "4",
-		"file_size_byte": "44010430",
+		"file_size_byte": "42979",
 		"updated_time": "Sun, Feb 11, 2024, 20:28:25"
 	},
 	{
@@ -401,7 +401,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #control  #control_handbook  #control_systems  #fundamentals  #handbook  #handbook_control  #systems  #systems_fundamentals ",
 		"tag_number": "8",
-		"file_size_byte": "11209007",
+		"file_size_byte": "10947",
 		"updated_time": "Wed, Feb 07, 2024, 17:18:42"
 	},
 	{
@@ -410,7 +410,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #control  #control_systems  #engineering  #systems  #systems_engineering ",
 		"tag_number": "5",
-		"file_size_byte": "11956430",
+		"file_size_byte": "11677",
 		"updated_time": "Thu, Feb 29, 2024, 13:41:18"
 	},
 	{
@@ -419,7 +419,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #convergent  #convergent_journalism  #introduction  #introduction_writing  #journalism  #media  #producing  #writing ",
 		"tag_number": "8",
-		"file_size_byte": "12111235",
+		"file_size_byte": "11828",
 		"updated_time": "Sun, Mar 17, 2024, 22:22:57"
 	},
 	{
@@ -428,7 +428,7 @@
 		"title_length_word": "16",
 		"multi_tags": " #analysis  #analysis_guide  #beginners  #beginners_journey  #data  #data_science  #essential  #guide  #journey  #science ",
 		"tag_number": "10",
-		"file_size_byte": "1442699",
+		"file_size_byte": "1409",
 		"updated_time": "Sun, Apr 14, 2024, 23:30:47"
 	},
 	{
@@ -437,7 +437,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #Python  #R  #R_Python  #data  #data_science  #fundamentals  #open  #open_data  #science  #science_fundamentals ",
 		"tag_number": "10",
-		"file_size_byte": "7813527",
+		"file_size_byte": "7631",
 		"updated_time": "Sun, Apr 14, 2024, 23:30:46"
 	},
 	{
@@ -446,7 +446,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #C  #C_theory  #data  #data_structure  #program  #structure  #theory ",
 		"tag_number": "7",
-		"file_size_byte": "6302169",
+		"file_size_byte": "6155",
 		"updated_time": "Sun, Mar 03, 2024, 19:12:52"
 	},
 	{
@@ -455,7 +455,7 @@
 		"title_length_word": "14",
 		"multi_tags": " #algorithms  #beginners  #coding  #coding_techniques  #data  #data_structures  #efficient  #efficient_coding  #ground  #structures  #techniques  #unlocking  #unlocking_efficient ",
 		"tag_number": "13",
-		"file_size_byte": "13052778",
+		"file_size_byte": "12747",
 		"updated_time": "Sun, Apr 14, 2024, 22:34:33"
 	},
 	{
@@ -464,7 +464,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #concepts  #deep  #deep_learning  #foundation  #learning  #learning_foundation ",
 		"tag_number": "6",
-		"file_size_byte": "49578553",
+		"file_size_byte": "48417",
 		"updated_time": "Wed, Mar 13, 2024, 12:15:40"
 	},
 	{
@@ -473,7 +473,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #design  #design_thinking  #designers  #how  #thinking  #thinking_understanding  #understanding  #understanding_how  #work ",
 		"tag_number": "9",
-		"file_size_byte": "14301547",
+		"file_size_byte": "13967",
 		"updated_time": "Tue, Feb 27, 2024, 21:53:22"
 	},
 	{
@@ -482,7 +482,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #Figma  #designers  #designers_guide  #guide ",
 		"tag_number": "4",
-		"file_size_byte": "18548213",
+		"file_size_byte": "18114",
 		"updated_time": "Thu, Jan 25, 2024, 16:42:45"
 	},
 	{
@@ -491,7 +491,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #design  #design_studies  #designing  #designing_knowledge  #emerging  #emerging_perspectives  #knowledge  #knowledge_emerging  #perspectives  #practices  #studies  #studies_practices ",
 		"tag_number": "12",
-		"file_size_byte": "55930044",
+		"file_size_byte": "54620",
 		"updated_time": "Tue, Feb 27, 2024, 21:29:19"
 	},
 	{
@@ -500,7 +500,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #differential  #differential_equation  #emerging  #emerging_real  #equation  #problems  #real  #real_time  #solutions  #time  #time_problems ",
 		"tag_number": "11",
-		"file_size_byte": "11679056",
+		"file_size_byte": "11406",
 		"updated_time": "Wed, Feb 07, 2024, 16:38:22"
 	},
 	{
@@ -509,7 +509,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #artificial  #artificial_intelligence  #critique  #digital  #digital_habitus  #habitus  #imaginaries  #intelligence ",
 		"tag_number": "8",
-		"file_size_byte": "8713901",
+		"file_size_byte": "8510",
 		"updated_time": "Wed, Apr 17, 2024, 19:53:01"
 	},
 	{
@@ -518,7 +518,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #control  #design  #design_modelling  #distributed  #distributed_energy  #energy  #energy_systems  #modelling  #systems  #systems_design ",
 		"tag_number": "10",
-		"file_size_byte": "17165016",
+		"file_size_byte": "16763",
 		"updated_time": "Wed, Feb 07, 2024, 16:23:45"
 	},
 	{
@@ -527,7 +527,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #create  #create_knowledge  #humanities  #humanities_create  #knowledge ",
 		"tag_number": "5",
-		"file_size_byte": "1603309",
+		"file_size_byte": "1566",
 		"updated_time": "Thu, May 02, 2024, 17:59:02"
 	},
 	{
@@ -536,7 +536,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #cultures  #economics  #engineering  #engineering_institutions  #institutions  #institutions_practices  #practices ",
 		"tag_number": "7",
-		"file_size_byte": "3046985",
+		"file_size_byte": "2976",
 		"updated_time": "Wed, May 08, 2024, 17:39:45"
 	},
 	{
@@ -545,7 +545,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #effective  #effective_machine  #learning  #learning_teams  #machine  #machine_learning  #teams ",
 		"tag_number": "7",
-		"file_size_byte": "1174470",
+		"file_size_byte": "1147",
 		"updated_time": "Sat, Mar 02, 2024, 11:13:17"
 	},
 	{
@@ -554,7 +554,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #analysis  #circuit  #circuit_analysis  #electric  #electric_circuit ",
 		"tag_number": "5",
-		"file_size_byte": "14572365",
+		"file_size_byte": "14231",
 		"updated_time": "Thu, Jan 25, 2024, 16:42:22"
 	},
 	{
@@ -563,7 +563,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #electronics  #scientist ",
 		"tag_number": "2",
-		"file_size_byte": "13717349",
+		"file_size_byte": "13396",
 		"updated_time": "Sun, Mar 10, 2024, 22:55:55"
 	},
 	{
@@ -572,7 +572,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #element  #robotics ",
 		"tag_number": "2",
-		"file_size_byte": "9672875",
+		"file_size_byte": "9447",
 		"updated_time": "Tue, Jan 31, 2023, 09:36:58"
 	},
 	{
@@ -581,7 +581,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #design  #embedded  #embedded_systems  #handbook  #handbook_systems  #systems  #systems_design  #systems_handbook  #verification ",
 		"tag_number": "9",
-		"file_size_byte": "170124456",
+		"file_size_byte": "166138",
 		"updated_time": "Sun, Feb 19, 2023, 09:06:32"
 	},
 	{
@@ -590,7 +590,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #buildings  #efficient  #efficient_electrical  #electrical  #electrical_systems  #energy  #energy_efficient  #systems ",
 		"tag_number": "8",
-		"file_size_byte": "29431517",
+		"file_size_byte": "28742",
 		"updated_time": "Mon, Jan 29, 2024, 23:29:00"
 	},
 	{
@@ -599,7 +599,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #economics  #engineering  #engineering_economics ",
 		"tag_number": "3",
-		"file_size_byte": "192164082",
+		"file_size_byte": "187661",
 		"updated_time": "Wed, May 08, 2024, 17:40:26"
 	},
 	{
@@ -608,7 +608,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #decision  #decision_making  #economics  #economics_financial  #engineering  #engineering_economics  #engineers  #financial  #financial_decision  #making ",
 		"tag_number": "10",
-		"file_size_byte": "4117976",
+		"file_size_byte": "4022",
 		"updated_time": "Wed, May 08, 2024, 15:48:59"
 	},
 	{
@@ -617,7 +617,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #computing  #engineering  #engineering_mathematics  #mathematics ",
 		"tag_number": "4",
-		"file_size_byte": "5655269",
+		"file_size_byte": "5523",
 		"updated_time": "Tue, Jan 31, 2023, 10:08:22"
 	},
 	{
@@ -626,7 +626,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #engineering  #engineering_measurement  #instrumentation  #measurement ",
 		"tag_number": "4",
-		"file_size_byte": "2653739",
+		"file_size_byte": "2592",
 		"updated_time": "Tue, Jan 31, 2023, 09:38:44"
 	},
 	{
@@ -635,7 +635,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #dynamics  #engineering  #engineering_mechanics  #mechanics  #mechanics_dynamics ",
 		"tag_number": "5",
-		"file_size_byte": "116982098",
+		"file_size_byte": "114241",
 		"updated_time": "Mon, Jan 29, 2024, 23:13:16"
 	},
 	{
@@ -644,7 +644,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #dynamics  #engineering  #engineering_mechanics  #mechanics  #mechanics_dynamics ",
 		"tag_number": "5",
-		"file_size_byte": "49922324",
+		"file_size_byte": "48753",
 		"updated_time": "Thu, Jan 25, 2024, 16:46:05"
 	},
 	{
@@ -653,7 +653,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #control  #engineering  #engineering_noise  #noise  #noise_control ",
 		"tag_number": "5",
-		"file_size_byte": "12148943",
+		"file_size_byte": "11865",
 		"updated_time": "Sun, Mar 10, 2024, 22:39:35"
 	},
 	{
@@ -662,7 +662,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #engineering  #engineering_statics  #interactive  #open  #statics  #statics_open ",
 		"tag_number": "6",
-		"file_size_byte": "15453801",
+		"file_size_byte": "15092",
 		"updated_time": "Tue, Jan 31, 2023, 00:32:56"
 	},
 	{
@@ -671,7 +671,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #HTML  #essential  #essential_guide  #guide ",
 		"tag_number": "4",
-		"file_size_byte": "15486408",
+		"file_size_byte": "15124",
 		"updated_time": "Sat, Feb 04, 2023, 19:14:18"
 	},
 	{
@@ -680,7 +680,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #biology  #essential ",
 		"tag_number": "2",
-		"file_size_byte": "541870406",
+		"file_size_byte": "529171",
 		"updated_time": "Mon, Mar 11, 2024, 00:14:46"
 	},
 	{
@@ -689,7 +689,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #essential  #information  #information_systems  #management  #management_information  #systems ",
 		"tag_number": "6",
-		"file_size_byte": "15216413",
+		"file_size_byte": "14860",
 		"updated_time": "Sun, Mar 10, 2024, 23:56:00"
 	},
 	{
@@ -698,7 +698,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #essential  #oceanography ",
 		"tag_number": "2",
-		"file_size_byte": "95295104",
+		"file_size_byte": "93062",
 		"updated_time": "Sat, Mar 16, 2024, 21:29:41"
 	},
 	{
@@ -707,7 +707,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #cookbook  #excel  #excel_cookbook ",
 		"tag_number": "3",
-		"file_size_byte": "2255896",
+		"file_size_byte": "2204",
 		"updated_time": "Wed, Mar 13, 2024, 12:02:24"
 	},
 	{
@@ -716,7 +716,7 @@
 		"title_length_word": "11",
 		"multi_tags": " #engaging  #engaging_game  #exploring  #exploring_game  #fun  #fun_engaging  #game  #game_mechanics  #mechanics  #mechanics_principles  #principles  #technology ",
 		"tag_number": "12",
-		"file_size_byte": "9514994",
+		"file_size_byte": "9292",
 		"updated_time": "Sat, Feb 04, 2023, 19:09:22"
 	},
 	{
@@ -725,7 +725,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #design  #fabrication  #microdevices  #resonant  #resonant_microdevices ",
 		"tag_number": "5",
-		"file_size_byte": "3197103",
+		"file_size_byte": "3123",
 		"updated_time": "Wed, May 08, 2024, 13:11:06"
 	},
 	{
@@ -734,7 +734,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #drawing  #figure  #figure_drawing  #worth ",
 		"tag_number": "4",
-		"file_size_byte": "24912228",
+		"file_size_byte": "24329",
 		"updated_time": "Thu, Aug 24, 2017, 05:51:40"
 	},
 	{
@@ -743,7 +743,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #fluid  #fluid_mechanics  #mechanics ",
 		"tag_number": "3",
-		"file_size_byte": "80852145",
+		"file_size_byte": "78958",
 		"updated_time": "Mon, Jan 29, 2024, 23:14:31"
 	},
 	{
@@ -752,7 +752,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #basic  #basic_concepts  #concepts  #fluid  #fluid_mechanics  #mechanics  #mechanics_basic  #principles ",
 		"tag_number": "8",
-		"file_size_byte": "44764728",
+		"file_size_byte": "43716",
 		"updated_time": "Sun, Feb 19, 2023, 09:12:44"
 	},
 	{
@@ -761,7 +761,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #basic  #basic_concepts  #concepts  #fluid  #fluid_mechanics  #mechanics  #mechanics_basic  #principles ",
 		"tag_number": "8",
-		"file_size_byte": "9490885",
+		"file_size_byte": "9269",
 		"updated_time": "Sun, Feb 19, 2023, 09:00:10"
 	},
 	{
@@ -770,7 +770,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #Python  #data  #data_science  #foundation  #science ",
 		"tag_number": "5",
-		"file_size_byte": "50917248",
+		"file_size_byte": "49724",
 		"updated_time": "Sun, Feb 18, 2024, 22:37:08"
 	},
 	{
@@ -779,7 +779,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #foundation  #information  #information_science  #library  #science ",
 		"tag_number": "5",
-		"file_size_byte": "6239752",
+		"file_size_byte": "6094",
 		"updated_time": "Thu, Apr 18, 2024, 19:39:56"
 	},
 	{
@@ -788,7 +788,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #engineer  #fluid  #fluid_mechanics  #fundamentals  #mechanics  #scientist ",
 		"tag_number": "6",
-		"file_size_byte": "10822990",
+		"file_size_byte": "10570",
 		"updated_time": "Mon, Dec 25, 2023, 20:23:00"
 	},
 	{
@@ -797,7 +797,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #data  #data_information  #fundamentals  #information  #knowledge  #knowledge_management  #management  #management_succeed  #matedata  #matedata_management  #succeed  #succeed_data ",
 		"tag_number": "12",
-		"file_size_byte": "2124183",
+		"file_size_byte": "2075",
 		"updated_time": "Thu, May 02, 2024, 17:45:56"
 	},
 	{
@@ -806,7 +806,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #fundamentals  #microelectronics ",
 		"tag_number": "2",
-		"file_size_byte": "6889752",
+		"file_size_byte": "6729",
 		"updated_time": "Mon, Dec 25, 2023, 20:18:15"
 	},
 	{
@@ -815,7 +815,7 @@
 		"title_length_word": "16",
 		"multi_tags": " #audio  #audio_fundamentals  #creation  #fundamentals  #game  #game_audio  #games  #introduction  #planning  #practice  #soundscape  #soundscape_creation  #theory  #theory_planning ",
 		"tag_number": "14",
-		"file_size_byte": "19522613",
+		"file_size_byte": "19066",
 		"updated_time": "Wed, Apr 17, 2024, 19:38:17"
 	},
 	{
@@ -824,7 +824,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #Azure  #Microsoft  #Microsoft_Azure  #PlayFab  #backend  #backend_development  #development  #game  #game_backend ",
 		"tag_number": "9",
-		"file_size_byte": "6621589",
+		"file_size_byte": "6467",
 		"updated_time": "Sat, Feb 04, 2023, 19:14:08"
 	},
 	{
@@ -833,7 +833,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #card  #card_games  #collectible  #collectible_card  #deep  #deep_dive  #design  #dive  #dive_trading  #game  #game_design  #games  #trading ",
 		"tag_number": "13",
-		"file_size_byte": "32030216",
+		"file_size_byte": "31280",
 		"updated_time": "Wed, Apr 17, 2024, 20:13:28"
 	},
 	{
@@ -842,7 +842,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #approach  #cognitive  #cognitive_psychological  #design  #design_tools  #game  #game_design  #practical  #practical_approach  #psychological  #tools  #tools_cognitive ",
 		"tag_number": "12",
-		"file_size_byte": "10340820",
+		"file_size_byte": "10099",
 		"updated_time": "Tue, Feb 27, 2024, 21:42:38"
 	},
 	{
@@ -851,7 +851,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #game  #game_jam  #history  #history_technology  #jam  #jam_history  #organization  #technology ",
 		"tag_number": "8",
-		"file_size_byte": "3282203",
+		"file_size_byte": "3206",
 		"updated_time": "Sat, Feb 04, 2023, 19:13:18"
 	},
 	{
@@ -860,7 +860,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #analytics  #applications  #cities  #databases  #databases_applications  #graph  #graph_databases  #media  #media_analytics  #smart  #smart_cities  #social  #social_media ",
 		"tag_number": "13",
-		"file_size_byte": "12584642",
+		"file_size_byte": "12290",
 		"updated_time": "Thu, Mar 28, 2024, 19:03:31"
 	},
 	{
@@ -869,7 +869,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #handbook  #management  #project  #project_management ",
 		"tag_number": "4",
-		"file_size_byte": "10458209",
+		"file_size_byte": "10214",
 		"updated_time": "Sun, Mar 03, 2024, 19:05:15"
 	},
 	{
@@ -878,7 +878,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #design  #design_design  #design_fundamentals  #designers  #fundamentals  #shortcuts  #web  #web_design ",
 		"tag_number": "8",
-		"file_size_byte": "13055734",
+		"file_size_byte": "12750",
 		"updated_time": "Mon, Oct 09, 2023, 14:23:03"
 	},
 	{
@@ -887,7 +887,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #AI  #AI_work  #how  #how_AI  #science  #sorcery  #work ",
 		"tag_number": "7",
-		"file_size_byte": "6228511",
+		"file_size_byte": "6083",
 		"updated_time": "Sat, Mar 16, 2024, 21:11:24"
 	},
 	{
@@ -896,7 +896,7 @@
 		"title_length_word": "14",
 		"multi_tags": " #educational  #educational_psychology  #how  #how_learning  #learning  #practices  #psychology  #seminal  #seminal_work  #work ",
 		"tag_number": "10",
-		"file_size_byte": "18278526",
+		"file_size_byte": "17851",
 		"updated_time": "Sun, Apr 14, 2024, 20:30:32"
 	},
 	{
@@ -905,7 +905,7 @@
 		"title_length_word": "14",
 		"multi_tags": " #analyst  #data  #data_analyst  #how  #low-cost  #low-cost_no-code  #no-code  #no-code_roadmap  #roadmap  #tech ",
 		"tag_number": "10",
-		"file_size_byte": "3461049",
+		"file_size_byte": "3380",
 		"updated_time": "Sun, Mar 03, 2024, 18:50:42"
 	},
 	{
@@ -914,7 +914,7 @@
 		"title_length_word": "14",
 		"multi_tags": " #architecture  #automation  #guide  #how  #machine  #practical  #practical_guide  #test  #time  #time_machine ",
 		"tag_number": "10",
-		"file_size_byte": "9869309",
+		"file_size_byte": "9638",
 		"updated_time": "Sun, Mar 31, 2024, 23:22:08"
 	},
 	{
@@ -923,7 +923,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #automation  #engineering  #engineering_manufacturing  #factors  #human  #human_factors  #interactions  #manufacturing  #manufacturing_systems  #systems  #systems_automation ",
 		"tag_number": "11",
-		"file_size_byte": "16086166",
+		"file_size_byte": "15710",
 		"updated_time": "Sun, Mar 31, 2024, 23:11:36"
 	},
 	{
@@ -932,7 +932,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #context  #geography  #geography_places  #global  #global_context  #human  #human_geography  #places  #regions ",
 		"tag_number": "9",
-		"file_size_byte": "67290704",
+		"file_size_byte": "65714",
 		"updated_time": "Tue, Apr 23, 2024, 10:32:31"
 	},
 	{
@@ -941,7 +941,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #concepts  #concepts_process  #industry  #process  #systems ",
 		"tag_number": "5",
-		"file_size_byte": "11739016",
+		"file_size_byte": "11464",
 		"updated_time": "Sun, Mar 10, 2024, 22:53:23"
 	},
 	{
@@ -950,7 +950,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #information  #knowledge  #knowledge_systems  #systems ",
 		"tag_number": "4",
-		"file_size_byte": "13937354",
+		"file_size_byte": "13611",
 		"updated_time": "Wed, Apr 17, 2024, 22:17:35"
 	},
 	{
@@ -959,7 +959,7 @@
 		"title_length_word": "18",
 		"multi_tags": " #asset  #asset_management  #data  #data_information  #information  #information_asset  #knowledge  #manage  #management  #money  #must  #must_manage  #why  #your  #your_data  #your_money ",
 		"tag_number": "16",
-		"file_size_byte": "6442759",
+		"file_size_byte": "6292",
 		"updated_time": "Thu, May 02, 2024, 17:48:41"
 	},
 	{
@@ -968,7 +968,7 @@
 		"title_length_word": "14",
 		"multi_tags": " #changing  #changing_world  #concepts  #design  #design_unbound  #information  #information_design  #key  #key_concepts  #making  #making_sense  #sense  #skills  #unbound  #unbound_key  #world ",
 		"tag_number": "16",
-		"file_size_byte": "179293811",
+		"file_size_byte": "175092",
 		"updated_time": "Tue, Feb 27, 2024, 21:29:13"
 	},
 	{
@@ -977,7 +977,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #information  #information_science  #science ",
 		"tag_number": "3",
-		"file_size_byte": "4766184",
+		"file_size_byte": "4655",
 		"updated_time": "Thu, Apr 18, 2024, 08:06:35"
 	},
 	{
@@ -986,7 +986,7 @@
 		"title_length_word": "13",
 		"multi_tags": " #career  #career_success  #facilitating  #facilitating_students  #growth  #innovative  #learning  #learning_facilitating  #personal  #personal_growth  #science  #science_teaching  #social  #social_science  #students  #students_personal  #success  #teaching ",
 		"tag_number": "18",
-		"file_size_byte": "3419040",
+		"file_size_byte": "3339",
 		"updated_time": "Sun, Apr 14, 2024, 20:44:17"
 	},
 	{
@@ -995,7 +995,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #analytics  #applications  #business  #business_analytics  #insights  #insights_strategies  #strategies ",
 		"tag_number": "7",
-		"file_size_byte": "2090926",
+		"file_size_byte": "2042",
 		"updated_time": "Sun, Apr 14, 2024, 20:57:18"
 	},
 	{
@@ -1004,7 +1004,7 @@
 		"title_length_word": "12",
 		"multi_tags": " #IoT  #IoT_enabling  #applications  #challenges  #decision  #decision_support  #enabling  #enabling_technology  #intelligent  #intelligent_decision  #opportunities  #opportunities_challenges  #support  #support_system  #system  #technology  #technology_opportunities ",
 		"tag_number": "17",
-		"file_size_byte": "30199991",
+		"file_size_byte": "29493",
 		"updated_time": "Sun, Apr 14, 2024, 20:24:50"
 	},
 	{
@@ -1013,7 +1013,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #agriculture  #drones  #intelligent  #intelligent_robots  #precision  #precision_agriculture  #robots ",
 		"tag_number": "7",
-		"file_size_byte": "18910757",
+		"file_size_byte": "18468",
 		"updated_time": "Sun, Apr 14, 2024, 20:39:20"
 	},
 	{
@@ -1022,7 +1022,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #advanced  #advanced_technology  #energy  #environment  #intelligent  #intelligent_transportation  #sustainability  #system  #technology  #technology_energy  #transportation  #transportation_system ",
 		"tag_number": "12",
-		"file_size_byte": "9183561",
+		"file_size_byte": "8969",
 		"updated_time": "Sun, Apr 14, 2024, 20:19:16"
 	},
 	{
@@ -1031,7 +1031,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #afterlife  #afterlife_virtual  #century  #internet  #internet_afterlife  #salvation  #virtual  #virtual_salvation ",
 		"tag_number": "8",
-		"file_size_byte": "3041219",
+		"file_size_byte": "2970",
 		"updated_time": "Wed, Mar 20, 2024, 00:31:33"
 	},
 	{
@@ -1040,7 +1040,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #Java  #development  #game  #game_development  #introduction  #introduction_Java ",
 		"tag_number": "6",
-		"file_size_byte": "8276362",
+		"file_size_byte": "8083",
 		"updated_time": "Sat, Feb 04, 2023, 19:13:54"
 	},
 	{
@@ -1049,7 +1049,7 @@
 		"title_length_word": "14",
 		"multi_tags": " #Blender  #architectural  #architectural_modelling  #compositing  #introduction  #lighting  #lighting_material  #material  #material_painting  #modelling  #modelling_lighting  #organic  #painting  #painting_rendering  #rendering ",
 		"tag_number": "15",
-		"file_size_byte": "28174420",
+		"file_size_byte": "27515",
 		"updated_time": "Thu, Oct 26, 2023, 13:53:36"
 	},
 	{
@@ -1058,7 +1058,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #actuators  #algorithms  #autonomous  #autonomous_robots  #introduction  #mechanisms  #mechanisms_sensors  #robots  #robots_mechanisms  #sensors  #sensors_actuators ",
 		"tag_number": "11",
-		"file_size_byte": "13259640",
+		"file_size_byte": "12949",
 		"updated_time": "Tue, Jan 31, 2023, 09:38:12"
 	},
 	{
@@ -1067,7 +1067,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #chemical  #chemical_engineering  #engineering  #introduction ",
 		"tag_number": "4",
-		"file_size_byte": "19058733",
+		"file_size_byte": "18613",
 		"updated_time": "Mon, Mar 11, 2024, 00:09:05"
 	},
 	{
@@ -1076,7 +1076,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #compiler  #compiler_design  #design  #introduction ",
 		"tag_number": "4",
-		"file_size_byte": "10644829",
+		"file_size_byte": "10396",
 		"updated_time": "Wed, Feb 07, 2024, 17:13:21"
 	},
 	{
@@ -1085,7 +1085,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #critique  #critique_history  #design  #design_theory  #history  #introduction  #philosophy  #philosophy_critique  #practices  #theory  #theory_philosophy ",
 		"tag_number": "11",
-		"file_size_byte": "21595611",
+		"file_size_byte": "21090",
 		"updated_time": "Tue, Feb 27, 2024, 21:25:44"
 	},
 	{
@@ -1094,7 +1094,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #engineer  #engineering  #introduction  #scientist ",
 		"tag_number": "4",
-		"file_size_byte": "89318866",
+		"file_size_byte": "87226",
 		"updated_time": "Tue, Jan 31, 2023, 00:35:52"
 	},
 	{
@@ -1103,7 +1103,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #introduction  #logic  #logic_programming  #programming ",
 		"tag_number": "4",
-		"file_size_byte": "75269949",
+		"file_size_byte": "73506",
 		"updated_time": "Sat, Feb 04, 2023, 19:21:30"
 	},
 	{
@@ -1112,7 +1112,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #engineering  #guide  #introduction  #nuclear  #nuclear_engineering ",
 		"tag_number": "5",
-		"file_size_byte": "8853828",
+		"file_size_byte": "8647",
 		"updated_time": "Sun, Mar 10, 2024, 22:46:02"
 	},
 	{
@@ -1121,7 +1121,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #engineering  #introduction  #philosophy ",
 		"tag_number": "3",
-		"file_size_byte": "5050669",
+		"file_size_byte": "4933",
 		"updated_time": "Tue, Jan 31, 2023, 09:54:30"
 	},
 	{
@@ -1130,7 +1130,7 @@
 		"title_length_word": "12",
 		"multi_tags": " #control  #design  #experiments  #introduction  #methods  #methods_design  #probability  #probability_statistical  #quality  #quality_control  #statistical  #statistical_methods  #statistical_quality ",
 		"tag_number": "13",
-		"file_size_byte": "19515740",
+		"file_size_byte": "19059",
 		"updated_time": "Sun, Apr 14, 2024, 23:21:12"
 	},
 	{
@@ -1139,7 +1139,7 @@
 		"title_length_word": "12",
 		"multi_tags": " #R  #analysis  #analysis_exercises  #applications  #data  #data_analysis  #exercises  #exercises_solutions  #introduction  #solutions  #statistics ",
 		"tag_number": "11",
-		"file_size_byte": "6945811",
+		"file_size_byte": "6784",
 		"updated_time": "Tue, Jan 31, 2023, 10:11:04"
 	},
 	{
@@ -1148,7 +1148,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #analysis  #analysis_macrotexture  #introduction  #macrotexture  #macrotexture_microtexture  #mapping  #microtexture  #orientation  #orientation_mapping  #texture  #texture_analysis ",
 		"tag_number": "11",
-		"file_size_byte": "45576371",
+		"file_size_byte": "44509",
 		"updated_time": "Sun, Mar 10, 2024, 23:32:38"
 	},
 	{
@@ -1157,7 +1157,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #applications  #fabrication  #introductory  #introductory_mems  #mems  #mems_fabrication ",
 		"tag_number": "6",
-		"file_size_byte": "5062377",
+		"file_size_byte": "4944",
 		"updated_time": "Wed, May 08, 2024, 13:16:49"
 	},
 	{
@@ -1166,7 +1166,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #investigating  #investigating_oceanography  #oceanography ",
 		"tag_number": "3",
-		"file_size_byte": "101965472",
+		"file_size_byte": "99576",
 		"updated_time": "Sat, Mar 16, 2024, 21:47:37"
 	},
 	{
@@ -1175,7 +1175,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #analysis  #ideation  #ideation_inventive  #ideation_stimulation  #inventive  #inventive_knowledge  #knowledge  #knowledge_analysis  #stimulation ",
 		"tag_number": "9",
-		"file_size_byte": "51266353",
+		"file_size_byte": "50065",
 		"updated_time": "Thu, Mar 28, 2024, 19:42:44"
 	},
 	{
@@ -1184,7 +1184,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #enabling  #enabling_systemic  #knowledge  #knowledge_synthesis  #science  #science_enabling  #synthesis  #systemic  #systemic_knowledge  #systems  #systems_science ",
 		"tag_number": "11",
-		"file_size_byte": "12005826",
+		"file_size_byte": "11725",
 		"updated_time": "Thu, May 02, 2024, 17:49:27"
 	},
 	{
@@ -1193,7 +1193,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #integration  #integration_methods  #knowledge  #knowledge-based  #knowledge-based_systems  #knowledge_integration  #methods  #probabilistic  #probabilistic_knowledge-based  #systems ",
 		"tag_number": "10",
-		"file_size_byte": "23566065",
+		"file_size_byte": "23014",
 		"updated_time": "Thu, May 02, 2024, 17:42:33"
 	},
 	{
@@ -1202,7 +1202,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #AI  #AI_era  #era  #knowledge  #knowledge_management  #management  #management_systems  #processes  #systems ",
 		"tag_number": "9",
-		"file_size_byte": "12851192",
+		"file_size_byte": "12550",
 		"updated_time": "Thu, May 02, 2024, 17:52:00"
 	},
 	{
@@ -1211,7 +1211,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #engineering  #knowledge  #knowledge_science  #management  #science  #science_engineering ",
 		"tag_number": "6",
-		"file_size_byte": "56253853",
+		"file_size_byte": "54936",
 		"updated_time": "Sat, Feb 04, 2023, 19:10:30"
 	},
 	{
@@ -1220,7 +1220,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #knowledge-based  #knowledge-based_systems  #systems ",
 		"tag_number": "3",
-		"file_size_byte": "20414608",
+		"file_size_byte": "19937",
 		"updated_time": "Thu, May 02, 2024, 17:31:28"
 	},
 	{
@@ -1229,7 +1229,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #lean  #lean_six  #methods  #optimization  #production  #production_optimization  #sigma  #sigma_methods  #six  #six_sigma ",
 		"tag_number": "10",
-		"file_size_byte": "4840488",
+		"file_size_byte": "4728",
 		"updated_time": "Sun, Apr 14, 2024, 20:04:45"
 	},
 	{
@@ -1238,7 +1238,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #Python  #fun  #fun_project  #learn  #learn_Python  #project ",
 		"tag_number": "6",
-		"file_size_byte": "19585403",
+		"file_size_byte": "19127",
 		"updated_time": "Thu, Mar 28, 2024, 20:25:03"
 	},
 	{
@@ -1247,7 +1247,7 @@
 		"title_length_word": "13",
 		"multi_tags": " #level  #multi-level  #multi-level_structure  #philosophy  #philosophy_re-examining  #re-examining  #reality  #science  #structure ",
 		"tag_number": "9",
-		"file_size_byte": "4246828",
+		"file_size_byte": "4148",
 		"updated_time": "Tue, Jan 31, 2023, 09:54:42"
 	},
 	{
@@ -1256,7 +1256,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #archives  #libraries  #libraries_literatures  #literatures ",
 		"tag_number": "4",
-		"file_size_byte": "1989043",
+		"file_size_byte": "1943",
 		"updated_time": "Wed, Apr 17, 2024, 22:36:51"
 	},
 	{
@@ -1265,7 +1265,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #aesthetics  #aesthetics_pragmatics  #afterlife  #data  #data_aesthetics  #incommunication  #listening  #pragmatics ",
 		"tag_number": "8",
-		"file_size_byte": "1978761",
+		"file_size_byte": "1933",
 		"updated_time": "Wed, Mar 20, 2024, 00:25:31"
 	},
 	{
@@ -1274,7 +1274,7 @@
 		"title_length_word": "15",
 		"multi_tags": " #Pythagoreans  #alogon  #logos  #mathematics  #modern  #thinkable  #unthinkable ",
 		"tag_number": "7",
-		"file_size_byte": "3691441",
+		"file_size_byte": "3605",
 		"updated_time": "Tue, Jan 31, 2023, 09:51:08"
 	},
 	{
@@ -1283,7 +1283,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #deep  #deep_learning  #language  #language_processing  #learning  #machine  #machine_learning  #natural  #natural_language  #processing ",
 		"tag_number": "10",
-		"file_size_byte": "9717866",
+		"file_size_byte": "9491",
 		"updated_time": "Sat, Mar 02, 2024, 11:13:11"
 	},
 	{
@@ -1292,7 +1292,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #course  #crash  #crash_course  #engineer  #learning  #learning_crash  #machine  #machine_learning ",
 		"tag_number": "8",
-		"file_size_byte": "11978889",
+		"file_size_byte": "11699",
 		"updated_time": "Sat, Mar 02, 2024, 12:57:04"
 	},
 	{
@@ -1301,7 +1301,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #buildings  #historic  #historic_buildings  #maintaining  #old  #repairing  #repairing_old ",
 		"tag_number": "7",
-		"file_size_byte": "92432565",
+		"file_size_byte": "90267",
 		"updated_time": "Wed, Mar 13, 2024, 11:20:56"
 	},
 	{
@@ -1310,7 +1310,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #accounting  #cost  #cost_accounting  #management ",
 		"tag_number": "4",
-		"file_size_byte": "29592893",
+		"file_size_byte": "28900",
 		"updated_time": "Sat, Mar 16, 2024, 21:47:43"
 	},
 	{
@@ -1319,7 +1319,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #C_pp  #C_pp_network  #automation  #mastering  #mastering_C_pp  #network  #network_automation ",
 		"tag_number": "7",
-		"file_size_byte": "4257194",
+		"file_size_byte": "4158",
 		"updated_time": "Sun, Apr 14, 2024, 23:30:47"
 	},
 	{
@@ -1328,7 +1328,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #language  #language_models  #large  #large_language  #mastering  #models ",
 		"tag_number": "6",
-		"file_size_byte": "7634422",
+		"file_size_byte": "7456",
 		"updated_time": "Sun, Apr 14, 2024, 21:58:38"
 	},
 	{
@@ -1337,7 +1337,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #analytics  #analytics_project  #discipline  #discovery  #discovery_successful  #engineering  #mastering  #mastering_project  #project  #project_discovery  #successful  #successful_discipline ",
 		"tag_number": "12",
-		"file_size_byte": "9069718",
+		"file_size_byte": "8858",
 		"updated_time": "Sun, Mar 03, 2024, 19:15:57"
 	},
 	{
@@ -1346,7 +1346,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #analysis  #element  #element_analysis  #finite  #finite_element  #material  #material_modelling  #modelling ",
 		"tag_number": "8",
-		"file_size_byte": "47800929",
+		"file_size_byte": "46681",
 		"updated_time": "Sun, Mar 10, 2024, 22:58:57"
 	},
 	{
@@ -1355,7 +1355,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #engineer  #math  #math_numeric  #mechanical  #mechanical_engineer  #numeric  #programming ",
 		"tag_number": "7",
-		"file_size_byte": "30518212",
+		"file_size_byte": "29803",
 		"updated_time": "Tue, Jan 31, 2023, 00:29:42"
 	},
 	{
@@ -1364,7 +1364,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #dynamics  #fluid  #fluid_dynamics  #mathematical  #mathematical_modelling  #modelling  #nanofluids ",
 		"tag_number": "7",
-		"file_size_byte": "28599142",
+		"file_size_byte": "27929",
 		"updated_time": "Sun, Mar 10, 2024, 22:43:08"
 	},
 	{
@@ -1373,7 +1373,7 @@
 		"title_length_word": "16",
 		"multi_tags": " #calculation  #concepts  #manual  #math  #math_concepts  #mathematics  #mathematics_manual  #operations  #operations_math  #operators  #operators_wastewater  #plant  #plant_operators  #treatment  #treatment_operations  #treatment_plant  #wastewater  #wastewater_treatment  #water ",
 		"tag_number": "19",
-		"file_size_byte": "8894561",
+		"file_size_byte": "8687",
 		"updated_time": "Wed, Apr 17, 2024, 19:40:21"
 	},
 	{
@@ -1382,7 +1382,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #control  #design  #design_instrumentation  #engineer  #engineer_handbook  #handbook  #handbook_design  #instrumentation  #mechanical  #mechanical_engineer ",
 		"tag_number": "10",
-		"file_size_byte": "11983484",
+		"file_size_byte": "11703",
 		"updated_time": "Sat, Feb 17, 2024, 00:16:11"
 	},
 	{
@@ -1391,7 +1391,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #energy  #engineer  #engineer_handbook  #handbook  #handbook_energy  #mechanical  #mechanical_engineer  #power ",
 		"tag_number": "8",
-		"file_size_byte": "17261756",
+		"file_size_byte": "16858",
 		"updated_time": "Sat, Feb 17, 2024, 00:26:13"
 	},
 	{
@@ -1400,7 +1400,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #engineer  #engineer_handbook  #handbook  #handbook_manufacturing  #management  #manufacturing  #mechanical  #mechanical_engineer ",
 		"tag_number": "8",
-		"file_size_byte": "10097091",
+		"file_size_byte": "9861",
 		"updated_time": "Sat, Feb 17, 2024, 00:14:07"
 	},
 	{
@@ -1409,7 +1409,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #engineer  #engineer_handbook  #engineering  #engineering_mechanics  #handbook  #handbook_material  #material  #mechanical  #mechanical_engineer  #mechanics ",
 		"tag_number": "10",
-		"file_size_byte": "12616739",
+		"file_size_byte": "12322",
 		"updated_time": "Sat, Feb 17, 2024, 00:14:44"
 	},
 	{
@@ -1418,7 +1418,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #development  #media ",
 		"tag_number": "2",
-		"file_size_byte": "988503",
+		"file_size_byte": "966",
 		"updated_time": "Sat, Mar 16, 2024, 20:36:09"
 	},
 	{
@@ -1427,7 +1427,7 @@
 		"title_length_word": "1",
 		"multi_tags": " #microcontrollers ",
 		"tag_number": "1",
-		"file_size_byte": "715675",
+		"file_size_byte": "699",
 		"updated_time": "Mon, Jan 30, 2023, 23:59:56"
 	},
 	{
@@ -1436,7 +1436,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #engineering  #modelling  #simulation ",
 		"tag_number": "3",
-		"file_size_byte": "28330016",
+		"file_size_byte": "27667",
 		"updated_time": "Thu, Mar 28, 2024, 20:26:23"
 	},
 	{
@@ -1445,7 +1445,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #control  #control_systems  #modern  #modern_control  #systems ",
 		"tag_number": "5",
-		"file_size_byte": "61554090",
+		"file_size_byte": "60112",
 		"updated_time": "Thu, Feb 29, 2024, 13:52:57"
 	},
 	{
@@ -1454,7 +1454,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #communication  #graphics  #graphics_communication  #modern  #modern_graphics ",
 		"tag_number": "5",
-		"file_size_byte": "170916247",
+		"file_size_byte": "166911",
 		"updated_time": "Sat, Mar 16, 2024, 21:43:00"
 	},
 	{
@@ -1463,7 +1463,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #Python  #approach  #computer-based  #computer-based_approach  #modern  #modern_statistics  #statistics ",
 		"tag_number": "7",
-		"file_size_byte": "7775650",
+		"file_size_byte": "7594",
 		"updated_time": "Tue, Jan 31, 2023, 10:08:52"
 	},
 	{
@@ -1472,7 +1472,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #algorithms  #algorithms_object-orientation  #computing  #fluid  #fluid_theory  #molecular  #molecular_simulation  #object-orientation  #parallel  #parallel_computing  #simulation  #theory  #theory_algorithms ",
 		"tag_number": "13",
-		"file_size_byte": "19146260",
+		"file_size_byte": "18698",
 		"updated_time": "Thu, Mar 28, 2024, 19:44:44"
 	},
 	{
@@ -1481,7 +1481,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #applications  #characterization  #fabrication  #fabrication_characterization  #nanofillers  #nanofillers_fabrication  #organic  #organic_nanofillers ",
 		"tag_number": "8",
-		"file_size_byte": "14641755",
+		"file_size_byte": "14299",
 		"updated_time": "Wed, Apr 17, 2024, 20:10:47"
 	},
 	{
@@ -1490,7 +1490,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #Perspective  #applications  #design  #design_synthesis  #enhanced  #enhanced_solid  #materials  #materials_design  #nanotechnology  #nanotechnology_enhanced  #properties  #properties_applications  #solid  #solid_materials  #synthesis  #synthesis_properties ",
 		"tag_number": "16",
-		"file_size_byte": "12498675",
+		"file_size_byte": "12206",
 		"updated_time": "Wed, Apr 17, 2024, 19:31:42"
 	},
 	{
@@ -1499,7 +1499,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #approach  #explanatory  #explanatory_approach  #knowledge  #nature  #scientific  #scientific_knowledge ",
 		"tag_number": "7",
-		"file_size_byte": "2946232",
+		"file_size_byte": "2878",
 		"updated_time": "Tue, Jan 31, 2023, 09:54:36"
 	},
 	{
@@ -1508,7 +1508,7 @@
 		"title_length_word": "12",
 		"multi_tags": " #applications  #biology  #biology_chemistry  #chaos  #chemistry  #dynamics  #engineering  #nonlinear  #nonlinear_dynamics  #physics  #physics_biology ",
 		"tag_number": "11",
-		"file_size_byte": "27901225",
+		"file_size_byte": "27248",
 		"updated_time": "Sun, Mar 10, 2024, 23:29:48"
 	},
 	{
@@ -1517,7 +1517,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #control  #dynamics  #nonlinear  #nonlinear_systems  #stability  #stability_dynamics  #systems  #systems_stability ",
 		"tag_number": "8",
-		"file_size_byte": "3657862",
+		"file_size_byte": "3573",
 		"updated_time": "Wed, Feb 07, 2024, 16:18:03"
 	},
 	{
@@ -1526,7 +1526,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #information  #novelty  #novelty_information  #surprise ",
 		"tag_number": "4",
-		"file_size_byte": "4326539",
+		"file_size_byte": "4226",
 		"updated_time": "Tue, Jan 31, 2023, 10:11:10"
 	},
 	{
@@ -1535,7 +1535,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #concepts  #design  #design_principles  #evolutionary  #evolutionary_concepts  #modern  #modern_design  #operating  #operating_systems  #principles  #systems  #systems_evolutionary ",
 		"tag_number": "12",
-		"file_size_byte": "15785484",
+		"file_size_byte": "15416",
 		"updated_time": "Tue, Feb 27, 2024, 21:25:05"
 	},
 	{
@@ -1544,7 +1544,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #behavior  #organizational  #organizational_behavior ",
 		"tag_number": "3",
-		"file_size_byte": "66915020",
+		"file_size_byte": "65347",
 		"updated_time": "Sat, Mar 16, 2024, 22:00:36"
 	},
 	{
@@ -1553,7 +1553,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #analytical  #differential  #differential_equation  #equation  #introduction  #methods  #numerical  #numerical_methods  #partial  #partial_differential ",
 		"tag_number": "10",
-		"file_size_byte": "7439250",
+		"file_size_byte": "7265",
 		"updated_time": "Tue, Jan 31, 2023, 10:08:32"
 	},
 	{
@@ -1562,7 +1562,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #drawing  #drawing_handbook  #handbook  #perspective  #perspective_drawing ",
 		"tag_number": "5",
-		"file_size_byte": "46148566",
+		"file_size_byte": "45067",
 		"updated_time": "Thu, Aug 03, 2017, 02:31:44"
 	},
 	{
@@ -1571,7 +1571,7 @@
 		"title_length_word": "3",
 		"multi_tags": " #computing  #philosophy ",
 		"tag_number": "2",
-		"file_size_byte": "3954770",
+		"file_size_byte": "3863",
 		"updated_time": "Tue, Jan 31, 2023, 09:51:20"
 	},
 	{
@@ -1580,7 +1580,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #philosophy  #science  #scientist ",
 		"tag_number": "3",
-		"file_size_byte": "3566316",
+		"file_size_byte": "3483",
 		"updated_time": "Tue, Jan 31, 2023, 09:55:58"
 	},
 	{
@@ -1589,7 +1589,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #applications  #converters  #converters_applications  #design  #electronics  #electronics_converters  #power  #power_electronics ",
 		"tag_number": "8",
-		"file_size_byte": "43724284",
+		"file_size_byte": "42700",
 		"updated_time": "Wed, May 08, 2024, 12:51:30"
 	},
 	{
@@ -1598,7 +1598,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #automation  #control  #control_engineering  #engineering  #mechatronics  #practical  #practical_control ",
 		"tag_number": "7",
-		"file_size_byte": "14509083",
+		"file_size_byte": "14170",
 		"updated_time": "Sun, Mar 31, 2024, 23:11:59"
 	},
 	{
@@ -1607,7 +1607,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #Git  #pro  #pro_Git ",
 		"tag_number": "3",
-		"file_size_byte": "10420579",
+		"file_size_byte": "10177",
 		"updated_time": "Sun, Feb 19, 2023, 08:40:54"
 	},
 	{
@@ -1616,7 +1616,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #R  #applications  #applications_program  #probability  #probability_statistics  #program  #program_written  #statistics  #stimulation  #written ",
 		"tag_number": "10",
-		"file_size_byte": "10875560",
+		"file_size_byte": "10621",
 		"updated_time": "Tue, Jan 31, 2023, 10:08:48"
 	},
 	{
@@ -1625,7 +1625,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #control  #control_modelling  #design  #modelling  #modelling_design  #process  #process_control  #simulation ",
 		"tag_number": "8",
-		"file_size_byte": "31309311",
+		"file_size_byte": "30576",
 		"updated_time": "Thu, Mar 28, 2024, 21:14:22"
 	},
 	{
@@ -1634,7 +1634,7 @@
 		"title_length_word": "15",
 		"multi_tags": " #body  #certification  #development  #guidebook  #innovation  #innovation_training  #knowledge  #management  #management_body  #product  #product_development  #product_innovation  #training ",
 		"tag_number": "13",
-		"file_size_byte": "13678680",
+		"file_size_byte": "13359",
 		"updated_time": "Thu, May 02, 2024, 18:00:43"
 	},
 	{
@@ -1643,7 +1643,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #C_pp  #professional  #professional_C_pp ",
 		"tag_number": "3",
-		"file_size_byte": "15623303",
+		"file_size_byte": "15258",
 		"updated_time": "Wed, Mar 13, 2024, 11:28:17"
 	},
 	{
@@ -1652,7 +1652,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #JavaScript  #JavaScript_programming  #absolute  #absolute_beginners  #beginners  #language  #programming  #programming_language ",
 		"tag_number": "8",
-		"file_size_byte": "11721674",
+		"file_size_byte": "11447",
 		"updated_time": "Tue, Jan 31, 2023, 09:42:30"
 	},
 	{
@@ -1661,7 +1661,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #language  #programming  #programming_language  #systems ",
 		"tag_number": "4",
-		"file_size_byte": "29712604",
+		"file_size_byte": "29017",
 		"updated_time": "Tue, Jan 31, 2023, 00:15:28"
 	},
 	{
@@ -1670,7 +1670,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #management  #manager  #project  #project_management  #project_manager  #unofficial  #unofficial_project ",
 		"tag_number": "7",
-		"file_size_byte": "10680595",
+		"file_size_byte": "10431",
 		"updated_time": "Sun, Mar 03, 2024, 19:09:33"
 	},
 	{
@@ -1679,7 +1679,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #ageing  #punk  #punk_ageing  #time ",
 		"tag_number": "4",
-		"file_size_byte": "6485542",
+		"file_size_byte": "6334",
 		"updated_time": "Sun, Apr 14, 2024, 22:00:44"
 	},
 	{
@@ -1688,7 +1688,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #electronics  #modern  #modern_power  #power  #power_electronics  #real  #real_time  #simulation  #simulation_technology  #technology  #time  #time_simulation ",
 		"tag_number": "12",
-		"file_size_byte": "14737565",
+		"file_size_byte": "14393",
 		"updated_time": "Thu, Mar 28, 2024, 20:20:30"
 	},
 	{
@@ -1697,7 +1697,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #automatic  #automatic_control  #control  #control_systems  #development  #recent  #recent_development  #systems ",
 		"tag_number": "8",
-		"file_size_byte": "18429355",
+		"file_size_byte": "17998",
 		"updated_time": "Wed, Feb 07, 2024, 16:28:45"
 	},
 	{
@@ -1706,7 +1706,7 @@
 		"title_length_word": "7",
 		"multi_tags": " #age  #media  #recognition  #social  #social_media ",
 		"tag_number": "5",
-		"file_size_byte": "5383952",
+		"file_size_byte": "5258",
 		"updated_time": "Sun, Mar 17, 2024, 22:20:52"
 	},
 	{
@@ -1715,7 +1715,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #game  #how  #life ",
 		"tag_number": "3",
-		"file_size_byte": "2001964",
+		"file_size_byte": "1956",
 		"updated_time": "Wed, Mar 20, 2024, 00:33:14"
 	},
 	{
@@ -1724,7 +1724,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #C_sharp  #effective  #effective_programming  #programming  #simple ",
 		"tag_number": "5",
-		"file_size_byte": "7486858",
+		"file_size_byte": "7312",
 		"updated_time": "Tue, Jan 31, 2023, 09:42:16"
 	},
 	{
@@ -1733,7 +1733,7 @@
 		"title_length_word": "13",
 		"multi_tags": " #expressing  #ideas  #logic  #mathematical  #mathematical_ideas  #practical  #practical_logic  #reasoning  #simple  #simple_type  #theory  #type  #type_theory ",
 		"tag_number": "13",
-		"file_size_byte": "3258939",
+		"file_size_byte": "3183",
 		"updated_time": "Tue, Jan 31, 2023, 09:42:22"
 	},
 	{
@@ -1742,7 +1742,7 @@
 		"title_length_word": "1",
 		"multi_tags": " #simulation ",
 		"tag_number": "1",
-		"file_size_byte": "6837523",
+		"file_size_byte": "6678",
 		"updated_time": "Thu, Mar 28, 2024, 20:25:01"
 	},
 	{
@@ -1751,7 +1751,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #audio  #audio_design  #design  #signal  #signal_audio  #small  #small_signal ",
 		"tag_number": "7",
-		"file_size_byte": "35118375",
+		"file_size_byte": "34296",
 		"updated_time": "Sat, Mar 16, 2024, 21:16:10"
 	},
 	{
@@ -1760,7 +1760,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #cities  #cities_power  #electronics  #electronics_renewable  #energy  #internet  #power  #power_electronics  #renewable  #renewable_energy  #smart  #smart_cities  #things ",
 		"tag_number": "13",
-		"file_size_byte": "47779909",
+		"file_size_byte": "46661",
 		"updated_time": "Wed, May 08, 2024, 12:51:42"
 	},
 	{
@@ -1769,7 +1769,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #art  #game  #life  #meaningful  #meaningful_life  #soul ",
 		"tag_number": "6",
-		"file_size_byte": "5316629",
+		"file_size_byte": "5193",
 		"updated_time": "Thu, Mar 28, 2024, 21:14:24"
 	},
 	{
@@ -1778,7 +1778,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #material  #mechanics  #statics ",
 		"tag_number": "3",
-		"file_size_byte": "53351261",
+		"file_size_byte": "52101",
 		"updated_time": "Thu, Oct 26, 2023, 13:22:24"
 	},
 	{
@@ -1787,7 +1787,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #computational  #computational_modelling  #modelling  #stability  #structural  #structural_stability ",
 		"tag_number": "6",
-		"file_size_byte": "4204478",
+		"file_size_byte": "4106",
 		"updated_time": "Sun, Apr 14, 2024, 22:07:44"
 	},
 	{
@@ -1796,7 +1796,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #design  #game  #game_design  #structure ",
 		"tag_number": "4",
-		"file_size_byte": "12680240",
+		"file_size_byte": "12384",
 		"updated_time": "Mon, Jan 29, 2024, 23:42:35"
 	},
 	{
@@ -1805,7 +1805,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #asia  #environment  #human  #human_interactions  #interactions  #interactions_reflections  #reflections  #surface  #surface_environment ",
 		"tag_number": "9",
-		"file_size_byte": "19298079",
+		"file_size_byte": "18846",
 		"updated_time": "Sun, Apr 14, 2024, 21:38:15"
 	},
 	{
@@ -1814,7 +1814,7 @@
 		"title_length_word": "6",
 		"multi_tags": " #applications  #challenges  #challenges_technology  #engineering  #engineering_challenges  #sustainability  #sustainability_engineering  #technology ",
 		"tag_number": "8",
-		"file_size_byte": "30931546",
+		"file_size_byte": "30207",
 		"updated_time": "Wed, Feb 07, 2024, 16:41:27"
 	},
 	{
@@ -1823,7 +1823,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #entrepreneurship  #innovation  #sustainability  #sustainability_innovation ",
 		"tag_number": "4",
-		"file_size_byte": "26249645",
+		"file_size_byte": "25635",
 		"updated_time": "Tue, Jan 31, 2023, 00:22:26"
 	},
 	{
@@ -1832,7 +1832,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #concepts  #energy  #engineering  #engineering_concepts  #green  #green_energy  #practices  #practices_green  #sustainable  #sustainable_engineering  #technology ",
 		"tag_number": "11",
-		"file_size_byte": "22032488",
+		"file_size_byte": "21517",
 		"updated_time": "Sun, Apr 14, 2024, 21:45:26"
 	},
 	{
@@ -1841,7 +1841,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #automation  #guide  #manager  #manager_guide  #test  #test_automation ",
 		"tag_number": "6",
-		"file_size_byte": "28795830",
+		"file_size_byte": "28121",
 		"updated_time": "Sun, Apr 14, 2024, 23:30:47"
 	},
 	{
@@ -1850,7 +1850,7 @@
 		"title_length_word": "18",
 		"multi_tags": " #OWL  #REA  #SCA  #architect  #built  #formalizing  #formalizing_REA  #framework  #knowledge-based  #knowledge-based_systems  #systems  #systems_formalizing ",
 		"tag_number": "12",
-		"file_size_byte": "18160098",
+		"file_size_byte": "17735",
 		"updated_time": "Thu, May 02, 2024, 17:32:46"
 	},
 	{
@@ -1859,7 +1859,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #afterlife  #data ",
 		"tag_number": "2",
-		"file_size_byte": "6091146",
+		"file_size_byte": "5949",
 		"updated_time": "Wed, Mar 20, 2024, 00:26:16"
 	},
 	{
@@ -1868,7 +1868,7 @@
 		"title_length_word": "18",
 		"multi_tags": " #age  #belong  #help  #how  #identity  #kids  #who ",
 		"tag_number": "7",
-		"file_size_byte": "5491821",
+		"file_size_byte": "5364",
 		"updated_time": "Sun, Apr 14, 2024, 20:09:56"
 	},
 	{
@@ -1877,7 +1877,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #boundaries  #data ",
 		"tag_number": "2",
-		"file_size_byte": "3152331",
+		"file_size_byte": "3079",
 		"updated_time": "Sun, Apr 14, 2024, 21:59:11"
 	},
 	{
@@ -1886,7 +1886,7 @@
 		"title_length_word": "11",
 		"multi_tags": " #abstracted  #abstracted_simplification  #brain  #brain_abstracted  #history  #neuroscience  #philosophy  #simplification ",
 		"tag_number": "8",
-		"file_size_byte": "2427731",
+		"file_size_byte": "2371",
 		"updated_time": "Sun, Apr 14, 2024, 21:43:18"
 	},
 	{
@@ -1895,7 +1895,7 @@
 		"title_length_word": "11",
 		"multi_tags": " #characteristics  #chemistry  #milk  #milk_products  #physicochemical  #physicochemical_properties  #products  #products_physicochemical  #properties  #properties_therapeutic  #therapeutic  #therapeutic_characteristics ",
 		"tag_number": "12",
-		"file_size_byte": "10814110",
+		"file_size_byte": "10561",
 		"updated_time": "Wed, Apr 17, 2024, 19:28:47"
 	},
 	{
@@ -1904,7 +1904,7 @@
 		"title_length_word": "13",
 		"multi_tags": " #against  #against_established  #campaign  #campaign_against  #death  #established  #established_knowledge  #expertise  #knowledge  #matters  #why ",
 		"tag_number": "11",
-		"file_size_byte": "12316629",
+		"file_size_byte": "12028",
 		"updated_time": "Thu, May 02, 2024, 17:54:24"
 	},
 	{
@@ -1913,7 +1913,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #game  #how  #life ",
 		"tag_number": "3",
-		"file_size_byte": "2137684",
+		"file_size_byte": "2088",
 		"updated_time": "Thu, Mar 28, 2024, 21:14:23"
 	},
 	{
@@ -1922,7 +1922,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #case  #case_studies  #framework  #framework_case  #implementation  #information  #information_literacy  #literacy  #literacy_framework  #studies  #successful  #successful_implementation ",
 		"tag_number": "12",
-		"file_size_byte": "5674331",
+		"file_size_byte": "5542",
 		"updated_time": "Thu, Apr 18, 2024, 19:39:55"
 	},
 	{
@@ -1931,7 +1931,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #information  #organization ",
 		"tag_number": "2",
-		"file_size_byte": "24720431",
+		"file_size_byte": "24142",
 		"updated_time": "Thu, Apr 18, 2024, 19:31:44"
 	},
 	{
@@ -1940,7 +1940,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #lithium  #science ",
 		"tag_number": "2",
-		"file_size_byte": "8516949",
+		"file_size_byte": "8318",
 		"updated_time": "Sun, Mar 10, 2024, 23:11:18"
 	},
 	{
@@ -1949,7 +1949,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #aspects  #engineering  #software  #software_engineering  #theoretical  #theoretical_aspects ",
 		"tag_number": "6",
-		"file_size_byte": "18718829",
+		"file_size_byte": "18281",
 		"updated_time": "Sat, Feb 04, 2023, 19:09:46"
 	},
 	{
@@ -1958,7 +1958,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #C ",
 		"tag_number": "1",
-		"file_size_byte": "978841",
+		"file_size_byte": "956",
 		"updated_time": "Tue, Jan 31, 2023, 00:07:10"
 	},
 	{
@@ -1967,7 +1967,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #C_pp ",
 		"tag_number": "1",
-		"file_size_byte": "842631",
+		"file_size_byte": "823",
 		"updated_time": "Tue, Jan 31, 2023, 00:07:18"
 	},
 	{
@@ -1976,7 +1976,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #Java ",
 		"tag_number": "1",
-		"file_size_byte": "2002627",
+		"file_size_byte": "1956",
 		"updated_time": "Tue, Jan 31, 2023, 00:01:44"
 	},
 	{
@@ -1985,7 +1985,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #Python ",
 		"tag_number": "1",
-		"file_size_byte": "813882",
+		"file_size_byte": "795",
 		"updated_time": "Tue, Jan 31, 2023, 00:01:52"
 	},
 	{
@@ -1994,7 +1994,7 @@
 		"title_length_word": "13",
 		"multi_tags": " #bad  #bad_science  #better  #good  #good_science  #how  #science  #thinking ",
 		"tag_number": "8",
-		"file_size_byte": "11088771",
+		"file_size_byte": "10829",
 		"updated_time": "Wed, Mar 13, 2024, 14:36:19"
 	},
 	{
@@ -2003,7 +2003,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #experiments  #thought  #thought_experiments ",
 		"tag_number": "3",
-		"file_size_byte": "3263382",
+		"file_size_byte": "3187",
 		"updated_time": "Tue, Jan 31, 2023, 09:55:54"
 	},
 	{
@@ -2012,7 +2012,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #beyond  #beyond_free  #free  #freedom  #ultimate  #ultimate_freedom ",
 		"tag_number": "6",
-		"file_size_byte": "4502588",
+		"file_size_byte": "4398",
 		"updated_time": "Sat, Mar 16, 2024, 21:03:37"
 	},
 	{
@@ -2021,7 +2021,7 @@
 		"title_length_word": "5",
 		"multi_tags": " #guide  #technology  #user  #user_guide  #vacuum  #vacuum_technology ",
 		"tag_number": "6",
-		"file_size_byte": "10048697",
+		"file_size_byte": "9814",
 		"updated_time": "Wed, Mar 13, 2024, 11:22:20"
 	},
 	{
@@ -2030,7 +2030,7 @@
 		"title_length_word": "2",
 		"multi_tags": " #engineering  #vibration  #vibration_engineering ",
 		"tag_number": "3",
-		"file_size_byte": "31339771",
+		"file_size_byte": "30606",
 		"updated_time": "Sun, Apr 14, 2024, 23:04:32"
 	},
 	{
@@ -2039,7 +2039,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #concise  #concise_introduction  #introduction  #research  #thinking  #thinking_visually  #visual  #visual_research  #visually ",
 		"tag_number": "9",
-		"file_size_byte": "35601007",
+		"file_size_byte": "34767",
 		"updated_time": "Tue, Feb 27, 2024, 22:01:34"
 	},
 	{
@@ -2048,7 +2048,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #CSS  #HTML  #HTML_CSS  #design  #design_playground  #interactive  #playground  #playground_HTML  #web  #web_design ",
 		"tag_number": "10",
-		"file_size_byte": "75609256",
+		"file_size_byte": "73838",
 		"updated_time": "Tue, Feb 27, 2024, 21:34:13"
 	},
 	{
@@ -2057,7 +2057,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #Python  #scraping  #web  #web_scraping ",
 		"tag_number": "4",
-		"file_size_byte": "2115631",
+		"file_size_byte": "2067",
 		"updated_time": "Wed, Mar 20, 2024, 00:33:14"
 	},
 	{
@@ -2066,7 +2066,7 @@
 		"title_length_word": "9",
 		"multi_tags": " #analytics  #data  #data_driven  #driven  #driven_analytics  #engineer ",
 		"tag_number": "6",
-		"file_size_byte": "4725511",
+		"file_size_byte": "4615",
 		"updated_time": "Sat, Mar 16, 2024, 21:52:14"
 	},
 	{
@@ -2075,7 +2075,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #analysis  #engineer  #reliability  #risk  #risk_analysis ",
 		"tag_number": "5",
-		"file_size_byte": "6007915",
+		"file_size_byte": "5868",
 		"updated_time": "Sat, Mar 16, 2024, 21:52:55"
 	},
 	{
@@ -2084,7 +2084,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #engineer  #engineering  #management  #risk  #risk_engineering ",
 		"tag_number": "5",
-		"file_size_byte": "20874529",
+		"file_size_byte": "20386",
 		"updated_time": "Thu, Jan 25, 2024, 16:42:09"
 	},
 	{
@@ -2093,7 +2093,7 @@
 		"title_length_word": "8",
 		"multi_tags": " #cities  #engineer  #smart  #smart_cities ",
 		"tag_number": "4",
-		"file_size_byte": "17310199",
+		"file_size_byte": "16905",
 		"updated_time": "Sat, Mar 16, 2024, 21:51:42"
 	},
 	{
@@ -2102,7 +2102,7 @@
 		"title_length_word": "10",
 		"multi_tags": " #engineer  #internet  #things ",
 		"tag_number": "3",
-		"file_size_byte": "6416653",
+		"file_size_byte": "6267",
 		"updated_time": "Wed, Feb 07, 2024, 16:32:32"
 	},
 	{
@@ -2111,7 +2111,7 @@
 		"title_length_word": "13",
 		"multi_tags": " #leading  #science  #science_leading  #where ",
 		"tag_number": "4",
-		"file_size_byte": "5569253",
+		"file_size_byte": "5439",
 		"updated_time": "Sun, Apr 14, 2024, 21:46:23"
 	},
 	{
@@ -2120,7 +2120,7 @@
 		"title_length_word": "4",
 		"multi_tags": " #communication  #engineer  #written  #written_communication ",
 		"tag_number": "4",
-		"file_size_byte": "18597873",
+		"file_size_byte": "18162",
 		"updated_time": "Mon, Jan 30, 2023, 23:57:12"
 	}
 ]

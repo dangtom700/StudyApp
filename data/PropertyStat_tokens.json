@@ -48,19 +48,19 @@
         "Variance": 13.936
     },
     {
-        "Property": "File Size (byte)",
-        "Minimum": 715675,
-        "Maximum": 541870406,
-        "Total": 5692223006,
-        "Avarage": 24222225.557,
-        "Harmonic Mean": 6623221.575,
-        "Median": 12148943,
-        "Median Low": 12148943,
-        "Median High": 12148943,
-        "Mode": 14410508,
-        "Population Standard Deviation": 45388255.501,
-        "Standard Deviation": 45485135.559,
-        "Population Variance": 2060093737423480.0,
-        "Variance": 2068897556814178.8
+        "Property": "File Size (Kb)",
+        "Minimum": 699,
+        "Maximum": 529171,
+        "Total": 5558939,
+        "Avarage": 23655.06,
+        "Harmonic Mean": 6469.002,
+        "Median": 11865,
+        "Median Low": 11865,
+        "Median High": 11865,
+        "Mode": 1956,
+        "Population Standard Deviation": 44324.479,
+        "Standard Deviation": 44419.088,
+        "Population Variance": 1964659436.754,
+        "Variance": 1973055417.253
     }
 ]

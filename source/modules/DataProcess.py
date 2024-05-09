@@ -3,7 +3,7 @@ from os.path import getmtime
 from time import ctime
 from datetime import datetime
 import statistics
-
+from math import ceil
 
 def get_banned_words(filepath: str) -> set[str]:
     """
@@ -113,7 +113,7 @@ def get_file_size(file_path: str) -> int:
     Returns:
         int: The size of the file in bytes.
     """
-    return os.path.getsize(file_path)
+    return int(ceil(os.path.getsize(file_path)/1024))
 
 def get_updated_time(file_path: str) -> str:
     """

@@ -67,7 +67,7 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
     filename_list = DataProcess.get_pdf_name(folderPath)
 
     with open(path.PDF_info_path, "w") as outputFile:
-        outputFile.write("Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;File Size (byte);Updated Time\n")
+        outputFile.write("Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;File Size (Kb);Updated Time\n")
         for filename in filename_list:
             outputFile.write(f"{filename};")
             outputFile.write(f"{len(filename)};")
@@ -169,7 +169,7 @@ def updateStat(PDF_info_file: str) -> None:
         for key in keys[1:]:
             outputFile.write(f"| {key} | {title_length_char_property[key]} | {title_length_word_property[key]} |\n")
         outputFile.write("\n## Keywords Stat\n\n")
-        outputFile.write("| Characteristic| Tag Number | File Size (byte)|\n")
+        outputFile.write("| Characteristic| Tag Number | File Size (Kb)|\n")
         outputFile.write("| --- | --- | --- | --- |\n")
         for key in keys[1:]:
             outputFile.write(f"| {key} | {tag_number_property[key]} | {file_size_property[key]} |\n")
