@@ -129,7 +129,7 @@ def get_updated_time(file_path: str) -> str:
     modification_time = getmtime(file_path)
     # Convert the modification time to a recognizable timestamp
     formatted_modification_time = ctime(modification_time)
-    formatted_modification_time = datetime.fromtimestamp(modification_time).strftime('%Y-%m-%d %H:%M:%S')
+    formatted_modification_time = datetime.fromtimestamp(modification_time).strftime('%a, %b %d, %Y, %H:%M:%S')
     return formatted_modification_time
 
 def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
@@ -183,7 +183,7 @@ def get_ordered_timestamps(timestamps: list[str]) -> list[datetime]:
     ordered_dates = sorted(
         map(
             datetime.strptime, timestamps[1:],
-            ['%Y-%m-%d %H:%M:%S'] * (len(timestamps) - 1)
+            ['%a, %b %d, %Y, %H:%M:%S'] * (len(timestamps) - 1)
         )
     )
     return ordered_dates
