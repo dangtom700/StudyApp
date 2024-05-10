@@ -4,6 +4,7 @@ from time import ctime
 from datetime import datetime
 import statistics
 from math import ceil
+import random
 
 def get_banned_words(filepath: str) -> set[str]:
     """
@@ -132,6 +133,9 @@ def get_updated_time(file_path: str) -> str:
     formatted_modification_time = datetime.fromtimestamp(modification_time).strftime('%a, %b %d, %Y, %H:%M:%S')
     return formatted_modification_time
 
+def get_current_time() -> str:
+    return datetime.now().strftime('%a, %b %d, %Y')
+
 def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
     """
     Given a set of tags, this function breaks down the set into a dictionary where each key represents the first letter of a tag and the corresponding value is a list of all the tags that start with that letter. 
@@ -187,3 +191,7 @@ def get_ordered_timestamps(timestamps: list[str]) -> list[datetime]:
         )
     )
     return ordered_dates
+
+def pick_random_number_items(input_list: list[str], number_of_items: int) -> list[str]:
+    random_items = random.sample(input_list, number_of_items)
+    return random_items

@@ -74,7 +74,9 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
             outputFile.write(f"{len(filename.strip().split())};")
             word_list = DataProcess.get_word_list_from_file(filename, banned_words)
             for word in word_list:
-                outputFile.write(f" #{word} ")
+                outputFile.write(f" #{word}")
+                if word != word_list[-1]:
+                    outputFile.write(" ")
             outputFile.write(f";{len(word_list)};")
             outputFile.write(f"{DataProcess.get_file_size(folderPath + '/' + filename + ".pdf")};")
             outputFile.write(f"{DataProcess.get_updated_time(folderPath + '/' + filename + ".pdf")}\n")
@@ -102,7 +104,9 @@ def exportPDF_index(folderPath: str) -> None:
             keyword_list = DataProcess.get_word_list_from_file(filename, banned_words)
             
             for keyword in keyword_list:
-                outputFile.write(f"#{keyword} ")
+                outputFile.write(f"#{keyword}")
+                if keyword != keyword_list[-1]:
+                    outputFile.write(" ")
             outputFile.write("\n\n")
 
     # Export to Obsidian
@@ -115,7 +119,9 @@ def exportPDF_index(folderPath: str) -> None:
             keyword_list = DataProcess.get_word_list_from_file(filename, banned_words)
             
             for keyword in keyword_list:
-                outputFile.write(f" #{keyword}")
+                outputFile.write(f"#{keyword}")
+                if keyword != keyword_list[-1]:
+                    outputFile.write(" ")
             outputFile.write("\n\n")
 
 
@@ -232,3 +238,13 @@ def exportPDF_tokens(PDF_info_file: str) -> None:
             else:
                 outputFile.write("\t},\n")
         outputFile.write("]\n")
+
+def pick_number_random_book_to_read() -> None:
+    filename_list = DataProcess.get_pdf_name(path.BOOKS_folder_path)
+    pick_random_item = DataProcess.pick_random_number_items(filename_list, 3)
+    with open(path.taskList_path, "a") as outputFile:
+        outputFile.write(DataProcess.get_current_time() + "\n")
+        for filename in pick_random_item:
+            outputFile.write(f"- [ ] Read a chapter of [[BOOKS/{filename}.pdf|{filename}]]\n")
+        outputFile.write("\n")
+    mirrorFile_to_destination(path.taskList_path, path.Obsidian_taskList_path)
