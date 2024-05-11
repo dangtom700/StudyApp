@@ -3,7 +3,7 @@ import modules.DataProcess as DataProcess
 import modules.Export as Export
 import modules.path as path
 
-def app():
+def app(): 
     
     parser = argparse.ArgumentParser(prog="Study Logging and Database",
                                      description="This project is to meant to store record of learning activities. The files and record of activities are then transfer into database that show user the timeline and activities done in that day.",
