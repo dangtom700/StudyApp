@@ -1,5 +1,5 @@
 
-# PDF index (Total: 246)
+# PDF index (Total: 247)
 
 1. C++ high performance for financial systems
 
@@ -801,7 +801,7 @@ Keywords:#fabrication #guide #manufacturing #microchips #practical #practical_gu
 
 Keywords:#game #how #life
 
-201. simple and effective programming with C#
+201. simple and effective programming with C_sharp
 
 Keywords:#C_sharp #effective #effective_programming #programming #simple
 
@@ -853,135 +853,139 @@ Keywords:#entrepreneurship #innovation #sustainability #sustainability_innovatio
 
 Keywords:#concepts #energy #engineering #engineering_concepts #green #green_energy #practices #practices_green #sustainable #sustainable_engineering #technology
 
-214. test automation a manager guide
+214. telecommunication system engineering
+
+Keywords:#engineering #system #system_engineering #telecommunication #telecommunication_system
+
+215. test automation a manager guide
 
 Keywords:#automation #guide #manager #manager_guide #test #test_automation
 
-215. the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA
+216. the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA
 
 Keywords:#OWL #REA #SCA #architect #built #formalizing #formalizing_REA #framework #knowledge-based #knowledge-based_systems #systems #systems_formalizing
 
-216. the afterlife of data
+217. the afterlife of data
 
 Keywords:#afterlife #data
 
-217. the age of identity who do our kids think they  are and how do we help  them belong
+218. the age of identity who do our kids think they  are and how do we help  them belong
 
 Keywords:#age #belong #help #how #identity #kids #who
 
-218. the boundaries of data
+219. the boundaries of data
 
 Keywords:#boundaries #data
 
-219. the brain abstracted simplification in the history and philosophy of neuroscience
+220. the brain abstracted simplification in the history and philosophy of neuroscience
 
 Keywords:#abstracted #abstracted_simplification #brain #brain_abstracted #history #neuroscience #philosophy #simplification
 
-220. the chemistry of milk and milk products physicochemical properties therapeutic characteristics
+221. the chemistry of milk and milk products physicochemical properties therapeutic characteristics
 
 Keywords:#characteristics #chemistry #milk #milk_products #physicochemical #physicochemical_properties #products #products_physicochemical #properties #properties_therapeutic #therapeutic #therapeutic_characteristics
 
-221. the curious culture of economic theory
+222. the curious culture of economic theory
 
 Keywords:#culture #curious #curious_culture #economic #economic_theory #theory
 
-222. the death of expertise the campaign against established knowledge and why it matters
+223. the death of expertise the campaign against established knowledge and why it matters
 
 Keywords:#against #against_established #campaign #campaign_against #death #established #established_knowledge #expertise #knowledge #matters #why
 
-223. the game of life and how to play it
+224. the game of life and how to play it
 
 Keywords:#game #how #life
 
-224. the information literacy framework case studies of successful implementation
+225. the information literacy framework case studies of successful implementation
 
 Keywords:#case #case_studies #framework #framework_case #implementation #information #information_literacy #literacy #literacy_framework #studies #successful #successful_implementation
 
-225. the organization of information
+226. the organization of information
 
 Keywords:#information #organization
 
-226. the science of lithium
+227. the science of lithium
 
 Keywords:#lithium #science
 
-227. theoretical aspects of software engineering
+228. theoretical aspects of software engineering
 
 Keywords:#aspects #engineering #software #software_engineering #theoretical #theoretical_aspects
 
-228. think C
+229. think C
 
 Keywords:#C
 
-229. think C++
+230. think C++
 
 Keywords:#C_pp
 
-230. think Java
+231. think Java
 
 Keywords:#Java
 
-231. think Python
+232. think Python
 
 Keywords:#Python
 
-232. thinking about science good science bad science and how to make it better
+233. thinking about science good science bad science and how to make it better
 
 Keywords:#bad #bad_science #better #good #good_science #how #science #thinking
 
-233. thought experiments
+234. thought experiments
 
 Keywords:#experiments #thought #thought_experiments
 
-234. ultimate freedom beyond free will
+235. ultimate freedom beyond free will
 
 Keywords:#beyond #beyond_free #free #freedom #ultimate #ultimate_freedom
 
-235. user guide to vacuum technology
+236. user guide to vacuum technology
 
 Keywords:#guide #technology #user #user_guide #vacuum #vacuum_technology
 
-236. vibration engineering
+237. vibration engineering
 
 Keywords:#engineering #vibration #vibration_engineering
 
-237. visual research a concise introduction to thinking visually
+238. visual research a concise introduction to thinking visually
 
 Keywords:#concise #concise_introduction #introduction #research #thinking #thinking_visually #visual #visual_research #visually
 
-238. web design playground HTML CSS the interactive way
+239. web design playground HTML CSS the interactive way
 
 Keywords:#CSS #HTML #HTML_CSS #design #design_playground #interactive #playground #playground_HTML #web #web_design
 
-239. web scraping with Python
+240. web scraping with Python
 
 Keywords:#Python #scraping #web #web_scraping
 
-240. what every engineer should know about data driven analytics
+241. what every engineer should know about data driven analytics
 
 Keywords:#analytics #data #data_driven #driven #driven_analytics #engineer
 
-241. what every engineer should know about reliability and risk analysis
+242. what every engineer should know about reliability and risk analysis
 
 Keywords:#analysis #engineer #reliability #risk #risk_analysis
 
-242. what every engineer should know about risk engineering and management
+243. what every engineer should know about risk engineering and management
 
 Keywords:#engineer #engineering #management #risk #risk_engineering
 
-243. what every engineer should know about smart cities
+244. what every engineer should know about smart cities
 
 Keywords:#cities #engineer #smart #smart_cities
 
-244. what every engineer should know about the internet of things
+245. what every engineer should know about the internet of things
 
 Keywords:#engineer #internet #things
 
-245. where is science leading us and what can we do to steer it
+246. where is science leading us and what can we do to steer it
 
 Keywords:#leading #science #science_leading #where
 
-246. written communication for engineer
+247. written communication for engineer
 
 Keywords:#communication #engineer #written #written_communication
 

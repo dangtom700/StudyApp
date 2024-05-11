@@ -1,5 +1,15 @@
 Thu, May 09, 2024
-- [ ] Read a chapter of [[BOOKS/internet afterlife virtual salvation in the 21st century.pdf|internet afterlife virtual salvation in the 21st century]]
-- [ ] Read a chapter of [[BOOKS/information science.pdf|information science]]
-- [ ] Read a chapter of [[BOOKS/media and development.pdf|media and development]]
+- [x] Read a chapter of [[BOOKS/internet afterlife virtual salvation in the 21st century.pdf|internet afterlife virtual salvation in the 21st century]]
+- [x] Read a chapter of [[BOOKS/information science.pdf|information science]]
+- [x] Read a chapter of [[BOOKS/media and development.pdf|media and development]]
+
+Sat, May 10, 2024
+- [x] Read a chapter of [[BOOKS/the chemistry of milk and milk products physicochemical properties therapeutic characteristics.pdf|the chemistry of milk and milk products physicochemical properties therapeutic characteristics]]
+- [x] Read a chapter of [[BOOKS/math numeric and programming for mechanical engineer.pdf|math numeric and programming for mechanical engineer]]
+- [x] Read a chapter of [[BOOKS/PowerShell essential guide mastering the fundamentals of scripting and automation.pdf|PowerShell essential guide mastering the fundamentals of scripting and automation]]
+
+Sat, May 11, 2024
+- [ ] Read a chapter of [[BOOKS/the boundaries of data.pdf|the boundaries of data]]
+- [ ] Read a chapter of [[BOOKS/VBA guru mastering the art of automation.pdf|VBA guru mastering the art of automation]]
+- [ ] Read a chapter of [[BOOKS/mechanical engineer handbook energy and power.pdf|mechanical engineer handbook energy and power]]
 

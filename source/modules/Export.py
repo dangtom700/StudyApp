@@ -115,7 +115,7 @@ def exportPDF_index(folderPath: str) -> None:
         for index, filename in enumerate(filename_list, start= 1):
             outputFile.write(f"{index}. [[BOOKS/{filename}.pdf|{filename}]]\n")
 
-            outputFile.write("\nKeywords:")
+            outputFile.write("\nKeywords: ")
             keyword_list = DataProcess.get_word_list_from_file(filename, banned_words)
             
             for keyword in keyword_list:
@@ -242,9 +242,9 @@ def exportPDF_tokens(PDF_info_file: str) -> None:
 def pick_number_random_book_to_read() -> None:
     filename_list = DataProcess.get_pdf_name(path.BOOKS_folder_path)
     pick_random_item = DataProcess.pick_random_number_items(filename_list, 3)
-    with open(path.taskList_path, "a") as outputFile:
+    with open(path.Obsidian_taskList_path, "a") as outputFile:
         outputFile.write(DataProcess.get_current_time() + "\n")
         for filename in pick_random_item:
             outputFile.write(f"- [ ] Read a chapter of [[BOOKS/{filename}.pdf|{filename}]]\n")
         outputFile.write("\n")
-    mirrorFile_to_destination(path.taskList_path, path.Obsidian_taskList_path)
+    mirrorFile_to_destination(path.Obsidian_taskList_path, path.taskList_path)
