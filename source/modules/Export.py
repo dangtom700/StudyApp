@@ -208,36 +208,28 @@ def updateStat(PDF_info_file: str) -> None:
         json_string = json.dumps(dict_list,indent=4)
         outputFile.write(json_string)
 
-def exportPDF_tokens(PDF_info_file: str) -> None:
-    """
-    Export PDF tokens from a given PDF info file.
+def exportPDF_tokens(pdf_info_file: str) -> None:
+    """Export PDF tokens from a given PDF info file."""
+    with open(pdf_info_file, "r") as csv_file:
+        reader_ = reader(csv_file, delimiter=";")
+        data = list(zip(*reader_))
 
-    Parameters:
-        PDF_info_file (str): The path to the PDF info file.
+    PDF_token_list = [
+        {
+            "Title": title,
+            "Title Length (char)": title_length_char,
+            "Title Length (word)": title_length_word,
+            "Multi-Tags": multi_tags,
+            "Tag Number": tag_number,
+            "File Size (Kb)": file_size,
+            "Updated Time": updated_time
+        } 
+        for title, title_length_char, title_length_word, multi_tags, tag_number, file_size, updated_time 
+        in zip(data[0], data[1], data[2], data[3], data[4], data[5], data[6])
+    ]
 
-    Returns:
-        None
-    """
-    with open(PDF_info_file, "r") as csv_file:
-        csvreader = reader(csv_file, delimiter = ';')
-        data = list(zip(*csvreader))
-    title, title_length_char, title_length_word, multi_tags, tag_number, file_size_byte, updated_time = data
-    with open(path.PDF_tokens_path, "w") as outputFile:
-        outputFile.write("[\n")
-        for i in range(len(title)):
-            outputFile.write(f"\t{{\n")
-            outputFile.write(f"\t\t\"title\": \"{title[i]}\",\n")
-            outputFile.write(f"\t\t\"title_length_char\": \"{title_length_char[i]}\",\n")
-            outputFile.write(f"\t\t\"title_length_word\": \"{title_length_word[i]}\",\n")
-            outputFile.write(f"\t\t\"multi_tags\": \"{multi_tags[i]}\",\n")
-            outputFile.write(f"\t\t\"tag_number\": \"{tag_number[i]}\",\n")
-            outputFile.write(f"\t\t\"file_size_byte\": \"{file_size_byte[i]}\",\n")
-            outputFile.write(f"\t\t\"updated_time\": \"{updated_time[i]}\"\n")
-            if i == len(title) - 1:
-                outputFile.write("\t}\n")
-            else:
-                outputFile.write("\t},\n")
-        outputFile.write("]\n")
+    with open(path.PDF_tokens_path, "w") as output_file:
+        json.dump(PDF_token_list, output_file, indent=4,)
 
 def pick_number_random_book_to_read() -> None:
     filename_list = DataProcess.get_pdf_name(path.BOOKS_folder_path)
