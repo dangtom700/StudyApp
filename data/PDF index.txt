@@ -1,5 +1,5 @@
 
-# PDF index (Total: 247)
+# PDF index (Total: 253)
 
 1. C++ high performance for financial systems
 
@@ -205,787 +205,811 @@ Keywords:#control #control_systems #engineering #systems #systems_engineering
 
 Keywords:#convergent #convergent_journalism #introduction #introduction_writing #journalism #media #producing #writing
 
-52. data science and analysis guide a beginners journey into the essential of data science and analysis
+52. corrosion science theoretical and practical applications
+
+Keywords:#applications #corrosion #corrosion_science #practical #practical_applications #science #science_theoretical #theoretical
+
+53. data science and analysis guide a beginners journey into the essential of data science and analysis
 
 Keywords:#analysis #analysis_guide #beginners #beginners_journey #data #data_science #essential #guide #journey #science
 
-53. data science fundamentals with R Python and open data
+54. data science fundamentals with R Python and open data
 
 Keywords:#Python #R #R_Python #data #data_science #fundamentals #open #open_data #science #science_fundamentals
 
-54. data structure using C theory and program
+55. data structure using C theory and program
 
 Keywords:#C #C_theory #data #data_structure #program #structure #theory
 
-55. data structures and algorithms for beginners unlocking efficient coding techniques from the ground up
+56. data structures and algorithms for beginners unlocking efficient coding techniques from the ground up
 
 Keywords:#algorithms #beginners #coding #coding_techniques #data #data_structures #efficient #efficient_coding #ground #structures #techniques #unlocking #unlocking_efficient
 
-56. deep learning foundation and concepts
+57. deep learning foundation and concepts
 
 Keywords:#concepts #deep #deep_learning #foundation #learning #learning_foundation
 
-57. design thinking understanding how designers think and work
+58. design thinking understanding how designers think and work
 
 Keywords:#design #design_thinking #designers #how #thinking #thinking_understanding #understanding #understanding_how #work
 
-58. designers guide to Figma
+59. designers guide to Figma
 
 Keywords:#Figma #designers #designers_guide #guide
 
-59. designing knowledge emerging perspectives in design studies practices
+60. designing knowledge emerging perspectives in design studies practices
 
 Keywords:#design #design_studies #designing #designing_knowledge #emerging #emerging_perspectives #knowledge #knowledge_emerging #perspectives #practices #studies #studies_practices
 
-60. differential equation based solutions for emerging real time problems
+61. differential equation based solutions for emerging real time problems
 
 Keywords:#differential #differential_equation #emerging #emerging_real #equation #problems #real #real_time #solutions #time #time_problems
 
-61. digital habitus a critique of the imaginaries of artificial intelligence
+62. digital habitus a critique of the imaginaries of artificial intelligence
 
 Keywords:#artificial #artificial_intelligence #critique #digital #digital_habitus #habitus #imaginaries #intelligence
 
-62. distributed energy systems design modelling and control
+63. distributed energy systems design modelling and control
 
 Keywords:#control #design #design_modelling #distributed #distributed_energy #energy #energy_systems #modelling #systems #systems_design
 
-63. do the humanities create knowledge
+64. distribution theory principles and applications
+
+Keywords:#applications #distribution #distribution_theory #principles #theory #theory_principles
+
+65. do the humanities create knowledge
 
 Keywords:#create #create_knowledge #humanities #humanities_create #knowledge
 
-64. econometric calculus an integrated approach
+66. econometric calculus an integrated approach
 
 Keywords:#approach #calculus #econometric #econometric_calculus #integrated #integrated_approach
 
-65. econometric python harnessing the data science for economy
+67. econometric python harnessing the data science for economy
 
 Keywords:#data #data_science #econometric #econometric_python #economy #harnessing #python #python_harnessing #science
 
-66. economics and engineering institutions practices and cultures
+68. economics and engineering institutions practices and cultures
 
 Keywords:#cultures #economics #engineering #engineering_institutions #institutions #institutions_practices #practices
 
-67. effective machine learning teams
+69. effective machine learning teams
 
 Keywords:#effective #effective_machine #learning #learning_teams #machine #machine_learning #teams
 
-68. electric circuit analysis
+70. electric circuit analysis
 
 Keywords:#analysis #circuit #circuit_analysis #electric #electric_circuit
 
-69. electronics for scientist
+71. electronics for scientist
 
 Keywords:#electronics #scientist
 
-70. element of robotics
+72. element of robotics
 
 Keywords:#element #robotics
 
-71. embedded systems handbook systems design and verification
+73. embedded systems handbook systems design and verification
 
 Keywords:#design #embedded #embedded_systems #handbook #handbook_systems #systems #systems_design #systems_handbook #verification
 
-72. energy efficient electrical systems for buildings
+74. energy efficient electrical systems for buildings
 
 Keywords:#buildings #efficient #efficient_electrical #electrical #electrical_systems #energy #energy_efficient #systems
 
-73. engineering economics
+75. engineering economics
 
 Keywords:#economics #engineering #engineering_economics
 
-74. engineering economics financial decision making for engineers
+76. engineering economics financial decision making for engineers
 
 Keywords:#decision #decision_making #economics #economics_financial #engineering #engineering_economics #engineers #financial #financial_decision #making
 
-75. engineering mathematics and computing
+77. engineering mathematics and computing
 
 Keywords:#computing #engineering #engineering_mathematics #mathematics
 
-76. engineering measurement and instrumentation
+78. engineering measurement and instrumentation
 
 Keywords:#engineering #engineering_measurement #instrumentation #measurement
 
-77. engineering mechanics dynamics version 1
+79. engineering mechanics dynamics version 1
 
 Keywords:#dynamics #engineering #engineering_mechanics #mechanics #mechanics_dynamics
 
-78. engineering mechanics dynamics version 2
+80. engineering mechanics dynamics version 2
 
 Keywords:#dynamics #engineering #engineering_mechanics #mechanics #mechanics_dynamics
 
-79. engineering noise control
+81. engineering noise control
 
 Keywords:#control #engineering #engineering_noise #noise #noise_control
 
-80. engineering statics open and interactive
+82. engineering statics open and interactive
 
 Keywords:#engineering #engineering_statics #interactive #open #statics #statics_open
 
-81. essential guide to HTML
+83. essential guide to HTML
 
 Keywords:#HTML #essential #essential_guide #guide
 
-82. essential of biology
+84. essential of biology
 
 Keywords:#biology #essential
 
-83. essential of management information systems
+85. essential of management information systems
 
 Keywords:#essential #information #information_systems #management #management_information #systems
 
-84. essential of oceanography
+86. essential of oceanography
 
 Keywords:#essential #oceanography
 
-85. everything you should know about Matlab for economic analysis
+87. everything you should know about Matlab for economic analysis
 
 Keywords:#Matlab #analysis #economic #economic_analysis #everything
 
-86. excel cookbook
+88. excel cookbook
 
 Keywords:#cookbook #excel #excel_cookbook
 
-87. exploring game mechanics principles and technology to make fun engaging game
+89. exploring game mechanics principles and technology to make fun engaging game
 
 Keywords:#engaging #engaging_game #exploring #exploring_game #fun #fun_engaging #game #game_mechanics #mechanics #mechanics_principles #principles #technology
 
-88. fabrication and design of resonant microdevices
+90. fabrication and design of resonant microdevices
 
 Keywords:#design #fabrication #microdevices #resonant #resonant_microdevices
 
-89. figure drawing got all its worth
+91. figure drawing got all its worth
 
 Keywords:#drawing #figure #figure_drawing #worth
 
-90. fluid mechanics
+92. fluid mechanics
 
 Keywords:#fluid #fluid_mechanics #mechanics
 
-91. fluid mechanics basic concepts and principles
+93. fluid mechanics basic concepts and principles
 
 Keywords:#basic #basic_concepts #concepts #fluid #fluid_mechanics #mechanics #mechanics_basic #principles
 
-92. fluid mechanics basic concepts and principles 2
+94. fluid mechanics basic concepts and principles 2
 
 Keywords:#basic #basic_concepts #concepts #fluid #fluid_mechanics #mechanics #mechanics_basic #principles
 
-93. foundation of data science with Python
+95. foundation of data science with Python
 
 Keywords:#Python #data #data_science #foundation #science
 
-94. foundation of library and information science
+96. foundation of library and information science
 
 Keywords:#foundation #information #information_science #library #science
 
-95. fundamentals of fluid mechanics for scientist and engineer
+97. fundamentals of fluid mechanics for scientist and engineer
 
 Keywords:#engineer #fluid #fluid_mechanics #fundamentals #mechanics #scientist
 
-96. fundamentals of matedata management succeed data information and knowledge management
+98. fundamentals of matedata management succeed data information and knowledge management
 
 Keywords:#data #data_information #fundamentals #information #knowledge #knowledge_management #management #management_succeed #matedata #matedata_management #succeed #succeed_data
 
-97. fundamentals of microelectronics
+99. fundamentals of microelectronics
 
 Keywords:#fundamentals #microelectronics
 
-98. game audio fundamentals an introduction to the theory planning and practice of soundscape creation for games
+100. game audio fundamentals an introduction to the theory planning and practice of soundscape creation for games
 
 Keywords:#audio #audio_fundamentals #creation #fundamentals #game #game_audio #games #introduction #planning #practice #soundscape #soundscape_creation #theory #theory_planning
 
-99. game backend development with Microsoft Azure and PlayFab
+101. game backend development with Microsoft Azure and PlayFab
 
 Keywords:#Azure #Microsoft #Microsoft_Azure #PlayFab #backend #backend_development #development #game #game_backend
 
-100. game design deep dive trading and collectible card games
+102. game design deep dive trading and collectible card games
 
 Keywords:#card #card_games #collectible #collectible_card #deep #deep_dive #design #dive #dive_trading #game #game_design #games #trading
 
-101. game design tools cognitive psychological and practical approach
+103. game design tools cognitive psychological and practical approach
 
 Keywords:#approach #cognitive #cognitive_psychological #design #design_tools #game #game_design #practical #practical_approach #psychological #tools #tools_cognitive
 
-102. game jam history technology and organization
+104. game jam history technology and organization
 
 Keywords:#game #game_jam #history #history_technology #jam #jam_history #organization #technology
 
-103. graph databases applications on social media analytics and smart cities
+105. graph databases applications on social media analytics and smart cities
 
 Keywords:#analytics #applications #cities #databases #databases_applications #graph #graph_databases #media #media_analytics #smart #smart_cities #social #social_media
 
-104. handbook of project management
+106. handbook of project management
 
 Keywords:#handbook #management #project #project_management
 
-105. hello web design design fundamentals and shortcuts for designers
+107. hello web design design fundamentals and shortcuts for designers
 
 Keywords:#design #design_design #design_fundamentals #designers #fundamentals #shortcuts #web #web_design
 
-106. how AI work from sorcery to science
+108. how AI work from sorcery to science
 
 Keywords:#AI #AI_work #how #how_AI #science #sorcery #work
 
-107. how learning happen seminal work in educational psychology and what they mean in practices
+109. how learning happen seminal work in educational psychology and what they mean in practices
 
 Keywords:#educational #educational_psychology #how #how_learning #learning #practices #psychology #seminal #seminal_work #work
 
-108. how to become a data analyst my low-cost no-code roadmap for breaking into tech
+110. how to become a data analyst my low-cost no-code roadmap for breaking into tech
 
 Keywords:#analyst #data #data_analyst #how #low-cost #low-cost_no-code #no-code #no-code_roadmap #roadmap #tech
 
-109. how to test a time machine a practical guide to the architecture and automation
+111. how to test a time machine a practical guide to the architecture and automation
 
 Keywords:#architecture #automation #guide #how #machine #practical #practical_guide #test #time #time_machine
 
-110. human factors in engineering manufacturing systems automation and interactions
+112. human factors in engineering manufacturing systems automation and interactions
 
 Keywords:#automation #engineering #engineering_manufacturing #factors #human #human_factors #interactions #manufacturing #manufacturing_systems #systems #systems_automation
 
-111. human geography places and regions in global context
+113. human geography places and regions in global context
 
 Keywords:#context #geography #geography_places #global #global_context #human #human_geography #places #regions
 
-112. industry 4.0 concepts process and systems
+114. industry 4.0 concepts process and systems
 
 Keywords:#concepts #concepts_process #industry #process #systems
 
-113. information and knowledge systems
+115. information and knowledge systems
 
 Keywords:#information #knowledge #knowledge_systems #systems
 
-114. information asset management why you must manage your data information and knowledge the way you manage your money
+116. information asset management why you must manage your data information and knowledge the way you manage your money
 
 Keywords:#asset #asset_management #data #data_information #information #information_asset #knowledge #manage #management #money #must #must_manage #why #your #your_data #your_money
 
-115. information design unbound key concepts and skills for making sense in a changing world
+117. information design unbound key concepts and skills for making sense in a changing world
 
 Keywords:#changing #changing_world #concepts #design #design_unbound #information #information_design #key #key_concepts #making #making_sense #sense #skills #unbound #unbound_key #world
 
-116. information science
+118. information science
 
 Keywords:#information #information_science #science
 
-117. innovative social science teaching and learning facilitating students personal growth and career success
+119. innovative social science teaching and learning facilitating students personal growth and career success
 
 Keywords:#career #career_success #facilitating #facilitating_students #growth #innovative #learning #learning_facilitating #personal #personal_growth #science #science_teaching #social #social_science #students #students_personal #success #teaching
 
-118. insights strategies and applications of business analytics
+120. insights strategies and applications of business analytics
 
 Keywords:#analytics #applications #business #business_analytics #insights #insights_strategies #strategies
 
-119. intelligent decision support system for IoT enabling technology opportunities challenges and applications
+121. intelligent decision support system for IoT enabling technology opportunities challenges and applications
 
 Keywords:#IoT #IoT_enabling #applications #challenges #decision #decision_support #enabling #enabling_technology #intelligent #intelligent_decision #opportunities #opportunities_challenges #support #support_system #system #technology #technology_opportunities
 
-120. intelligent robots and drones for precision agriculture
+122. intelligent robots and drones for precision agriculture
 
 Keywords:#agriculture #drones #intelligent #intelligent_robots #precision #precision_agriculture #robots
 
-121. intelligent transportation system and advanced technology energy environment and sustainability
+123. intelligent transportation system and advanced technology energy environment and sustainability
 
 Keywords:#advanced #advanced_technology #energy #environment #intelligent #intelligent_transportation #sustainability #system #technology #technology_energy #transportation #transportation_system
 
-122. internet afterlife virtual salvation in the 21st century
+124. internet afterlife virtual salvation in the 21st century
 
 Keywords:#afterlife #afterlife_virtual #century #internet #internet_afterlife #salvation #virtual #virtual_salvation
 
-123. introduction Java through game development
+125. introduction Java through game development
 
 Keywords:#Java #development #game #game_development #introduction #introduction_Java
 
-124. introduction to Blender 3.0 organic and architectural modelling lighting material painting rendering and compositing
+126. introduction to Blender 3.0 organic and architectural modelling lighting material painting rendering and compositing
 
 Keywords:#Blender #architectural #architectural_modelling #compositing #introduction #lighting #lighting_material #material #material_painting #modelling #modelling_lighting #organic #painting #painting_rendering #rendering
 
-125. introduction to autonomous robots mechanisms sensors actuators and algorithms
+127. introduction to autonomous robots mechanisms sensors actuators and algorithms
 
 Keywords:#actuators #algorithms #autonomous #autonomous_robots #introduction #mechanisms #mechanisms_sensors #robots #robots_mechanisms #sensors #sensors_actuators
 
-126. introduction to chemical engineering
+128. introduction to chemical engineering
 
 Keywords:#chemical #chemical_engineering #engineering #introduction
 
-127. introduction to compiler design
+129. introduction to compiler design
 
 Keywords:#compiler #compiler_design #design #introduction
 
-128. introduction to design theory philosophy critique history and practices
+130. introduction to design theory philosophy critique history and practices
 
 Keywords:#critique #critique_history #design #design_theory #history #introduction #philosophy #philosophy_critique #practices #theory #theory_philosophy
 
-129. introduction to engineering for engineer and scientist
+131. introduction to engineering for engineer and scientist
 
 Keywords:#engineer #engineering #introduction #scientist
 
-130. introduction to logic programming
+132. introduction to logic programming
 
 Keywords:#introduction #logic #logic_programming #programming
 
-131. introduction to nuclear engineering a study guide
+133. introduction to nuclear engineering a study guide
 
 Keywords:#engineering #guide #introduction #nuclear #nuclear_engineering
 
-132. introduction to philosophy of engineering
+134. introduction to philosophy of engineering
 
 Keywords:#engineering #introduction #philosophy
 
-133. introduction to probability statistical methods design of experiments and statistical quality control
+135. introduction to probability statistical methods design of experiments and statistical quality control
 
 Keywords:#control #design #experiments #introduction #methods #methods_design #probability #probability_statistical #quality #quality_control #statistical #statistical_methods #statistical_quality
 
-134. introduction to statistics and data analysis exercises solutions and applications in R
+136. introduction to statistics and data analysis exercises solutions and applications in R
 
 Keywords:#R #analysis #analysis_exercises #applications #data #data_analysis #exercises #exercises_solutions #introduction #solutions #statistics
 
-135. introduction to texture analysis macrotexture microtexture and orientation mapping
+137. introduction to texture analysis macrotexture microtexture and orientation mapping
 
 Keywords:#analysis #analysis_macrotexture #introduction #macrotexture #macrotexture_microtexture #mapping #microtexture #orientation #orientation_mapping #texture #texture_analysis
 
-136. introductory mems fabrication and applications
+138. introductory mems fabrication and applications
 
 Keywords:#applications #fabrication #introductory #introductory_mems #mems #mems_fabrication
 
-137. investigating oceanography
+139. investigating oceanography
 
 Keywords:#investigating #investigating_oceanography #oceanography
 
-138. knowledge and ideation inventive knowledge analysis for ideation stimulation
+140. knowledge and ideation inventive knowledge analysis for ideation stimulation
 
 Keywords:#analysis #ideation #ideation_inventive #ideation_stimulation #inventive #inventive_knowledge #knowledge #knowledge_analysis #stimulation
 
-139. knowledge and systems science enabling systemic knowledge synthesis
+141. knowledge and systems science enabling systemic knowledge synthesis
 
 Keywords:#enabling #enabling_systemic #knowledge #knowledge_synthesis #science #science_enabling #synthesis #systemic #systemic_knowledge #systems #systems_science
 
-140. knowledge integration methods for probabilistic knowledge-based systems
+142. knowledge integration methods for probabilistic knowledge-based systems
 
 Keywords:#integration #integration_methods #knowledge #knowledge-based #knowledge-based_systems #knowledge_integration #methods #probabilistic #probabilistic_knowledge-based #systems
 
-141. knowledge management systems and processes in the AI era
+143. knowledge management systems and processes in the AI era
 
 Keywords:#AI #AI_era #era #knowledge #knowledge_management #management #management_systems #processes #systems
 
-142. knowledge science engineering and management
+144. knowledge science engineering and management
 
 Keywords:#engineering #knowledge #knowledge_science #management #science #science_engineering
 
-143. knowledge-based systems
+145. knowledge-based systems
 
 Keywords:#knowledge-based #knowledge-based_systems #systems
 
-144. lean six sigma methods for production optimization
+146. lean six sigma methods for production optimization
 
 Keywords:#lean #lean_six #methods #optimization #production #production_optimization #sigma #sigma_methods #six #six_sigma
 
-145. learn Python with fun project
+147. learn Python with fun project
 
 Keywords:#Python #fun #fun_project #learn #learn_Python #project
 
-146. level of reality in science and philosophy re-examining the multi-level structure of reality
+148. level of reality in science and philosophy re-examining the multi-level structure of reality
 
 Keywords:#level #multi-level #multi-level_structure #philosophy #philosophy_re-examining #re-examining #reality #science #structure
 
-147. libraries literatures and archives
+149. libraries literatures and archives
 
 Keywords:#archives #libraries #libraries_literatures #literatures
 
-148. listening in the afterlife of data aesthetics pragmatics and incommunication
+150. listening in the afterlife of data aesthetics pragmatics and incommunication
 
 Keywords:#aesthetics #aesthetics_pragmatics #afterlife #data #data_aesthetics #incommunication #listening #pragmatics
 
-149. logos and alogon thinkable and the unthinkable in mathematics from the Pythagoreans to the modern
+151. logos and alogon thinkable and the unthinkable in mathematics from the Pythagoreans to the modern
 
 Keywords:#Pythagoreans #alogon #logos #mathematics #modern #thinkable #unthinkable
 
-150. machine learning and deep learning in natural language processing
+152. machine learning and deep learning in natural language processing
 
 Keywords:#deep #deep_learning #language #language_processing #learning #machine #machine_learning #natural #natural_language #processing
 
-151. machine learning crash course for engineer
+153. machine learning crash course for engineer
 
 Keywords:#course #crash #crash_course #engineer #learning #learning_crash #machine #machine_learning
 
-152. maintaining and repairing old and historic buildings
+154. maintaining and repairing old and historic buildings
 
 Keywords:#buildings #historic #historic_buildings #maintaining #old #repairing #repairing_old
 
-153. management and cost accounting
+155. management and cost accounting
 
 Keywords:#accounting #cost #cost_accounting #management
 
-154. mastering C++ network automation
+156. mastering C++ network automation
 
 Keywords:#C_pp #C_pp_network #automation #mastering #mastering_C_pp #network #network_automation
 
-155. mastering large language models
+157. mastering large language models
 
 Keywords:#language #language_models #large #large_language #mastering #models
 
-156. mastering project discovery successful discipline in engineering and analytics project
+158. mastering project discovery successful discipline in engineering and analytics project
 
 Keywords:#analytics #analytics_project #discipline #discovery #discovery_successful #engineering #mastering #mastering_project #project #project_discovery #successful #successful_discipline
 
-157. material modelling in finite element analysis
+159. material modelling in finite element analysis
 
 Keywords:#analysis #element #element_analysis #finite #finite_element #material #material_modelling #modelling
 
-158. math numeric and programming for mechanical engineer
+160. math numeric and programming for mechanical engineer
 
 Keywords:#engineer #math #math_numeric #mechanical #mechanical_engineer #numeric #programming
 
-159. mathematical modelling of fluid dynamics and nanofluids
+161. mathematical modelling of fluid dynamics and nanofluids
 
 Keywords:#dynamics #fluid #fluid_dynamics #mathematical #mathematical_modelling #modelling #nanofluids
 
-160. mathematics manual for water and wastewater treatment plant operators wastewater treatment operations math concepts and calculation
+162. mathematics manual for water and wastewater treatment plant operators wastewater treatment operations math concepts and calculation
 
 Keywords:#calculation #concepts #manual #math #math_concepts #mathematics #mathematics_manual #operations #operations_math #operators #operators_wastewater #plant #plant_operators #treatment #treatment_operations #treatment_plant #wastewater #wastewater_treatment #water
 
-161. measurement and sensor systems a comprehensive guide to principles practical issues and applications
+163. measurement and sensor systems a comprehensive guide to principles practical issues and applications
 
 Keywords:#applications #comprehensive #comprehensive_guide #guide #issues #measurement #practical #practical_issues #principles #principles_practical #sensor #sensor_systems #systems
 
-162. mechanical engineer handbook design instrumentation and control
+164. mechanical engineer handbook design instrumentation and control
 
 Keywords:#control #design #design_instrumentation #engineer #engineer_handbook #handbook #handbook_design #instrumentation #mechanical #mechanical_engineer
 
-163. mechanical engineer handbook energy and power
+165. mechanical engineer handbook energy and power
 
 Keywords:#energy #engineer #engineer_handbook #handbook #handbook_energy #mechanical #mechanical_engineer #power
 
-164. mechanical engineer handbook manufacturing and management
+166. mechanical engineer handbook manufacturing and management
 
 Keywords:#engineer #engineer_handbook #handbook #handbook_manufacturing #management #manufacturing #mechanical #mechanical_engineer
 
-165. mechanical engineer handbook material and engineering mechanics
+167. mechanical engineer handbook material and engineering mechanics
 
 Keywords:#engineer #engineer_handbook #engineering #engineering_mechanics #handbook #handbook_material #material #mechanical #mechanical_engineer #mechanics
 
-166. media and development
+168. media and development
 
 Keywords:#development #media
 
-167. microcontrollers
+169. microcontrollers
 
 Keywords:#microcontrollers
 
-168. modelling and simulation in engineering
+170. modelling and simulation in engineering
 
 Keywords:#engineering #modelling #simulation
 
-169. modern control systems
+171. modern control systems
 
 Keywords:#control #control_systems #modern #modern_control #systems
 
-170. modern graphics communication
+172. modern graphics communication
 
 Keywords:#communication #graphics #graphics_communication #modern #modern_graphics
 
-171. modern statistics a computer-based approach with Python
+173. modern statistics a computer-based approach with Python
 
 Keywords:#Python #approach #computer-based #computer-based_approach #modern #modern_statistics #statistics
 
-172. molecular simulation of fluid theory algorithms object-orientation and parallel computing
+174. molecular simulation of fluid theory algorithms object-orientation and parallel computing
 
 Keywords:#algorithms #algorithms_object-orientation #computing #fluid #fluid_theory #molecular #molecular_simulation #object-orientation #parallel #parallel_computing #simulation #theory #theory_algorithms
 
-173. nanofillers fabrication characterization and applications of organic nanofillers
+175. nanofillers fabrication characterization and applications of organic nanofillers
 
 Keywords:#applications #characterization #fabrication #fabrication_characterization #nanofillers #nanofillers_fabrication #organic #organic_nanofillers
 
-174. nanotechnology enhanced solid materials design synthesis properties applications and Perspective
+176. nanotechnology enhanced solid materials design synthesis properties applications and Perspective
 
 Keywords:#Perspective #applications #design #design_synthesis #enhanced #enhanced_solid #materials #materials_design #nanotechnology #nanotechnology_enhanced #properties #properties_applications #solid #solid_materials #synthesis #synthesis_properties
 
-175. nature of scientific knowledge and explanatory approach
+177. nature of scientific knowledge and explanatory approach
 
 Keywords:#approach #explanatory #explanatory_approach #knowledge #nature #scientific #scientific_knowledge
 
-176. nonlinear dynamics and chaos with applications to physics biology chemistry and engineering
+178. nonlinear dynamics and chaos with applications to physics biology chemistry and engineering
 
 Keywords:#applications #biology #biology_chemistry #chaos #chemistry #dynamics #engineering #nonlinear #nonlinear_dynamics #physics #physics_biology
 
-177. nonlinear systems stability dynamics and control
+179. nonlinear systems stability dynamics and control
 
 Keywords:#control #dynamics #nonlinear #nonlinear_systems #stability #stability_dynamics #systems #systems_stability
 
-178. novelty information and surprise
+180. novelty information and surprise
 
 Keywords:#information #novelty #novelty_information #surprise
 
-179. operating systems evolutionary concepts and modern design principles
+181. operating systems evolutionary concepts and modern design principles
 
 Keywords:#concepts #design #design_principles #evolutionary #evolutionary_concepts #modern #modern_design #operating #operating_systems #principles #systems #systems_evolutionary
 
-180. organizational behavior
+182. optimization methods for engineering problems
+
+Keywords:#engineering #engineering_problems #methods #optimization #optimization_methods #problems
+
+183. organizational behavior
 
 Keywords:#behavior #organizational #organizational_behavior
 
-181. partial differential equation an introduction to analytical and numerical methods
+184. partial differential equation an introduction to analytical and numerical methods
 
 Keywords:#analytical #differential #differential_equation #equation #introduction #methods #numerical #numerical_methods #partial #partial_differential
 
-182. perspective drawing handbook
+185. perspective drawing handbook
 
 Keywords:#drawing #drawing_handbook #handbook #perspective #perspective_drawing
 
-183. philosophy of computing
+186. philosophy of computing
 
 Keywords:#computing #philosophy
 
-184. philosophy of science for scientist
+187. philosophy of science for scientist
 
 Keywords:#philosophy #science #scientist
 
-185. power electronics converters applications and design
+188. power electronics converters applications and design
 
 Keywords:#applications #converters #converters_applications #design #electronics #electronics_converters #power #power_electronics
 
-186. practical control engineering for mechatronics and automation
+189. practical control engineering for mechatronics and automation
 
 Keywords:#automation #control #control_engineering #engineering #mechatronics #practical #practical_control
 
-187. pro Git
+190. pro Git
 
 Keywords:#Git #pro #pro_Git
 
-188. probability statistics and stimulation with applications program written in R
+191. probability statistics and stimulation with applications program written in R
 
 Keywords:#R #applications #applications_program #probability #probability_statistics #program #program_written #statistics #stimulation #written
 
-189. process control modelling design and simulation
+192. process control modelling design and simulation
 
 Keywords:#control #control_modelling #design #modelling #modelling_design #process #process_control #simulation
 
-190. product development and management body of knowledge a guidebook for product innovation training and certification
+193. product development and management body of knowledge a guidebook for product innovation training and certification
 
 Keywords:#body #certification #development #guidebook #innovation #innovation_training #knowledge #management #management_body #product #product_development #product_innovation #training
 
-191. professional C++
+194. professional C++
 
 Keywords:#C_pp #professional #professional_C_pp
 
-192. programming for absolute beginners using JavaScript programming language
+195. programming for absolute beginners using JavaScript programming language
 
 Keywords:#JavaScript #JavaScript_programming #absolute #absolute_beginners #beginners #language #programming #programming_language
 
-193. programming language and systems
+196. programming language and systems
 
 Keywords:#language #programming #programming_language #systems
 
-194. project management for the unofficial project manager
+197. project management for the unofficial project manager
 
 Keywords:#management #manager #project #project_management #project_manager #unofficial #unofficial_project
 
-195. punk ageing and time
+198. punk ageing and time
 
 Keywords:#ageing #punk #punk_ageing #time
 
-196. real time simulation technology for modern power electronics
+199. quality control in fruit and vegetable processing methods and strategies
+
+Keywords:#control #fruit #methods #processing #processing_methods #quality #quality_control #strategies #vegetable #vegetable_processing
+
+200. real time simulation technology for modern power electronics
 
 Keywords:#electronics #modern #modern_power #power #power_electronics #real #real_time #simulation #simulation_technology #technology #time #time_simulation
 
-197. recent development in automatic control systems
+201. recent development in automatic control systems
 
 Keywords:#automatic #automatic_control #control #control_systems #development #recent #recent_development #systems
 
-198. recognition in the age of social media
+202. recognition in the age of social media
 
 Keywords:#age #media #recognition #social #social_media
 
-199. semiconductor microchips and fabrication a practical guide to theory and manufacturing
+203. semiconductor microchips and fabrication a practical guide to theory and manufacturing
 
 Keywords:#fabrication #guide #manufacturing #microchips #practical #practical_guide #semiconductor #semiconductor_microchips #theory
 
-200. seven game of life and how to play
+204. seven game of life and how to play
 
 Keywords:#game #how #life
 
-201. simple and effective programming with C_sharp
+205. simple and effective programming with C_sharp
 
 Keywords:#C_sharp #effective #effective_programming #programming #simple
 
-202. simple type theory a practical logic for expressing and reasoning about mathematical ideas
+206. simple type theory a practical logic for expressing and reasoning about mathematical ideas
 
 Keywords:#expressing #ideas #logic #mathematical #mathematical_ideas #practical #practical_logic #reasoning #simple #simple_type #theory #type #type_theory
 
-203. simulation
+207. simulation
 
 Keywords:#simulation
 
-204. small signal audio design
+208. small signal audio design
 
 Keywords:#audio #audio_design #design #signal #signal_audio #small #small_signal
 
-205. smart cities power electronics renewable energy and internet of things
+209. smart cities power electronics renewable energy and internet of things
 
 Keywords:#cities #cities_power #electronics #electronics_renewable #energy #internet #power #power_electronics #renewable #renewable_energy #smart #smart_cities #things
 
-206. soul in the game the art of a meaningful life
+210. soul in the game the art of a meaningful life
 
 Keywords:#art #game #life #meaningful #meaningful_life #soul
 
-207. statics and mechanics of material
+211. statics and mechanics of material
 
 Keywords:#material #mechanics #statics
 
-208. structural stability and its computational modelling
+212. structural stability and its computational modelling
 
 Keywords:#computational #computational_modelling #modelling #stability #structural #structural_stability
 
-209. structure of game design
+213. structure of game design
 
 Keywords:#design #game #game_design #structure
 
-210. surface environment and human interactions reflections from asia
+214. surface environment and human interactions reflections from asia
 
 Keywords:#asia #environment #human #human_interactions #interactions #interactions_reflections #reflections #surface #surface_environment
 
-211. sustainability engineering challenges technology and applications
+215. sustainability engineering challenges technology and applications
 
 Keywords:#applications #challenges #challenges_technology #engineering #engineering_challenges #sustainability #sustainability_engineering #technology
 
-212. sustainability innovation and entrepreneurship
+216. sustainability innovation and entrepreneurship
 
 Keywords:#entrepreneurship #innovation #sustainability #sustainability_innovation
 
-213. sustainable engineering concepts and practices green energy and technology
+217. sustainable engineering concepts and practices green energy and technology
 
 Keywords:#concepts #energy #engineering #engineering_concepts #green #green_energy #practices #practices_green #sustainable #sustainable_engineering #technology
 
-214. telecommunication system engineering
+218. telecommunication system engineering
 
 Keywords:#engineering #system #system_engineering #telecommunication #telecommunication_system
 
-215. test automation a manager guide
+219. test automation a manager guide
 
 Keywords:#automation #guide #manager #manager_guide #test #test_automation
 
-216. the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA
+220. the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA
 
 Keywords:#OWL #REA #SCA #architect #built #formalizing #formalizing_REA #framework #knowledge-based #knowledge-based_systems #systems #systems_formalizing
 
-217. the afterlife of data
+221. the afterlife of data
 
 Keywords:#afterlife #data
 
-218. the age of identity who do our kids think they  are and how do we help  them belong
+222. the age of identity who do our kids think they  are and how do we help  them belong
 
 Keywords:#age #belong #help #how #identity #kids #who
 
-219. the boundaries of data
+223. the argicultural sky a concept to revolutionize farming
+
+Keywords:#argicultural #argicultural_sky #concept #farming #revolutionize #revolutionize_farming #sky
+
+224. the boundaries of data
 
 Keywords:#boundaries #data
 
-220. the brain abstracted simplification in the history and philosophy of neuroscience
+225. the brain abstracted simplification in the history and philosophy of neuroscience
 
 Keywords:#abstracted #abstracted_simplification #brain #brain_abstracted #history #neuroscience #philosophy #simplification
 
-221. the chemistry of milk and milk products physicochemical properties therapeutic characteristics
+226. the chemistry of milk and milk products physicochemical properties therapeutic characteristics
 
 Keywords:#characteristics #chemistry #milk #milk_products #physicochemical #physicochemical_properties #products #products_physicochemical #properties #properties_therapeutic #therapeutic #therapeutic_characteristics
 
-222. the curious culture of economic theory
+227. the curious culture of economic theory
 
 Keywords:#culture #curious #curious_culture #economic #economic_theory #theory
 
-223. the death of expertise the campaign against established knowledge and why it matters
+228. the death of expertise the campaign against established knowledge and why it matters
 
 Keywords:#against #against_established #campaign #campaign_against #death #established #established_knowledge #expertise #knowledge #matters #why
 
-224. the game of life and how to play it
+229. the game of life and how to play it
 
 Keywords:#game #how #life
 
-225. the information literacy framework case studies of successful implementation
+230. the information literacy framework case studies of successful implementation
 
 Keywords:#case #case_studies #framework #framework_case #implementation #information #information_literacy #literacy #literacy_framework #studies #successful #successful_implementation
 
-226. the organization of information
+231. the organization of information
 
 Keywords:#information #organization
 
-227. the science of lithium
+232. the science of lithium
 
 Keywords:#lithium #science
 
-228. theoretical aspects of software engineering
+233. theoretical aspects of software engineering
 
 Keywords:#aspects #engineering #software #software_engineering #theoretical #theoretical_aspects
 
-229. think C
+234. theory of experience in architecture and urban design
+
+Keywords:#architecture #design #experience #theory #urban #urban_design
+
+235. think C
 
 Keywords:#C
 
-230. think C++
+236. think C++
 
 Keywords:#C_pp
 
-231. think Java
+237. think Java
 
 Keywords:#Java
 
-232. think Python
+238. think Python
 
 Keywords:#Python
 
-233. thinking about science good science bad science and how to make it better
+239. thinking about science good science bad science and how to make it better
 
 Keywords:#bad #bad_science #better #good #good_science #how #science #thinking
 
-234. thought experiments
+240. thought experiments
 
 Keywords:#experiments #thought #thought_experiments
 
-235. ultimate freedom beyond free will
+241. ultimate freedom beyond free will
 
 Keywords:#beyond #beyond_free #free #freedom #ultimate #ultimate_freedom
 
-236. user guide to vacuum technology
+242. user guide to vacuum technology
 
 Keywords:#guide #technology #user #user_guide #vacuum #vacuum_technology
 
-237. vibration engineering
+243. vibration engineering
 
 Keywords:#engineering #vibration #vibration_engineering
 
-238. visual research a concise introduction to thinking visually
+244. visual research a concise introduction to thinking visually
 
 Keywords:#concise #concise_introduction #introduction #research #thinking #thinking_visually #visual #visual_research #visually
 
-239. web design playground HTML CSS the interactive way
+245. web design playground HTML CSS the interactive way
 
 Keywords:#CSS #HTML #HTML_CSS #design #design_playground #interactive #playground #playground_HTML #web #web_design
 
-240. web scraping with Python
+246. web scraping with Python
 
 Keywords:#Python #scraping #web #web_scraping
 
-241. what every engineer should know about data driven analytics
+247. what every engineer should know about data driven analytics
 
 Keywords:#analytics #data #data_driven #driven #driven_analytics #engineer
 
-242. what every engineer should know about reliability and risk analysis
+248. what every engineer should know about reliability and risk analysis
 
 Keywords:#analysis #engineer #reliability #risk #risk_analysis
 
-243. what every engineer should know about risk engineering and management
+249. what every engineer should know about risk engineering and management
 
 Keywords:#engineer #engineering #management #risk #risk_engineering
 
-244. what every engineer should know about smart cities
+250. what every engineer should know about smart cities
 
 Keywords:#cities #engineer #smart #smart_cities
 
-245. what every engineer should know about the internet of things
+251. what every engineer should know about the internet of things
 
 Keywords:#engineer #internet #things
 
-246. where is science leading us and what can we do to steer it
+252. where is science leading us and what can we do to steer it
 
 Keywords:#leading #science #science_leading #where
 
-247. written communication for engineer
+253. written communication for engineer
 
 Keywords:#communication #engineer #written #written_communication
 
