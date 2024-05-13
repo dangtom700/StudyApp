@@ -37,3 +37,4 @@ The intended result is a desktop application that directly connect to a dedicate
 ## Timeline and Milestones
 
 - Apr 29th, 2024. Documentation of project planning is created. New Obsidian vault is created for storing study material and study logging. Start learning habit to yield some raw data. BOOKS folder is list of learning material.
+- May 13th, 2024. Finish creating the foundation of the project. Start to put into production for the first time.

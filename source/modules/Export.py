@@ -199,24 +199,25 @@ def updateStat(PDF_info_file: str) -> None:
 def exportPDF_tokens(pdf_info_file: str) -> None:
     """Export PDF tokens from a given PDF info file."""
     with open(pdf_info_file, "r") as csv_file:
-        csv_reader = reader(csv_file, delimiter = ';')
-        data = list(zip(*csv_reader))
+        reader_ = reader(csv_file, delimiter=";")
+        data = list(zip(*reader_))
 
-    tokens = [
+    PDF_token_list = [
         {
-            "title": title,
-            "title_length_char": title_length_char,
-            "title_length_word": title_length_word,
-            "multi_tags": multi_tags,
-            "tag_number": tag_number,
-            "file_size_byte": file_size_byte,
-            "updated_time": updated_time,
-        }
-        for title, title_length_char, title_length_word, multi_tags, tag_number, file_size_byte, updated_time in data
+            "Title": title,
+            "Title Length (char)": title_length_char,
+            "Title Length (word)": title_length_word,
+            "Multi-Tags": multi_tags,
+            "Tag Number": tag_number,
+            "File Size (Kb)": file_size,
+            "Updated Time": updated_time
+        } 
+        for title, title_length_char, title_length_word, multi_tags, tag_number, file_size, updated_time 
+        in zip(data[0], data[1], data[2], data[3], data[4], data[5], data[6])
     ]
 
     with open(path.PDF_tokens_path, "w") as output_file:
-        json.dump(tokens, output_file, indent=4)
+        json.dump(PDF_token_list, output_file, indent=4,)
 
 def pick_number_random_book_to_read() -> None:
     filename_list = DataProcess.get_pdf_name(path.BOOKS_folder_path)

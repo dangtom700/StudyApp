@@ -1,15 +1,20 @@
-Thu, May 09, 2024
-- [x] Read a chapter of [[BOOKS/internet afterlife virtual salvation in the 21st century.pdf|internet afterlife virtual salvation in the 21st century]]
-- [x] Read a chapter of [[BOOKS/information science.pdf|information science]]
-- [x] Read a chapter of [[BOOKS/media and development.pdf|media and development]]
-
-Sat, May 10, 2024
-- [x] Read a chapter of [[BOOKS/the chemistry of milk and milk products physicochemical properties therapeutic characteristics.pdf|the chemistry of milk and milk products physicochemical properties therapeutic characteristics]]
-- [x] Read a chapter of [[BOOKS/math numeric and programming for mechanical engineer.pdf|math numeric and programming for mechanical engineer]]
-- [x] Read a chapter of [[BOOKS/PowerShell essential guide mastering the fundamentals of scripting and automation.pdf|PowerShell essential guide mastering the fundamentals of scripting and automation]]
+Thu, May 10, 2024
+- [x] Read a chapter of [[internet afterlife virtual salvation in the 21st century.pdf|internet afterlife virtual salvation in the 21st century]]
+- [x] Read a chapter of [[information science.pdf|information science]]
+- [x] Read a chapter of [[media and development.pdf|media and development]]
 
 Sat, May 11, 2024
-- [ ] Read a chapter of [[BOOKS/the boundaries of data.pdf|the boundaries of data]]
-- [ ] Read a chapter of [[BOOKS/VBA guru mastering the art of automation.pdf|VBA guru mastering the art of automation]]
-- [ ] Read a chapter of [[BOOKS/mechanical engineer handbook energy and power.pdf|mechanical engineer handbook energy and power]]
+- [x] Read a chapter of [[the chemistry of milk and milk products physicochemical properties therapeutic characteristics.pdf|the chemistry of milk and milk products physicochemical properties therapeutic characteristics]]
+- [x] Read a chapter of [[math numeric and programming for mechanical engineer.pdf|math numeric and programming for mechanical engineer]]
+- [x] Read a chapter of [[PowerShell essential guide mastering the fundamentals of scripting and automation.pdf|PowerShell essential guide mastering the fundamentals of scripting and automation]]
+
+Sun, May 12, 2024
+- [x] Read a chapter of [[BOOKS/intelligent transportation system and advanced technology energy environment and sustainability.pdf|intelligent transportation system and advanced technology energy environment and sustainability]]
+- [x] Read a chapter of [[BOOKS/game design tools cognitive psychological and practical approach.pdf|game design tools cognitive psychological and practical approach]]
+- [x] Read a chapter of [[BOOKS/statics and mechanics of material.pdf|statics and mechanics of material]]
+
+Mon, May 13, 2024
+- [ ] Read a chapter of [[BOOKS/basic gambling mathematics the number behind the neon.pdf|basic gambling mathematics the number behind the neon]]
+- [ ] Read a chapter of [[BOOKS/professional C++.pdf|professional C++]]
+- [ ] Read a chapter of [[BOOKS/mechanical engineer handbook material and engineering mechanics.pdf|mechanical engineer handbook material and engineering mechanics]]
 

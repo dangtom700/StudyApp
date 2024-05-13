@@ -1,5 +1,5 @@
 import argparse
-import modules.DataProcess as DataProcess
+from modules.DataProcess import get_banned_words
 import modules.Export as Export
 import modules.path as path
 
@@ -21,12 +21,12 @@ def app():
     args = parser.parse_args()
 
     if args.exportTagSet:
-        banned_word = DataProcess.get_banned_words(path.ban_path)
+        banned_word = get_banned_words(path.ban_path)
         Export.exportTagSet(path.BOOKS_folder_path, banned_word)
         Export.AnnounceFinish()
 
     if args.exportPDF_info:
-        banned_word = DataProcess.get_banned_words(path.ban_path)
+        banned_word = get_banned_words(path.ban_path)
         Export.exportPDF_info(path.BOOKS_folder_path, banned_word)
         Export.AnnounceFinish()
 
@@ -43,7 +43,7 @@ def app():
         Export.AnnounceFinish()
 
     if args.updateAll:
-        banned_word = DataProcess.get_banned_words(path.ban_path)
+        banned_word = get_banned_words(path.ban_path)
         Export.exportTagSet(path.BOOKS_folder_path, banned_word)
         Export.exportPDF_index(path.BOOKS_folder_path)
 
