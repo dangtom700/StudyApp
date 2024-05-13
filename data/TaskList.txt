@@ -8,9 +8,13 @@ Sat, May 11, 2024
 - [x] Read a chapter of [[math numeric and programming for mechanical engineer.pdf|math numeric and programming for mechanical engineer]]
 - [x] Read a chapter of [[PowerShell essential guide mastering the fundamentals of scripting and automation.pdf|PowerShell essential guide mastering the fundamentals of scripting and automation]]
 
-
 Sun, May 12, 2024
-- [ ] Read a chapter of [[BOOKS/intelligent transportation system and advanced technology energy environment and sustainability.pdf|intelligent transportation system and advanced technology energy environment and sustainability]]
-- [ ] Read a chapter of [[BOOKS/game design tools cognitive psychological and practical approach.pdf|game design tools cognitive psychological and practical approach]]
-- [ ] Read a chapter of [[BOOKS/statics and mechanics of material.pdf|statics and mechanics of material]]
+- [x] Read a chapter of [[BOOKS/intelligent transportation system and advanced technology energy environment and sustainability.pdf|intelligent transportation system and advanced technology energy environment and sustainability]]
+- [x] Read a chapter of [[BOOKS/game design tools cognitive psychological and practical approach.pdf|game design tools cognitive psychological and practical approach]]
+- [x] Read a chapter of [[BOOKS/statics and mechanics of material.pdf|statics and mechanics of material]]
+
+Mon, May 13, 2024
+- [ ] Read a chapter of [[BOOKS/basic gambling mathematics the number behind the neon.pdf|basic gambling mathematics the number behind the neon]]
+- [ ] Read a chapter of [[BOOKS/professional C++.pdf|professional C++]]
+- [ ] Read a chapter of [[BOOKS/mechanical engineer handbook material and engineering mechanics.pdf|mechanical engineer handbook material and engineering mechanics]]
 
