@@ -95,21 +95,6 @@ def exportPDF_index(folderPath: str) -> None:
     filename_list = DataProcess.get_pdf_name(folderPath)
     banned_words = DataProcess.get_banned_words(path.ban_path)
 
-    with open(path.PDF_index_path, "w") as outputFile:
-        outputFile.write("\n# PDF index (Total: " + str(len(filename_list)) + ")\n\n")
-        for index, filename in enumerate(filename_list, start= 1):
-            outputFile.write(f"{index}. {filename}\n")
-            
-            outputFile.write("\nKeywords:")
-            keyword_list = DataProcess.get_word_list_from_file(filename, banned_words)
-            
-            for keyword in keyword_list:
-                outputFile.write(f"#{keyword}")
-                if keyword != keyword_list[-1]:
-                    outputFile.write(" ")
-            outputFile.write("\n\n")
-
-    # Export to Obsidian
     with open(path.Obsidian_PDF_index_path, "w") as outputFile:
         outputFile.write("\n# PDF index (Total: " + str(len(filename_list)) + ")\n\n")
         for index, filename in enumerate(filename_list, start= 1):
@@ -123,7 +108,7 @@ def exportPDF_index(folderPath: str) -> None:
                 if keyword != keyword_list[-1]:
                     outputFile.write(" ")
             outputFile.write("\n\n")
-
+    mirrorFile_to_destination(path.Obsidian_PDF_index_path, path.PDF_index_path)
 
 def updateStat(PDF_info_file: str) -> None:
     """
@@ -235,8 +220,9 @@ def pick_number_random_book_to_read() -> None:
     filename_list = DataProcess.get_pdf_name(path.BOOKS_folder_path)
     pick_random_item = DataProcess.pick_random_number_items(filename_list, 3)
     with open(path.Obsidian_taskList_path, "a") as outputFile:
-        outputFile.write(DataProcess.get_current_time() + "\n")
+        outputFile.write("\n\n" + DataProcess.get_current_time() + "\n\n")
         for filename in pick_random_item:
-            outputFile.write(f"- [ ] Read a chapter of [[BOOKS/{filename}.pdf|{filename}]]\n")
-        outputFile.write("\n")
+            outputFile.write(f"- [ ] Read a chapter of [[BOOKS/{filename}.pdf|{filename}]]")
+            if filename != pick_random_item[-1]:
+                outputFile.write("\n")
     mirrorFile_to_destination(path.Obsidian_taskList_path, path.taskList_path)
