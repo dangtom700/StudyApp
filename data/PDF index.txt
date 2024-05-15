@@ -3,23 +3,23 @@
 
 1. [[BOOKS/C++ high performance for financial systems.pdf|C++ high performance for financial systems]]
 
-Keywords: #C_pp #financial #high #performance #systems
+Keywords: #financial #high #performance #systems
 
 2. [[BOOKS/GameMaker fundamentals learn GML programming to make amazing game.pdf|GameMaker fundamentals learn GML programming to make amazing game]]
 
-Keywords: #GML #GameMaker #amazing #fundamentals #game #learn #programming
+Keywords: #GameMaker #amazing #fundamentals #game #learn #programming
 
 3. [[BOOKS/HTML CSS and JavaScript all in one for dummies.pdf|HTML CSS and JavaScript all in one for dummies]]
 
-Keywords: #CSS #HTML #JavaScript #dummies
+Keywords: #HTML #JavaScript #dummies
 
 4. [[BOOKS/I human AI automation and the guest to reclaim what makes us unique.pdf|I human AI automation and the guest to reclaim what makes us unique]]
 
-Keywords: #AI #automation #guest #human #reclaim #unique
+Keywords: #automation #guest #human #reclaim #unique
 
 5. [[BOOKS/JavaScript programming security design expressions and web development.pdf|JavaScript programming security design expressions and web development]]
 
-Keywords: #JavaScript #design #development #expressions #programming #security #web
+Keywords: #JavaScript #design #development #expressions #programming #security
 
 6. [[BOOKS/MEMs design and fabrication.pdf|MEMs design and fabrication]]
 
@@ -31,7 +31,7 @@ Keywords: #PowerShell #automation #essential #fundamentals #guide #mastering #sc
 
 8. [[BOOKS/Python GUI with PyQt5.pdf|Python GUI with PyQt5]]
 
-Keywords: #GUI #PyQt5 #Python
+Keywords: #PyQt5 #Python
 
 9. [[BOOKS/Python all in one for dummies.pdf|Python all in one for dummies]]
 
@@ -39,7 +39,7 @@ Keywords: #Python #dummies
 
 10. [[BOOKS/Python crash course a hand-on project-based introduction to programming.pdf|Python crash course a hand-on project-based introduction to programming]]
 
-Keywords: #Python #course #crash #hand-on #introduction #programming #project-based
+Keywords: #Python #course #crash #introduction #programming
 
 11. [[BOOKS/Python programming fundamentals.pdf|Python programming fundamentals]]
 
@@ -51,7 +51,7 @@ Keywords: #Anaconda #Jupyterlab #Python #introduction #libraries #scientific #sc
 
 13. [[BOOKS/Qt6 C++ GUI programming cookbook.pdf|Qt6 C++ GUI programming cookbook]]
 
-Keywords: #C_pp #GUI #Qt6 #cookbook #programming
+Keywords: #cookbook #programming
 
 14. [[BOOKS/React 18 design patterns.pdf|React 18 design patterns]]
 
@@ -59,15 +59,15 @@ Keywords: #React #design #patterns
 
 15. [[BOOKS/UX for business how to design valuable digital companies.pdf|UX for business how to design valuable digital companies]]
 
-Keywords: #UX #business #companies #design #digital #valuable
+Keywords: #business #companies #design #digital #valuable
 
 16. [[BOOKS/UX lifecycle the business guide to implementing great software user experiences.pdf|UX lifecycle the business guide to implementing great software user experiences]]
 
-Keywords: #UX #business #experiences #great #guide #implementing #lifecycle #software #user
+Keywords: #business #experiences #great #guide #implementing #lifecycle #software #user
 
 17. [[BOOKS/VBA guru mastering the art of automation.pdf|VBA guru mastering the art of automation]]
 
-Keywords: #VBA #art #automation #guru #mastering
+Keywords: #automation #guru #mastering
 
 18. [[BOOKS/a mathematical approach to human resources.pdf|a mathematical approach to human resources]]
 
@@ -75,15 +75,15 @@ Keywords: #approach #human #mathematical #resources
 
 19. [[BOOKS/advanced computer science applications recent trends in AI machine learning and network security.pdf|advanced computer science applications recent trends in AI machine learning and network security]]
 
-Keywords: #AI #advanced #applications #computer #learning #machine #network #recent #science #security #trends
+Keywords: #advanced #applications #computer #learning #machine #network #recent #science #security #trends
 
 20. [[BOOKS/age of agency rise with AI.pdf|age of agency rise with AI]]
 
-Keywords: #AI #age #agency #rise
+Keywords: #agency #rise
 
 21. [[BOOKS/age of revolutions progress and backlash from 1600 to the present.pdf|age of revolutions progress and backlash from 1600 to the present]]
 
-Keywords: #age #present #progress #revolutions
+Keywords: #present #progress #revolutions
 
 22. [[BOOKS/an introduction in economic dynamics modelling analysis and simulation.pdf|an introduction in economic dynamics modelling analysis and simulation]]
 
@@ -103,7 +103,7 @@ Keywords: #applications #deep #game #learning #theory
 
 26. [[BOOKS/argi-innovations and development challenges engineering value chains and socio-economic models.pdf|argi-innovations and development challenges engineering value chains and socio-economic models]]
 
-Keywords: #argi-innovations #chains #challenges #development #engineering #models #socio-economic #value
+Keywords: #chains #challenges #development #engineering #models #value
 
 27. [[BOOKS/arguing about tastes modelling how context and experience change economic preference.pdf|arguing about tastes modelling how context and experience change economic preference]]
 
@@ -115,7 +115,7 @@ Keywords: #artificial #challenges #intelligence #issues #opportunities #society
 
 29. [[BOOKS/artificial intelligence of things AIoT new standards technology and communication systems.pdf|artificial intelligence of things AIoT new standards technology and communication systems]]
 
-Keywords: #AIoT #artificial #communication #intelligence #new #standards #systems #technology #things
+Keywords: #AIoT #artificial #communication #intelligence #standards #systems #technology #things
 
 30. [[BOOKS/autonomous mobile robots planning navigation and simulation.pdf|autonomous mobile robots planning navigation and simulation]]
 
@@ -167,7 +167,7 @@ Keywords: #closing #designers #loop #systems #thinking
 
 42. [[BOOKS/communication in history stone age symbols to social media.pdf|communication in history stone age symbols to social media]]
 
-Keywords: #age #communication #history #media #social #stone #symbols
+Keywords: #communication #history #media #social #stone #symbols
 
 43. [[BOOKS/companion to archaeology.pdf|companion to archaeology]]
 
@@ -215,11 +215,11 @@ Keywords: #analysis #beginners #data #essential #guide #journey #science
 
 54. [[BOOKS/data science fundamentals with R Python and open data.pdf|data science fundamentals with R Python and open data]]
 
-Keywords: #Python #R #data #fundamentals #open #science
+Keywords: #Python #data #fundamentals #open #science
 
 55. [[BOOKS/data structure using C theory and program.pdf|data structure using C theory and program]]
 
-Keywords: #C #data #program #structure #theory
+Keywords: #data #program #structure #theory
 
 56. [[BOOKS/data structures and algorithms for beginners unlocking efficient coding techniques from the ground up.pdf|data structures and algorithms for beginners unlocking efficient coding techniques from the ground up]]
 
@@ -419,7 +419,7 @@ Keywords: #approach #cognitive #design #game #practical #psychological #tools
 
 105. [[BOOKS/game jam history technology and organization.pdf|game jam history technology and organization]]
 
-Keywords: #game #history #jam #organization #technology
+Keywords: #game #history #organization #technology
 
 106. [[BOOKS/graph databases applications on social media analytics and smart cities.pdf|graph databases applications on social media analytics and smart cities]]
 
@@ -431,11 +431,11 @@ Keywords: #handbook #management #project
 
 108. [[BOOKS/hello web design design fundamentals and shortcuts for designers.pdf|hello web design design fundamentals and shortcuts for designers]]
 
-Keywords: #design #designers #fundamentals #shortcuts #web
+Keywords: #design #designers #fundamentals #shortcuts
 
 109. [[BOOKS/how AI work from sorcery to science.pdf|how AI work from sorcery to science]]
 
-Keywords: #AI #science #sorcery #work
+Keywords: #science #sorcery #work
 
 110. [[BOOKS/how learning happen seminal work in educational psychology and what they mean in practices.pdf|how learning happen seminal work in educational psychology and what they mean in practices]]
 
@@ -447,7 +447,7 @@ Keywords: #mathematical #power #thinking #wrong
 
 112. [[BOOKS/how to become a data analyst my low-cost no-code roadmap for breaking into tech.pdf|how to become a data analyst my low-cost no-code roadmap for breaking into tech]]
 
-Keywords: #analyst #data #low-cost #no-code #roadmap #tech
+Keywords: #analyst #data #roadmap #tech
 
 113. [[BOOKS/how to test a time machine a practical guide to the architecture and automation.pdf|how to test a time machine a practical guide to the architecture and automation]]
 
@@ -471,7 +471,7 @@ Keywords: #asset #data #information #knowledge #manage #management #money
 
 118. [[BOOKS/information design unbound key concepts and skills for making sense in a changing world.pdf|information design unbound key concepts and skills for making sense in a changing world]]
 
-Keywords: #changing #concepts #design #information #key #sense #skills #unbound #world
+Keywords: #changing #concepts #design #information #sense #skills #unbound #world
 
 119. [[BOOKS/information science.pdf|information science]]
 
@@ -487,7 +487,7 @@ Keywords: #analytics #applications #business #insights #strategies
 
 122. [[BOOKS/intelligent decision support system for IoT enabling technology opportunities challenges and applications.pdf|intelligent decision support system for IoT enabling technology opportunities challenges and applications]]
 
-Keywords: #IoT #applications #challenges #decision #enabling #intelligent #opportunities #support #system #technology
+Keywords: #applications #challenges #decision #enabling #intelligent #opportunities #support #system #technology
 
 123. [[BOOKS/intelligent robots and drones for precision agriculture.pdf|intelligent robots and drones for precision agriculture]]
 
@@ -551,7 +551,7 @@ Keywords: #control #design #experiments #introduction #methods #probability #qua
 
 138. [[BOOKS/introduction to statistics and data analysis exercises solutions and applications in R.pdf|introduction to statistics and data analysis exercises solutions and applications in R]]
 
-Keywords: #R #analysis #applications #data #exercises #introduction #solutions #statistics
+Keywords: #analysis #applications #data #exercises #introduction #solutions #statistics
 
 139. [[BOOKS/introduction to texture analysis macrotexture microtexture and orientation mapping.pdf|introduction to texture analysis macrotexture microtexture and orientation mapping]]
 
@@ -575,11 +575,11 @@ Keywords: #enabling #knowledge #science #synthesis #systemic #systems
 
 144. [[BOOKS/knowledge integration methods for probabilistic knowledge-based systems.pdf|knowledge integration methods for probabilistic knowledge-based systems]]
 
-Keywords: #integration #knowledge #knowledge-based #methods #probabilistic #systems
+Keywords: #integration #knowledge #methods #probabilistic #systems
 
 145. [[BOOKS/knowledge management systems and processes in the AI era.pdf|knowledge management systems and processes in the AI era]]
 
-Keywords: #AI #knowledge #management #processes #systems
+Keywords: #knowledge #management #processes #systems
 
 146. [[BOOKS/knowledge science engineering and management.pdf|knowledge science engineering and management]]
 
@@ -587,7 +587,7 @@ Keywords: #engineering #knowledge #management #science
 
 147. [[BOOKS/knowledge-based systems.pdf|knowledge-based systems]]
 
-Keywords: #knowledge-based #systems
+Keywords: #systems
 
 148. [[BOOKS/lean six sigma methods for production optimization.pdf|lean six sigma methods for production optimization]]
 
@@ -599,7 +599,7 @@ Keywords: #Python #learn #project
 
 150. [[BOOKS/level of reality in science and philosophy re-examining the multi-level structure of reality.pdf|level of reality in science and philosophy re-examining the multi-level structure of reality]]
 
-Keywords: #level #multi-level #philosophy #re-examining #reality #science #structure
+Keywords: #level #philosophy #reality #science #structure
 
 151. [[BOOKS/libraries literatures and archives.pdf|libraries literatures and archives]]
 
@@ -623,7 +623,7 @@ Keywords: #course #crash #engineer #learning #machine
 
 156. [[BOOKS/maintaining and repairing old and historic buildings.pdf|maintaining and repairing old and historic buildings]]
 
-Keywords: #buildings #historic #maintaining #old
+Keywords: #buildings #historic #maintaining
 
 157. [[BOOKS/management and cost accounting.pdf|management and cost accounting]]
 
@@ -631,7 +631,7 @@ Keywords: #accounting #cost #management
 
 158. [[BOOKS/mastering C++ network automation.pdf|mastering C++ network automation]]
 
-Keywords: #C_pp #automation #mastering #network
+Keywords: #automation #mastering #network
 
 159. [[BOOKS/mastering large language models.pdf|mastering large language models]]
 
@@ -703,11 +703,11 @@ Keywords: #communication #graphics #modern
 
 176. [[BOOKS/modern statistics a computer-based approach with Python.pdf|modern statistics a computer-based approach with Python]]
 
-Keywords: #Python #approach #computer-based #modern #statistics
+Keywords: #Python #approach #modern #statistics
 
 177. [[BOOKS/molecular simulation of fluid theory algorithms object-orientation and parallel computing.pdf|molecular simulation of fluid theory algorithms object-orientation and parallel computing]]
 
-Keywords: #algorithms #fluid #molecular #object-orientation #parallel #simulation #theory
+Keywords: #algorithms #fluid #molecular #parallel #simulation #theory
 
 178. [[BOOKS/nanofillers fabrication characterization and applications of organic nanofillers.pdf|nanofillers fabrication characterization and applications of organic nanofillers]]
 
@@ -771,11 +771,11 @@ Keywords: #automation #control #engineering #mechatronics #practical
 
 193. [[BOOKS/pro Git.pdf|pro Git]]
 
-Keywords: #Git
+Keywords: 
 
 194. [[BOOKS/probability statistics and stimulation with applications program written in R.pdf|probability statistics and stimulation with applications program written in R]]
 
-Keywords: #R #applications #probability #program #statistics #stimulation #written
+Keywords: #applications #probability #program #statistics #stimulation #written
 
 195. [[BOOKS/process control modelling design and simulation.pdf|process control modelling design and simulation]]
 
@@ -787,7 +787,7 @@ Keywords: #body #certification #development #guidebook #innovation #knowledge #m
 
 197. [[BOOKS/professional C++.pdf|professional C++]]
 
-Keywords: #C_pp #professional
+Keywords: #professional
 
 198. [[BOOKS/programming for absolute beginners using JavaScript programming language.pdf|programming for absolute beginners using JavaScript programming language]]
 
@@ -819,7 +819,7 @@ Keywords: #automatic #control #development #recent #systems
 
 205. [[BOOKS/recognition in the age of social media.pdf|recognition in the age of social media]]
 
-Keywords: #age #media #recognition #social
+Keywords: #media #recognition #social
 
 206. [[BOOKS/semiconductor microchips and fabrication a practical guide to theory and manufacturing.pdf|semiconductor microchips and fabrication a practical guide to theory and manufacturing]]
 
@@ -831,7 +831,7 @@ Keywords: #game #life
 
 208. [[BOOKS/simple and effective programming with C_sharp.pdf|simple and effective programming with C_sharp]]
 
-Keywords: #C_sharp #effective #programming #simple
+Keywords: #effective #programming #simple
 
 209. [[BOOKS/simple type theory a practical logic for expressing and reasoning about mathematical ideas.pdf|simple type theory a practical logic for expressing and reasoning about mathematical ideas]]
 
@@ -851,7 +851,7 @@ Keywords: #cities #electronics #energy #internet #power #renewable #smart #thing
 
 213. [[BOOKS/soul in the game the art of a meaningful life.pdf|soul in the game the art of a meaningful life]]
 
-Keywords: #art #game #life #meaningful #soul
+Keywords: #game #life #meaningful #soul
 
 214. [[BOOKS/statics and mechanics of material.pdf|statics and mechanics of material]]
 
@@ -891,7 +891,7 @@ Keywords: #automation #guide #manager #test
 
 223. [[BOOKS/the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA.pdf|the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA]]
 
-Keywords: #OWL #REA #SCA #architect #built #formalizing #framework #knowledge-based #systems
+Keywords: #architect #built #formalizing #framework #systems
 
 224. [[BOOKS/the afterlife of data.pdf|the afterlife of data]]
 
@@ -899,11 +899,11 @@ Keywords: #afterlife #data
 
 225. [[BOOKS/the age of identity who do our kids think they  are and how do we help  them belong.pdf|the age of identity who do our kids think they  are and how do we help  them belong]]
 
-Keywords: #age #belong #identity #kids
+Keywords: #belong #identity #kids
 
 226. [[BOOKS/the argicultural sky a concept to revolutionize farming.pdf|the argicultural sky a concept to revolutionize farming]]
 
-Keywords: #argicultural #concept #farming #revolutionize #sky
+Keywords: #argicultural #concept #farming #revolutionize
 
 227. [[BOOKS/the boundaries of data.pdf|the boundaries of data]]
 
@@ -955,11 +955,11 @@ Keywords: #architecture #design #experience #theory #urban
 
 239. [[BOOKS/think C.pdf|think C]]
 
-Keywords: #C
+Keywords: 
 
 240. [[BOOKS/think C++.pdf|think C++]]
 
-Keywords: #C_pp
+Keywords: 
 
 241. [[BOOKS/think Java.pdf|think Java]]
 
@@ -971,7 +971,7 @@ Keywords: #Python
 
 243. [[BOOKS/thinking about science good science bad science and how to make it better.pdf|thinking about science good science bad science and how to make it better]]
 
-Keywords: #bad #better #good #science #thinking
+Keywords: #better #good #science #thinking
 
 244. [[BOOKS/thought experiments.pdf|thought experiments]]
 
@@ -995,11 +995,11 @@ Keywords: #concise #introduction #research #thinking #visual
 
 249. [[BOOKS/web design playground HTML CSS the interactive way.pdf|web design playground HTML CSS the interactive way]]
 
-Keywords: #CSS #HTML #design #interactive #playground #web
+Keywords: #HTML #design #interactive #playground
 
 250. [[BOOKS/web scraping with Python.pdf|web scraping with Python]]
 
-Keywords: #Python #scraping #web
+Keywords: #Python #scraping
 
 251. [[BOOKS/what every engineer should know about data driven analytics.pdf|what every engineer should know about data driven analytics]]
 

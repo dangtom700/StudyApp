@@ -74,7 +74,7 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
             outputFile.write(f"{len(filename.strip().split())};")
             word_list = DataProcess.get_word_list_from_file(filename, banned_words)
             for word in word_list:
-                outputFile.write(f" #{word}")
+                outputFile.write(f"#{word}")
                 if word != word_list[-1]:
                     outputFile.write(" ")
             outputFile.write(f";{len(word_list)};")

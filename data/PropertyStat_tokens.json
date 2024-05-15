@@ -29,17 +29,17 @@
     },
     {
         "Property": "Tag Number",
-        "Minimum": 1,
+        "Minimum": 0,
         "Maximum": 11,
-        "Total": 1218,
-        "Avarage": 4.739,
-        "Harmonic Mean": 3.687,
-        "Median": 5,
-        "Mode": 5,
-        "Population Standard Deviation": 2.1,
-        "Standard Deviation": 2.104,
-        "Population Variance": 4.411,
-        "Variance": 4.428
+        "Total": 1158,
+        "Avarage": 4.506,
+        "Harmonic Mean": 0,
+        "Median": 4,
+        "Mode": 3,
+        "Population Standard Deviation": 2.065,
+        "Standard Deviation": 2.069,
+        "Population Variance": 4.266,
+        "Variance": 4.282
     },
     {
         "Property": "File Size (Kb)",

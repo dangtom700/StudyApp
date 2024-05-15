@@ -20,17 +20,17 @@
 
 | Characteristic| Tag Number | File Size (Kb)|
 | --- | --- | --- | --- |
-| Minimum | 1 | 699 |
+| Minimum | 0 | 699 |
 | Maximum | 11 | 529171 |
-| Total | 1218 | 5861897 |
-| Avarage | 4.739 | 22808.938 |
-| Harmonic Mean | 3.687 | 6415.204 |
-| Median | 5 | 11828 |
-| Mode | 5 | 5764 |
-| Population Standard Deviation | 2.1 | 42550.266 |
-| Standard Deviation | 2.104 | 42633.291 |
-| Population Variance | 4.411 | 1810525131.802 |
-| Variance | 4.428 | 1817597495.598 |
+| Total | 1158 | 5861897 |
+| Avarage | 4.506 | 22808.938 |
+| Harmonic Mean | 0 | 6415.204 |
+| Median | 4 | 11828 |
+| Mode | 3 | 5764 |
+| Population Standard Deviation | 2.065 | 42550.266 |
+| Standard Deviation | 2.069 | 42633.291 |
+| Population Variance | 4.266 | 1810525131.802 |
+| Variance | 4.282 | 1817597495.598 |
 
 ## Time Stamp History
 
