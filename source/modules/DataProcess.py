@@ -83,7 +83,7 @@ def get_word_list_from_file(filename: str, banned_words: set[str]) -> set[str]:
 
     #tuned_words = tuned_words.union(double_words)
     #tuned_words = tuned_words.union(triple_words)
-    #tuned_words = {word.replace("C++", "C_pp").replace("C#", "C_sharp") for word in tuned_words}
+    tuned_words = {word.replace("C++", "C_pp").replace("C#", "C_sharp") for word in tuned_words}
     tuned_words = tuned_words.difference(banned_words)
     return sorted(tuned_words)
 

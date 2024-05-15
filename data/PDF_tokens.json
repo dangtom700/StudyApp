@@ -12,7 +12,7 @@
         "Title": "C++ high performance for financial systems",
         "Title Length (char)": "42",
         "Title Length (word)": "6",
-        "Multi-Tags": " #C++  #financial  #high  #performance  #systems",
+        "Multi-Tags": " #C_pp  #financial  #high  #performance  #systems",
         "Tag Number": "5",
         "File Size (Kb)": "14073",
         "Updated Time": "Sun, Apr 14, 2024, 23:30:45"
@@ -120,7 +120,7 @@
         "Title": "Qt6 C++ GUI programming cookbook",
         "Title Length (char)": "32",
         "Title Length (word)": "5",
-        "Multi-Tags": " #C++  #GUI  #Qt6  #cookbook  #programming",
+        "Multi-Tags": " #C_pp  #GUI  #Qt6  #cookbook  #programming",
         "Tag Number": "5",
         "File Size (Kb)": "23755",
         "Updated Time": "Sun, Apr 14, 2024, 23:30:46"
@@ -507,8 +507,8 @@
         "Title": "data structures and algorithms for beginners unlocking efficient coding techniques from the ground up",
         "Title Length (char)": "101",
         "Title Length (word)": "14",
-        "Multi-Tags": " #algorithms  #beginners  #data  #efficient  #ground  #structures  #techniques  #unlocking",
-        "Tag Number": "8",
+        "Multi-Tags": " #algorithms  #beginners  #data  #efficient  #ground  #structures  #techniques",
+        "Tag Number": "7",
         "File Size (Kb)": "12747",
         "Updated Time": "Sun, Apr 14, 2024, 22:34:33"
     },
@@ -594,6 +594,15 @@
         "Updated Time": "Thu, May 02, 2024, 17:59:02"
     },
     {
+        "Title": "econometric Python harnessing the data science for economy",
+        "Title Length (char)": "58",
+        "Title Length (word)": "8",
+        "Multi-Tags": " #Python  #data  #econometric  #economy  #harnessing  #science",
+        "Tag Number": "6",
+        "File Size (Kb)": "46568",
+        "Updated Time": "Thu, May 09, 2024, 18:49:55"
+    },
+    {
         "Title": "econometric calculus an integrated approach",
         "Title Length (char)": "43",
         "Title Length (word)": "5",
@@ -601,15 +610,6 @@
         "Tag Number": "4",
         "File Size (Kb)": "1315",
         "Updated Time": "Thu, May 09, 2024, 19:02:30"
-    },
-    {
-        "Title": "econometric python harnessing the data science for economy",
-        "Title Length (char)": "58",
-        "Title Length (word)": "8",
-        "Multi-Tags": " #data  #econometric  #economy  #harnessing  #python  #science",
-        "Tag Number": "6",
-        "File Size (Kb)": "46568",
-        "Updated Time": "Thu, May 09, 2024, 18:49:55"
     },
     {
         "Title": "economics and engineering institutions practices and cultures",
@@ -1065,8 +1065,8 @@
         "Title": "information asset management why you must manage your data information and knowledge the way you manage your money",
         "Title Length (char)": "114",
         "Title Length (word)": "18",
-        "Multi-Tags": " #asset  #data  #information  #knowledge  #manage  #management  #money  #your",
-        "Tag Number": "8",
+        "Multi-Tags": " #asset  #data  #information  #knowledge  #manage  #management  #money",
+        "Tag Number": "7",
         "File Size (Kb)": "6292",
         "Updated Time": "Thu, May 02, 2024, 17:48:41"
     },
@@ -1434,7 +1434,7 @@
         "Title": "mastering C++ network automation",
         "Title Length (char)": "32",
         "Title Length (word)": "4",
-        "Multi-Tags": " #C++  #automation  #mastering  #network",
+        "Multi-Tags": " #C_pp  #automation  #mastering  #network",
         "Tag Number": "4",
         "File Size (Kb)": "4158",
         "Updated Time": "Sun, Apr 14, 2024, 23:30:47"
@@ -1668,8 +1668,8 @@
         "Title": "operating systems evolutionary concepts and modern design principles",
         "Title Length (char)": "68",
         "Title Length (word)": "8",
-        "Multi-Tags": " #concepts  #design  #evolutionary  #modern  #operating  #principles  #systems",
-        "Tag Number": "7",
+        "Multi-Tags": " #concepts  #design  #evolutionary  #modern  #principles  #systems",
+        "Tag Number": "6",
         "File Size (Kb)": "15416",
         "Updated Time": "Tue, Feb 27, 2024, 21:25:05"
     },
@@ -1785,7 +1785,7 @@
         "Title": "professional C++",
         "Title Length (char)": "16",
         "Title Length (word)": "2",
-        "Multi-Tags": " #C++  #professional",
+        "Multi-Tags": " #C_pp  #professional",
         "Tag Number": "2",
         "File Size (Kb)": "15258",
         "Updated Time": "Wed, Mar 13, 2024, 11:28:17"
@@ -2163,7 +2163,7 @@
         "Title": "think C++",
         "Title Length (char)": "9",
         "Title Length (word)": "2",
-        "Multi-Tags": " #C++",
+        "Multi-Tags": " #C_pp",
         "Tag Number": "1",
         "File Size (Kb)": "823",
         "Updated Time": "Tue, Jan 31, 2023, 00:07:18"
@@ -2235,8 +2235,8 @@
         "Title": "visual research a concise introduction to thinking visually",
         "Title Length (char)": "59",
         "Title Length (word)": "8",
-        "Multi-Tags": " #concise  #introduction  #research  #thinking  #visual  #visually",
-        "Tag Number": "6",
+        "Multi-Tags": " #concise  #introduction  #research  #thinking  #visual",
+        "Tag Number": "5",
         "File Size (Kb)": "34767",
         "Updated Time": "Tue, Feb 27, 2024, 22:01:34"
     },
@@ -2307,8 +2307,8 @@
         "Title": "where is science leading us and what can we do to steer it",
         "Title Length (char)": "58",
         "Title Length (word)": "13",
-        "Multi-Tags": " #leading  #science  #where",
-        "Tag Number": "3",
+        "Multi-Tags": " #leading  #science",
+        "Tag Number": "2",
         "File Size (Kb)": "5439",
         "Updated Time": "Sun, Apr 14, 2024, 21:46:23"
     },

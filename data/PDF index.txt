@@ -3,7 +3,7 @@
 
 1. [[BOOKS/C++ high performance for financial systems.pdf|C++ high performance for financial systems]]
 
-Keywords: #C++ #financial #high #performance #systems
+Keywords: #C_pp #financial #high #performance #systems
 
 2. [[BOOKS/GameMaker fundamentals learn GML programming to make amazing game.pdf|GameMaker fundamentals learn GML programming to make amazing game]]
 
@@ -51,7 +51,7 @@ Keywords: #Anaconda #Jupyterlab #Python #introduction #libraries #scientific #sc
 
 13. [[BOOKS/Qt6 C++ GUI programming cookbook.pdf|Qt6 C++ GUI programming cookbook]]
 
-Keywords: #C++ #GUI #Qt6 #cookbook #programming
+Keywords: #C_pp #GUI #Qt6 #cookbook #programming
 
 14. [[BOOKS/React 18 design patterns.pdf|React 18 design patterns]]
 
@@ -223,7 +223,7 @@ Keywords: #C #data #program #structure #theory
 
 56. [[BOOKS/data structures and algorithms for beginners unlocking efficient coding techniques from the ground up.pdf|data structures and algorithms for beginners unlocking efficient coding techniques from the ground up]]
 
-Keywords: #algorithms #beginners #data #efficient #ground #structures #techniques #unlocking
+Keywords: #algorithms #beginners #data #efficient #ground #structures #techniques
 
 57. [[BOOKS/deep learning foundation and concepts.pdf|deep learning foundation and concepts]]
 
@@ -261,13 +261,13 @@ Keywords: #applications #distribution #principles #theory
 
 Keywords: #create #humanities #knowledge
 
-66. [[BOOKS/econometric calculus an integrated approach.pdf|econometric calculus an integrated approach]]
+66. [[BOOKS/econometric Python harnessing the data science for economy.pdf|econometric Python harnessing the data science for economy]]
+
+Keywords: #Python #data #econometric #economy #harnessing #science
+
+67. [[BOOKS/econometric calculus an integrated approach.pdf|econometric calculus an integrated approach]]
 
 Keywords: #approach #calculus #econometric #integrated
-
-67. [[BOOKS/econometric python harnessing the data science for economy.pdf|econometric python harnessing the data science for economy]]
-
-Keywords: #data #econometric #economy #harnessing #python #science
 
 68. [[BOOKS/economics and engineering institutions practices and cultures.pdf|economics and engineering institutions practices and cultures]]
 
@@ -471,7 +471,7 @@ Keywords: #information #knowledge #systems
 
 118. [[BOOKS/information asset management why you must manage your data information and knowledge the way you manage your money.pdf|information asset management why you must manage your data information and knowledge the way you manage your money]]
 
-Keywords: #asset #data #information #knowledge #manage #management #money #your
+Keywords: #asset #data #information #knowledge #manage #management #money
 
 119. [[BOOKS/information design unbound key concepts and skills for making sense in a changing world.pdf|information design unbound key concepts and skills for making sense in a changing world]]
 
@@ -635,7 +635,7 @@ Keywords: #accounting #cost #management
 
 159. [[BOOKS/mastering C++ network automation.pdf|mastering C++ network automation]]
 
-Keywords: #C++ #automation #mastering #network
+Keywords: #C_pp #automation #mastering #network
 
 160. [[BOOKS/mastering large language models.pdf|mastering large language models]]
 
@@ -739,7 +739,7 @@ Keywords: #information #novelty #surprise
 
 185. [[BOOKS/operating systems evolutionary concepts and modern design principles.pdf|operating systems evolutionary concepts and modern design principles]]
 
-Keywords: #concepts #design #evolutionary #modern #operating #principles #systems
+Keywords: #concepts #design #evolutionary #modern #principles #systems
 
 186. [[BOOKS/optimization methods for engineering problems.pdf|optimization methods for engineering problems]]
 
@@ -791,7 +791,7 @@ Keywords: #body #certification #development #guidebook #innovation #knowledge #m
 
 198. [[BOOKS/professional C++.pdf|professional C++]]
 
-Keywords: #C++ #professional
+Keywords: #C_pp #professional
 
 199. [[BOOKS/programming for absolute beginners using JavaScript programming language.pdf|programming for absolute beginners using JavaScript programming language]]
 
@@ -959,7 +959,7 @@ Keywords: #C
 
 240. [[BOOKS/think C++.pdf|think C++]]
 
-Keywords: #C++
+Keywords: #C_pp
 
 241. [[BOOKS/think Java.pdf|think Java]]
 
@@ -991,7 +991,7 @@ Keywords: #engineering #vibration
 
 248. [[BOOKS/visual research a concise introduction to thinking visually.pdf|visual research a concise introduction to thinking visually]]
 
-Keywords: #concise #introduction #research #thinking #visual #visually
+Keywords: #concise #introduction #research #thinking #visual
 
 249. [[BOOKS/web design playground HTML CSS the interactive way.pdf|web design playground HTML CSS the interactive way]]
 
@@ -1023,7 +1023,7 @@ Keywords: #engineer #internet #things
 
 256. [[BOOKS/where is science leading us and what can we do to steer it.pdf|where is science leading us and what can we do to steer it]]
 
-Keywords: #leading #science #where
+Keywords: #leading #science
 
 257. [[BOOKS/written communication for engineer.pdf|written communication for engineer]]
 
