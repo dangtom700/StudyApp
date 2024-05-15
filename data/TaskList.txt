@@ -20,12 +20,18 @@ Sun, May 12, 2024
 
 Mon, May 13, 2024
 
-- [ ] Read a chapter of [[BOOKS/measurement and sensor systems a comprehensive guide to principles practical issues and applications.pdf|measurement and sensor systems a comprehensive guide to principles practical issues and applications]]
-- [ ] Read a chapter of [[BOOKS/Qt6 C++ GUI programming cookbook.pdf|Qt6 C++ GUI programming cookbook]]
-- [ ] Read a chapter of [[BOOKS/data structure using C theory and program.pdf|data structure using C theory and program]]
+- [x] Read a chapter of [[BOOKS/measurement and sensor systems a comprehensive guide to principles practical issues and applications.pdf|measurement and sensor systems a comprehensive guide to principles practical issues and applications]]
+- [x] Read a chapter of [[BOOKS/Qt6 C++ GUI programming cookbook.pdf|Qt6 C++ GUI programming cookbook]]
+- [x] Read a chapter of [[BOOKS/data structure using C theory and program.pdf|data structure using C theory and program]]
 
 Tue, May 14, 2024
 
-- [ ] Read a chapter of [[BOOKS/novelty information and surprise.pdf|novelty information and surprise]]
-- [ ] Read a chapter of [[BOOKS/engineering mathematics and computing.pdf|engineering mathematics and computing]]
-- [ ] Read a chapter of [[BOOKS/probability statistics and stimulation with applications program written in R.pdf|probability statistics and stimulation with applications program written in R]]
+- [x] Read a chapter of [[BOOKS/novelty information and surprise.pdf|novelty information and surprise]]
+- [x] Read a chapter of [[BOOKS/engineering mathematics and computing.pdf|engineering mathematics and computing]]
+- [x] Read a chapter of [[BOOKS/probability statistics and stimulation with applications program written in R.pdf|probability statistics and stimulation with applications program written in R]]
+
+Wed, May 15, 2024
+
+- [ ] Read a chapter of [[BOOKS/real time simulation technology for modern power electronics.pdf|real time simulation technology for modern power electronics]]
+- [ ] Read a chapter of [[BOOKS/essential of biology.pdf|essential of biology]]
+- [ ] Read a chapter of [[BOOKS/pro Git.pdf|pro Git]]
