@@ -7,7 +7,7 @@ Keywords: #financial #high #performance #systems
 
 2. [[BOOKS/GameMaker fundamentals learn GML programming to make amazing game.pdf|GameMaker fundamentals learn GML programming to make amazing game]]
 
-Keywords: #GameMaker #amazing #fundamentals #game #learn #programming
+Keywords: #GameMaker #amazing #fundamentals #game #learn #make #programming
 
 3. [[BOOKS/HTML CSS and JavaScript all in one for dummies.pdf|HTML CSS and JavaScript all in one for dummies]]
 
@@ -15,7 +15,7 @@ Keywords: #HTML #JavaScript #dummies
 
 4. [[BOOKS/I human AI automation and the guest to reclaim what makes us unique.pdf|I human AI automation and the guest to reclaim what makes us unique]]
 
-Keywords: #automation #guest #human #reclaim #unique
+Keywords: #automation #guest #human #makes #reclaim #unique #what
 
 5. [[BOOKS/JavaScript programming security design expressions and web development.pdf|JavaScript programming security design expressions and web development]]
 
@@ -31,7 +31,7 @@ Keywords: #PowerShell #automation #essential #fundamentals #guide #mastering #sc
 
 8. [[BOOKS/Python GUI with PyQt5.pdf|Python GUI with PyQt5]]
 
-Keywords: #PyQt5 #Python
+Keywords: #PyQt5 #Python #with
 
 9. [[BOOKS/Python all in one for dummies.pdf|Python all in one for dummies]]
 
@@ -79,11 +79,11 @@ Keywords: #advanced #applications #computer #learning #machine #network #recent 
 
 20. [[BOOKS/age of agency rise with AI.pdf|age of agency rise with AI]]
 
-Keywords: #agency #rise
+Keywords: #agency #rise #with
 
 21. [[BOOKS/age of revolutions progress and backlash from 1600 to the present.pdf|age of revolutions progress and backlash from 1600 to the present]]
 
-Keywords: #present #progress #revolutions
+Keywords: #1600 #backlash #from #present #progress #revolutions
 
 22. [[BOOKS/an introduction in economic dynamics modelling analysis and simulation.pdf|an introduction in economic dynamics modelling analysis and simulation]]
 
@@ -107,7 +107,7 @@ Keywords: #chains #challenges #development #engineering #models #value
 
 27. [[BOOKS/arguing about tastes modelling how context and experience change economic preference.pdf|arguing about tastes modelling how context and experience change economic preference]]
 
-Keywords: #arguing #change #context #economic #experience #modelling #preference #tastes
+Keywords: #about #arguing #change #context #economic #experience #modelling #preference #tastes
 
 28. [[BOOKS/artificial intelligence and society 5.0 issues opportunities and challenges.pdf|artificial intelligence and society 5.0 issues opportunities and challenges]]
 
@@ -203,7 +203,7 @@ Keywords: #control #engineering #systems
 
 51. [[BOOKS/convergent journalism an introduction writing and producing across media.pdf|convergent journalism an introduction writing and producing across media]]
 
-Keywords: #convergent #introduction #journalism #media #writing
+Keywords: #across #convergent #introduction #journalism #media #producing #writing
 
 52. [[BOOKS/corrosion science theoretical and practical applications.pdf|corrosion science theoretical and practical applications]]
 
@@ -211,19 +211,19 @@ Keywords: #applications #corrosion #practical #science #theoretical
 
 53. [[BOOKS/data science and analysis guide a beginners journey into the essential of data science and analysis.pdf|data science and analysis guide a beginners journey into the essential of data science and analysis]]
 
-Keywords: #analysis #beginners #data #essential #guide #journey #science
+Keywords: #analysis #beginners #data #essential #guide #into #journey #science
 
 54. [[BOOKS/data science fundamentals with R Python and open data.pdf|data science fundamentals with R Python and open data]]
 
-Keywords: #Python #data #fundamentals #open #science
+Keywords: #Python #data #fundamentals #open #science #with
 
 55. [[BOOKS/data structure using C theory and program.pdf|data structure using C theory and program]]
 
-Keywords: #data #program #structure #theory
+Keywords: #data #program #structure #theory #using
 
 56. [[BOOKS/data structures and algorithms for beginners unlocking efficient coding techniques from the ground up.pdf|data structures and algorithms for beginners unlocking efficient coding techniques from the ground up]]
 
-Keywords: #algorithms #beginners #data #efficient #ground #structures #techniques
+Keywords: #algorithms #beginners #coding #data #efficient #from #ground #structures #techniques #unlocking
 
 57. [[BOOKS/deep learning foundation and concepts.pdf|deep learning foundation and concepts]]
 
@@ -231,7 +231,7 @@ Keywords: #concepts #deep #foundation #learning
 
 58. [[BOOKS/design thinking understanding how designers think and work.pdf|design thinking understanding how designers think and work]]
 
-Keywords: #design #designers #thinking #understanding #work
+Keywords: #design #designers #think #thinking #understanding #work
 
 59. [[BOOKS/designers guide to Figma.pdf|designers guide to Figma]]
 
@@ -239,11 +239,11 @@ Keywords: #Figma #designers #guide
 
 60. [[BOOKS/designing knowledge emerging perspectives in design studies practices.pdf|designing knowledge emerging perspectives in design studies practices]]
 
-Keywords: #design #emerging #knowledge #perspectives #practices #studies
+Keywords: #design #designing #emerging #knowledge #perspectives #practices #studies
 
 61. [[BOOKS/differential equation based solutions for emerging real time problems.pdf|differential equation based solutions for emerging real time problems]]
 
-Keywords: #differential #emerging #equation #problems #solutions #time
+Keywords: #based #differential #emerging #equation #problems #real #solutions #time
 
 62. [[BOOKS/digital habitus a critique of the imaginaries of artificial intelligence.pdf|digital habitus a critique of the imaginaries of artificial intelligence]]
 
@@ -303,11 +303,11 @@ Keywords: #economics #engineering
 
 76. [[BOOKS/engineering economics financial decision making for engineers.pdf|engineering economics financial decision making for engineers]]
 
-Keywords: #decision #economics #engineering #engineers #financial
+Keywords: #decision #economics #engineering #engineers #financial #making
 
 77. [[BOOKS/engineering mathematics and computing.pdf|engineering mathematics and computing]]
 
-Keywords: #engineering #mathematics
+Keywords: #computing #engineering #mathematics
 
 78. [[BOOKS/engineering measurement and instrumentation.pdf|engineering measurement and instrumentation]]
 
@@ -315,11 +315,11 @@ Keywords: #engineering #instrumentation #measurement
 
 79. [[BOOKS/engineering mechanics dynamics version 1.pdf|engineering mechanics dynamics version 1]]
 
-Keywords: #dynamics #engineering #mechanics
+Keywords: #dynamics #engineering #mechanics #version
 
 80. [[BOOKS/engineering mechanics dynamics version 2.pdf|engineering mechanics dynamics version 2]]
 
-Keywords: #dynamics #engineering #mechanics
+Keywords: #dynamics #engineering #mechanics #version
 
 81. [[BOOKS/engineering noise control.pdf|engineering noise control]]
 
@@ -347,7 +347,7 @@ Keywords: #essential #oceanography
 
 87. [[BOOKS/everything you should know about Matlab for economic analysis.pdf|everything you should know about Matlab for economic analysis]]
 
-Keywords: #Matlab #analysis #economic #everything
+Keywords: #Matlab #about #analysis #economic #everything #know #should
 
 88. [[BOOKS/excel cookbook.pdf|excel cookbook]]
 
@@ -355,7 +355,7 @@ Keywords: #cookbook #excel
 
 89. [[BOOKS/exploring game mechanics principles and technology to make fun engaging game.pdf|exploring game mechanics principles and technology to make fun engaging game]]
 
-Keywords: #engaging #exploring #game #mechanics #principles #technology
+Keywords: #engaging #exploring #game #make #mechanics #principles #technology
 
 90. [[BOOKS/fabrication and design of resonant microdevices.pdf|fabrication and design of resonant microdevices]]
 
@@ -383,7 +383,7 @@ Keywords: #basic #concepts #fluid #mechanics #principles
 
 96. [[BOOKS/foundation of data science with Python.pdf|foundation of data science with Python]]
 
-Keywords: #Python #data #foundation #science
+Keywords: #Python #data #foundation #science #with
 
 97. [[BOOKS/foundation of library and information science.pdf|foundation of library and information science]]
 
@@ -407,7 +407,7 @@ Keywords: #audio #creation #fundamentals #game #games #introduction #planning #p
 
 102. [[BOOKS/game backend development with Microsoft Azure and PlayFab.pdf|game backend development with Microsoft Azure and PlayFab]]
 
-Keywords: #Azure #Microsoft #PlayFab #backend #development #game
+Keywords: #Azure #Microsoft #PlayFab #backend #development #game #with
 
 103. [[BOOKS/game design deep dive trading and collectible card games.pdf|game design deep dive trading and collectible card games]]
 
@@ -431,15 +431,15 @@ Keywords: #handbook #management #project
 
 108. [[BOOKS/hello web design design fundamentals and shortcuts for designers.pdf|hello web design design fundamentals and shortcuts for designers]]
 
-Keywords: #design #designers #fundamentals #shortcuts
+Keywords: #design #designers #fundamentals #hello #shortcuts
 
 109. [[BOOKS/how AI work from sorcery to science.pdf|how AI work from sorcery to science]]
 
-Keywords: #science #sorcery #work
+Keywords: #from #science #sorcery #work
 
 110. [[BOOKS/how learning happen seminal work in educational psychology and what they mean in practices.pdf|how learning happen seminal work in educational psychology and what they mean in practices]]
 
-Keywords: #educational #learning #practices #psychology #seminal #work
+Keywords: #educational #happen #learning #mean #practices #psychology #seminal #they #what #work
 
 111. [[BOOKS/how not to be wrong the power of mathematical thinking.pdf|how not to be wrong the power of mathematical thinking]]
 
@@ -447,7 +447,7 @@ Keywords: #mathematical #power #thinking #wrong
 
 112. [[BOOKS/how to become a data analyst my low-cost no-code roadmap for breaking into tech.pdf|how to become a data analyst my low-cost no-code roadmap for breaking into tech]]
 
-Keywords: #analyst #data #roadmap #tech
+Keywords: #analyst #become #breaking #data #into #roadmap #tech
 
 113. [[BOOKS/how to test a time machine a practical guide to the architecture and automation.pdf|how to test a time machine a practical guide to the architecture and automation]]
 
@@ -467,11 +467,11 @@ Keywords: #information #knowledge #systems
 
 117. [[BOOKS/information asset management why you must manage your data information and knowledge the way you manage your money.pdf|information asset management why you must manage your data information and knowledge the way you manage your money]]
 
-Keywords: #asset #data #information #knowledge #manage #management #money
+Keywords: #asset #data #information #knowledge #manage #management #money #must #your
 
 118. [[BOOKS/information design unbound key concepts and skills for making sense in a changing world.pdf|information design unbound key concepts and skills for making sense in a changing world]]
 
-Keywords: #changing #concepts #design #information #sense #skills #unbound #world
+Keywords: #changing #concepts #design #information #making #sense #skills #unbound #world
 
 119. [[BOOKS/information science.pdf|information science]]
 
@@ -499,15 +499,15 @@ Keywords: #advanced #energy #environment #intelligent #sustainability #system #t
 
 125. [[BOOKS/internet afterlife virtual salvation in the 21st century.pdf|internet afterlife virtual salvation in the 21st century]]
 
-Keywords: #afterlife #century #internet #salvation #virtual
+Keywords: #21st #afterlife #century #internet #salvation #virtual
 
 126. [[BOOKS/introduction Java through game development.pdf|introduction Java through game development]]
 
-Keywords: #Java #development #game #introduction
+Keywords: #Java #development #game #introduction #through
 
 127. [[BOOKS/introduction to Blender 3.0 organic and architectural modelling lighting material painting rendering and compositing.pdf|introduction to Blender 3.0 organic and architectural modelling lighting material painting rendering and compositing]]
 
-Keywords: #Blender #architectural #compositing #introduction #lighting #material #modelling #organic #painting
+Keywords: #Blender #architectural #compositing #introduction #lighting #material #modelling #organic #painting #rendering
 
 128. [[BOOKS/introduction to autonomous robots mechanisms sensors actuators and algorithms.pdf|introduction to autonomous robots mechanisms sensors actuators and algorithms]]
 
@@ -539,7 +539,7 @@ Keywords: #introduction #logic #programming
 
 135. [[BOOKS/introduction to nuclear engineering a study guide.pdf|introduction to nuclear engineering a study guide]]
 
-Keywords: #engineering #guide #introduction #nuclear
+Keywords: #engineering #guide #introduction #nuclear #study
 
 136. [[BOOKS/introduction to philosophy of engineering.pdf|introduction to philosophy of engineering]]
 
@@ -595,7 +595,7 @@ Keywords: #lean #methods #optimization #production #sigma
 
 149. [[BOOKS/learn Python with fun project.pdf|learn Python with fun project]]
 
-Keywords: #Python #learn #project
+Keywords: #Python #learn #project #with
 
 150. [[BOOKS/level of reality in science and philosophy re-examining the multi-level structure of reality.pdf|level of reality in science and philosophy re-examining the multi-level structure of reality]]
 
@@ -611,7 +611,7 @@ Keywords: #aesthetics #afterlife #data #incommunication #listening #pragmatics
 
 153. [[BOOKS/logos and alogon thinkable and the unthinkable in mathematics from the Pythagoreans to the modern.pdf|logos and alogon thinkable and the unthinkable in mathematics from the Pythagoreans to the modern]]
 
-Keywords: #Pythagoreans #alogon #logos #mathematics #modern #thinkable #unthinkable
+Keywords: #Pythagoreans #alogon #from #logos #mathematics #modern #thinkable #unthinkable
 
 154. [[BOOKS/machine learning and deep learning in natural language processing.pdf|machine learning and deep learning in natural language processing]]
 
@@ -623,7 +623,7 @@ Keywords: #course #crash #engineer #learning #machine
 
 156. [[BOOKS/maintaining and repairing old and historic buildings.pdf|maintaining and repairing old and historic buildings]]
 
-Keywords: #buildings #historic #maintaining
+Keywords: #buildings #historic #maintaining #repairing
 
 157. [[BOOKS/management and cost accounting.pdf|management and cost accounting]]
 
@@ -703,11 +703,11 @@ Keywords: #communication #graphics #modern
 
 176. [[BOOKS/modern statistics a computer-based approach with Python.pdf|modern statistics a computer-based approach with Python]]
 
-Keywords: #Python #approach #modern #statistics
+Keywords: #Python #approach #modern #statistics #with
 
 177. [[BOOKS/molecular simulation of fluid theory algorithms object-orientation and parallel computing.pdf|molecular simulation of fluid theory algorithms object-orientation and parallel computing]]
 
-Keywords: #algorithms #fluid #molecular #parallel #simulation #theory
+Keywords: #algorithms #computing #fluid #molecular #parallel #simulation #theory
 
 178. [[BOOKS/nanofillers fabrication characterization and applications of organic nanofillers.pdf|nanofillers fabrication characterization and applications of organic nanofillers]]
 
@@ -723,7 +723,7 @@ Keywords: #approach #explanatory #knowledge #nature #scientific
 
 181. [[BOOKS/nonlinear dynamics and chaos with applications to physics biology chemistry and engineering.pdf|nonlinear dynamics and chaos with applications to physics biology chemistry and engineering]]
 
-Keywords: #applications #biology #chaos #chemistry #dynamics #engineering #nonlinear #physics
+Keywords: #applications #biology #chaos #chemistry #dynamics #engineering #nonlinear #physics #with
 
 182. [[BOOKS/nonlinear systems stability dynamics and control.pdf|nonlinear systems stability dynamics and control]]
 
@@ -735,7 +735,7 @@ Keywords: #information #novelty #surprise
 
 184. [[BOOKS/operating systems evolutionary concepts and modern design principles.pdf|operating systems evolutionary concepts and modern design principles]]
 
-Keywords: #concepts #design #evolutionary #modern #principles #systems
+Keywords: #concepts #design #evolutionary #modern #operating #principles #systems
 
 185. [[BOOKS/optimization methods for engineering problems.pdf|optimization methods for engineering problems]]
 
@@ -755,7 +755,7 @@ Keywords: #drawing #handbook #perspective
 
 189. [[BOOKS/philosophy of computing.pdf|philosophy of computing]]
 
-Keywords: #philosophy
+Keywords: #computing #philosophy
 
 190. [[BOOKS/philosophy of science for scientist.pdf|philosophy of science for scientist]]
 
@@ -775,7 +775,7 @@ Keywords:
 
 194. [[BOOKS/probability statistics and stimulation with applications program written in R.pdf|probability statistics and stimulation with applications program written in R]]
 
-Keywords: #applications #probability #program #statistics #stimulation #written
+Keywords: #applications #probability #program #statistics #stimulation #with #written
 
 195. [[BOOKS/process control modelling design and simulation.pdf|process control modelling design and simulation]]
 
@@ -791,7 +791,7 @@ Keywords: #professional
 
 198. [[BOOKS/programming for absolute beginners using JavaScript programming language.pdf|programming for absolute beginners using JavaScript programming language]]
 
-Keywords: #JavaScript #absolute #beginners #language #programming
+Keywords: #JavaScript #absolute #beginners #language #programming #using
 
 199. [[BOOKS/programming language and systems.pdf|programming language and systems]]
 
@@ -803,7 +803,7 @@ Keywords: #management #manager #project #unofficial
 
 201. [[BOOKS/punk ageing and time.pdf|punk ageing and time]]
 
-Keywords: #punk #time
+Keywords: #ageing #punk #time
 
 202. [[BOOKS/quality control in fruit and vegetable processing methods and strategies.pdf|quality control in fruit and vegetable processing methods and strategies]]
 
@@ -811,7 +811,7 @@ Keywords: #control #fruit #methods #processing #quality #strategies #vegetable
 
 203. [[BOOKS/real time simulation technology for modern power electronics.pdf|real time simulation technology for modern power electronics]]
 
-Keywords: #electronics #modern #power #simulation #technology #time
+Keywords: #electronics #modern #power #real #simulation #technology #time
 
 204. [[BOOKS/recent development in automatic control systems.pdf|recent development in automatic control systems]]
 
@@ -827,15 +827,15 @@ Keywords: #fabrication #guide #manufacturing #microchips #practical #semiconduct
 
 207. [[BOOKS/seven game of life and how to play.pdf|seven game of life and how to play]]
 
-Keywords: #game #life
+Keywords: #game #life #play #seven
 
 208. [[BOOKS/simple and effective programming with C_sharp.pdf|simple and effective programming with C_sharp]]
 
-Keywords: #effective #programming #simple
+Keywords: #effective #programming #simple #with
 
 209. [[BOOKS/simple type theory a practical logic for expressing and reasoning about mathematical ideas.pdf|simple type theory a practical logic for expressing and reasoning about mathematical ideas]]
 
-Keywords: #expressing #ideas #logic #mathematical #practical #reasoning #simple #theory #type
+Keywords: #about #expressing #ideas #logic #mathematical #practical #reasoning #simple #theory #type
 
 210. [[BOOKS/simulation.pdf|simulation]]
 
@@ -867,7 +867,7 @@ Keywords: #design #game #structure
 
 217. [[BOOKS/surface environment and human interactions reflections from Asia.pdf|surface environment and human interactions reflections from Asia]]
 
-Keywords: #Asia #environment #human #interactions #reflections #surface
+Keywords: #Asia #environment #from #human #interactions #reflections #surface
 
 218. [[BOOKS/sustainability engineering challenges technology and applications.pdf|sustainability engineering challenges technology and applications]]
 
@@ -891,7 +891,7 @@ Keywords: #automation #guide #manager #test
 
 223. [[BOOKS/the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA.pdf|the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA]]
 
-Keywords: #architect #built #formalizing #framework #systems
+Keywords: #architect #built #formalizing #framework #systems #upon
 
 224. [[BOOKS/the afterlife of data.pdf|the afterlife of data]]
 
@@ -899,7 +899,7 @@ Keywords: #afterlife #data
 
 225. [[BOOKS/the age of identity who do our kids think they  are and how do we help  them belong.pdf|the age of identity who do our kids think they  are and how do we help  them belong]]
 
-Keywords: #belong #identity #kids
+Keywords: #belong #help #identity #kids #them #they #think
 
 226. [[BOOKS/the argicultural sky a concept to revolutionize farming.pdf|the argicultural sky a concept to revolutionize farming]]
 
@@ -931,7 +931,7 @@ Keywords: #dictionary #geography #human
 
 233. [[BOOKS/the game of life and how to play it.pdf|the game of life and how to play it]]
 
-Keywords: #game #life
+Keywords: #game #life #play
 
 234. [[BOOKS/the information literacy framework case studies of successful implementation.pdf|the information literacy framework case studies of successful implementation]]
 
@@ -955,23 +955,23 @@ Keywords: #architecture #design #experience #theory #urban
 
 239. [[BOOKS/think C.pdf|think C]]
 
-Keywords: 
+Keywords: #think
 
 240. [[BOOKS/think C++.pdf|think C++]]
 
-Keywords: 
+Keywords: #think
 
 241. [[BOOKS/think Java.pdf|think Java]]
 
-Keywords: #Java
+Keywords: #Java #think
 
 242. [[BOOKS/think Python.pdf|think Python]]
 
-Keywords: #Python
+Keywords: #Python #think
 
 243. [[BOOKS/thinking about science good science bad science and how to make it better.pdf|thinking about science good science bad science and how to make it better]]
 
-Keywords: #better #good #science #thinking
+Keywords: #about #better #good #make #science #thinking
 
 244. [[BOOKS/thought experiments.pdf|thought experiments]]
 
@@ -979,7 +979,7 @@ Keywords: #experiments #thought
 
 245. [[BOOKS/ultimate freedom beyond free will.pdf|ultimate freedom beyond free will]]
 
-Keywords: #beyond #free #freedom #ultimate
+Keywords: #beyond #free #freedom #ultimate #will
 
 246. [[BOOKS/user guide to vacuum technology.pdf|user guide to vacuum technology]]
 
@@ -991,7 +991,7 @@ Keywords: #engineering #vibration
 
 248. [[BOOKS/visual research a concise introduction to thinking visually.pdf|visual research a concise introduction to thinking visually]]
 
-Keywords: #concise #introduction #research #thinking #visual
+Keywords: #concise #introduction #research #thinking #visual #visually
 
 249. [[BOOKS/web design playground HTML CSS the interactive way.pdf|web design playground HTML CSS the interactive way]]
 
@@ -999,31 +999,31 @@ Keywords: #HTML #design #interactive #playground
 
 250. [[BOOKS/web scraping with Python.pdf|web scraping with Python]]
 
-Keywords: #Python #scraping
+Keywords: #Python #scraping #with
 
 251. [[BOOKS/what every engineer should know about data driven analytics.pdf|what every engineer should know about data driven analytics]]
 
-Keywords: #analytics #data #driven #engineer
+Keywords: #about #analytics #data #driven #engineer #every #know #should #what
 
 252. [[BOOKS/what every engineer should know about reliability and risk analysis.pdf|what every engineer should know about reliability and risk analysis]]
 
-Keywords: #analysis #engineer #reliability #risk
+Keywords: #about #analysis #engineer #every #know #reliability #risk #should #what
 
 253. [[BOOKS/what every engineer should know about risk engineering and management.pdf|what every engineer should know about risk engineering and management]]
 
-Keywords: #engineer #engineering #management #risk
+Keywords: #about #engineer #engineering #every #know #management #risk #should #what
 
 254. [[BOOKS/what every engineer should know about smart cities.pdf|what every engineer should know about smart cities]]
 
-Keywords: #cities #engineer #smart
+Keywords: #about #cities #engineer #every #know #should #smart #what
 
 255. [[BOOKS/what every engineer should know about the internet of things.pdf|what every engineer should know about the internet of things]]
 
-Keywords: #engineer #internet #things
+Keywords: #about #engineer #every #internet #know #should #things #what
 
 256. [[BOOKS/where is science leading us and what can we do to steer it.pdf|where is science leading us and what can we do to steer it]]
 
-Keywords: #leading #science
+Keywords: #leading #science #steer #what #where
 
 257. [[BOOKS/written communication for engineer.pdf|written communication for engineer]]
 

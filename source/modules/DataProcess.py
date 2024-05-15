@@ -146,9 +146,12 @@ def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
     Return:
         tag_set_display (dict[str, list[str]]): A dictionary where each key represents the first letter of a tag and the corresponding value is a list of all the tags that start with that letter.
     """
-    tag_set_display = {"a":[], "b":[], "c":[], "d":[], "e":[], "f":[], "g":[], "h":[], "i":[], "j":[], "k":[], "l":[], "m":[], "n":[], "o":[], "p":[], "q":[], "r":[], "s":[], "t":[], "u":[], "v":[], "w":[], "x":[], "y":[], "z":[]}
+    tag_set_display = {"a":[], "b":[], "c":[], "d":[], "e":[], "f":[], "g":[], "h":[], "i":[], "j":[], "k":[], "l":[], "m":[], "n":[], "o":[], "p":[], "q":[], "r":[], "s":[], "t":[], "u":[], "v":[], "w":[], "x":[], "y":[], "z":[], "mics": []}
     for tag in tag_set:
-        tag_set_display[tag[0].lower()].append(tag)
+        if tag[0].isnumeric() == True:
+            tag_set_display["mics"].append(tag)
+        else:
+            tag_set_display[tag[0].lower()].append(tag)
     return tag_set_display
 
 def analyze_characteristic_of_property(property: list[str]) -> dict[str,int]:

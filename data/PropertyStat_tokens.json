@@ -31,15 +31,15 @@
         "Property": "Tag Number",
         "Minimum": 0,
         "Maximum": 11,
-        "Total": 1158,
-        "Avarage": 4.506,
+        "Total": 1265,
+        "Avarage": 4.922,
         "Harmonic Mean": 0,
-        "Median": 4,
+        "Median": 5,
         "Mode": 3,
-        "Population Standard Deviation": 2.065,
-        "Standard Deviation": 2.069,
-        "Population Variance": 4.266,
-        "Variance": 4.282
+        "Population Standard Deviation": 2.215,
+        "Standard Deviation": 2.219,
+        "Population Variance": 4.904,
+        "Variance": 4.924
     },
     {
         "Property": "File Size (Kb)",
