@@ -39,30 +39,18 @@ def get_pdf_name(folderPath: str) -> list[str]:
             pdfNameList.append(file.removesuffix(".pdf"))
     return sorted(pdfNameList)
 
-def get_double_word_list_from_file(word_list: list[str], banned_words: set[str]) -> set[str]:
-    """
-    Generate a set of two-word tags from a given list of words, excluding any tags that contain banned words.
-
-    Parameters:
-    - word_list (list[str]): A list of words from which to generate two-word tags.
-    - banned_words (set[str]): A set of words that should be excluded from the generated two-word tags.
-
-    Returns:
-    - two_word_tags (set[str]): A set of two-word tags generated from the input word list, excluding any tags that contain banned words.
-    """
+def get_double_word_list_from_file(word_list: list[str]) -> set[str]:
     two_word_tags = set()
     for i in range(len(word_list) - 1):
         tag = word_list[i] + "_" + word_list[i+1]
-        if all(word not in banned_words for word in tag.split("_")):
-            two_word_tags.add(tag)
+        two_word_tags.add(tag)
     return two_word_tags
 
-def get_triple_word_list_from_file(word_list: list[str], banned_words: set[str]) -> set[str]:
+def get_triple_word_list_from_file(word_list: list[str]) -> set[str]:
     three_word_tags = set()
     for i in range(len(word_list) - 2):
         tag = word_list[i] + "_" + word_list[i+1] + "_" + word_list[i+2]
-        if all(word not in banned_words for word in tag.split("_")):
-            three_word_tags.add(tag)
+        three_word_tags.add(tag)
     return three_word_tags
 
 def get_word_list_from_file(filename: str, banned_words: set[str]) -> set[str]:
@@ -78,11 +66,11 @@ def get_word_list_from_file(filename: str, banned_words: set[str]) -> set[str]:
     """
     words = filename.strip().split()
     tuned_words = set(words)
-    double_words = get_double_word_list_from_file(words, banned_words)
-    #triple_words = get_triple_word_list_from_file(words, banned_words)
+    double_words = get_double_word_list_from_file(words)
+    triple_words = get_triple_word_list_from_file(words)
 
     tuned_words = tuned_words.union(double_words)
-    #tuned_words = tuned_words.union(triple_words)
+    tuned_words = tuned_words.union(triple_words)
     tuned_words = {word.replace("C++", "C_pp").replace("C#", "C_sharp") for word in tuned_words}
     tuned_words = tuned_words.difference(banned_words)
     return sorted(tuned_words)
