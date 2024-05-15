@@ -184,6 +184,13 @@ def updateStat(PDF_info_file: str) -> None:
             else:
                 outputFile.write("\n")
                 counter = 0
+    with open("F:/project/StudyLogDB/mini_project/KeywordRanker/data/multi_tag.txt", "w") as outputFile:
+        for tag in multi_tag:
+            outputFile.write(f"{tag}\n")
+
+    with open("F:/project/StudyLogDB/mini_project/KeywordRanker/data/filename.txt", "w") as outputFile:
+        for filename in title:
+            outputFile.write(f"{filename}\n")
             
 
     mirrorFile_to_destination(path.TableStat_path, path.Obsidian_TableStat_path)

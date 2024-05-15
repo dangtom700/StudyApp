@@ -1,5 +1,5 @@
 
-# Tags (Total: 544)
+# Tags (Total: 542)
 
 ## A (44)
 
@@ -13,9 +13,9 @@
 
 #C #CSS #C_pp #C_sharp #calculation #calculus #campaign #card #career #case #century #certification #chains #challenges #change #changing #chaos #characteristics #characterization #chemical #chemistry #circuit #cities #clean #closing #cognitive #collectible #communication #companies #companion #compiler #complete #compositing #comprehensive #computational #computer #computer-based #concept #concepts #concise #contemporary #context #control #convergent #converters #cookbook #corrosion #cost #course #crash #create #creation #critical #critique #culture #cultures #curious 
 
-## D (21)
+## D (22)
 
-#data #databases #death #decision #deep #design #designers #development #differential #digital #discipline #discovery #discrete #distributed #distribution #dive #drawing #driven #drones #dummies #dynamics 
+#data #databases #death #decision #deep #design #designers #development #dictionary #differential #digital #discipline #discovery #discrete #distributed #distribution #dive #drawing #driven #drones #dummies #dynamics 
 
 ## E (38)
 
@@ -25,9 +25,9 @@
 
 #Figma #fabrication #facilitating #factors #farming #figure #financial #finite #fluid #formalizing #foundation #framework #free #freedom #fruit #fundamentals 
 
-## G (20)
+## G (19)
 
-#GML #GUI #GameMaker #Git #gambling #game #games #geography #global #good #graph #graphics #great #green #ground #growth #guest #guide #guidebook #guru 
+#GML #GUI #GameMaker #Git #gambling #game #games #geography #good #graph #graphics #great #green #ground #growth #guest #guide #guidebook #guru 
 
 ## H (10)
 
@@ -61,17 +61,17 @@
 
 #OWL #object-orientation #oceanography #old #open #operations #operators #opportunities #optimization #organic #organization #organizational #orientation 
 
-## P (50)
+## P (49)
 
-#Perspective #PlayFab #PowerShell #PyQt5 #Pythagoreans #Python #painting #parallel #partial #patterns #performance #personal #perspective #perspectives #philosophy #physicochemical #physics #places #planning #plant #playground #plural #power #practical #practice #practices #pragmatics #precision #preference #present #principles #probabilistic #probability #problems #process #processes #processing #product #production #products #professional #program #programming #progress #project #project-based #properties #psychological #psychology #punk 
+#Perspective #PlayFab #PowerShell #PyQt5 #Pythagoreans #Python #painting #parallel #partial #patterns #performance #personal #perspective #perspectives #philosophy #physicochemical #physics #planning #plant #playground #plural #power #practical #practice #practices #pragmatics #precision #preference #present #principles #probabilistic #probability #problems #process #processes #processing #product #production #products #professional #program #programming #progress #project #project-based #properties #psychological #psychology #punk 
 
 ## Q (2)
 
 #Qt6 #quality 
 
-## R (23)
+## R (22)
 
-#R #REA #React #re-examining #reality #reasoning #recent #reclaim #recognition #reflections #regions #reliability #renewable #research #resonant #resources #revolutionize #revolutions #rise #risk #roadmap #robotics #robots 
+#R #REA #React #re-examining #reality #reasoning #recent #reclaim #recognition #reflections #reliability #renewable #research #resonant #resources #revolutionize #revolutions #rise #risk #roadmap #robotics #robots 
 
 ## S (58)
 

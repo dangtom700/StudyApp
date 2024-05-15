@@ -457,477 +457,477 @@ Keywords: #architecture #automation #guide #machine #practical #test #time
 
 Keywords: #automation #engineering #factors #human #interactions #manufacturing #systems
 
-115. [[BOOKS/human geography places and regions in global context.pdf|human geography places and regions in global context]]
-
-Keywords: #context #geography #global #human #places #regions
-
-116. [[BOOKS/industry 4.0 concepts process and systems.pdf|industry 4.0 concepts process and systems]]
+115. [[BOOKS/industry 4.0 concepts process and systems.pdf|industry 4.0 concepts process and systems]]
 
 Keywords: #concepts #industry #process #systems
 
-117. [[BOOKS/information and knowledge systems.pdf|information and knowledge systems]]
+116. [[BOOKS/information and knowledge systems.pdf|information and knowledge systems]]
 
 Keywords: #information #knowledge #systems
 
-118. [[BOOKS/information asset management why you must manage your data information and knowledge the way you manage your money.pdf|information asset management why you must manage your data information and knowledge the way you manage your money]]
+117. [[BOOKS/information asset management why you must manage your data information and knowledge the way you manage your money.pdf|information asset management why you must manage your data information and knowledge the way you manage your money]]
 
 Keywords: #asset #data #information #knowledge #manage #management #money
 
-119. [[BOOKS/information design unbound key concepts and skills for making sense in a changing world.pdf|information design unbound key concepts and skills for making sense in a changing world]]
+118. [[BOOKS/information design unbound key concepts and skills for making sense in a changing world.pdf|information design unbound key concepts and skills for making sense in a changing world]]
 
 Keywords: #changing #concepts #design #information #key #sense #skills #unbound #world
 
-120. [[BOOKS/information science.pdf|information science]]
+119. [[BOOKS/information science.pdf|information science]]
 
 Keywords: #information #science
 
-121. [[BOOKS/innovative social science teaching and learning facilitating students personal growth and career success.pdf|innovative social science teaching and learning facilitating students personal growth and career success]]
+120. [[BOOKS/innovative social science teaching and learning facilitating students personal growth and career success.pdf|innovative social science teaching and learning facilitating students personal growth and career success]]
 
 Keywords: #career #facilitating #growth #innovative #learning #personal #science #social #students #success #teaching
 
-122. [[BOOKS/insights strategies and applications of business analytics.pdf|insights strategies and applications of business analytics]]
+121. [[BOOKS/insights strategies and applications of business analytics.pdf|insights strategies and applications of business analytics]]
 
 Keywords: #analytics #applications #business #insights #strategies
 
-123. [[BOOKS/intelligent decision support system for IoT enabling technology opportunities challenges and applications.pdf|intelligent decision support system for IoT enabling technology opportunities challenges and applications]]
+122. [[BOOKS/intelligent decision support system for IoT enabling technology opportunities challenges and applications.pdf|intelligent decision support system for IoT enabling technology opportunities challenges and applications]]
 
 Keywords: #IoT #applications #challenges #decision #enabling #intelligent #opportunities #support #system #technology
 
-124. [[BOOKS/intelligent robots and drones for precision agriculture.pdf|intelligent robots and drones for precision agriculture]]
+123. [[BOOKS/intelligent robots and drones for precision agriculture.pdf|intelligent robots and drones for precision agriculture]]
 
 Keywords: #agriculture #drones #intelligent #precision #robots
 
-125. [[BOOKS/intelligent transportation system and advanced technology energy environment and sustainability.pdf|intelligent transportation system and advanced technology energy environment and sustainability]]
+124. [[BOOKS/intelligent transportation system and advanced technology energy environment and sustainability.pdf|intelligent transportation system and advanced technology energy environment and sustainability]]
 
 Keywords: #advanced #energy #environment #intelligent #sustainability #system #technology #transportation
 
-126. [[BOOKS/internet afterlife virtual salvation in the 21st century.pdf|internet afterlife virtual salvation in the 21st century]]
+125. [[BOOKS/internet afterlife virtual salvation in the 21st century.pdf|internet afterlife virtual salvation in the 21st century]]
 
 Keywords: #afterlife #century #internet #salvation #virtual
 
-127. [[BOOKS/introduction Java through game development.pdf|introduction Java through game development]]
+126. [[BOOKS/introduction Java through game development.pdf|introduction Java through game development]]
 
 Keywords: #Java #development #game #introduction
 
-128. [[BOOKS/introduction to Blender 3.0 organic and architectural modelling lighting material painting rendering and compositing.pdf|introduction to Blender 3.0 organic and architectural modelling lighting material painting rendering and compositing]]
+127. [[BOOKS/introduction to Blender 3.0 organic and architectural modelling lighting material painting rendering and compositing.pdf|introduction to Blender 3.0 organic and architectural modelling lighting material painting rendering and compositing]]
 
 Keywords: #Blender #architectural #compositing #introduction #lighting #material #modelling #organic #painting
 
-129. [[BOOKS/introduction to autonomous robots mechanisms sensors actuators and algorithms.pdf|introduction to autonomous robots mechanisms sensors actuators and algorithms]]
+128. [[BOOKS/introduction to autonomous robots mechanisms sensors actuators and algorithms.pdf|introduction to autonomous robots mechanisms sensors actuators and algorithms]]
 
 Keywords: #actuators #algorithms #autonomous #introduction #mechanisms #robots #sensors
 
-130. [[BOOKS/introduction to basic manufacturing processes and workshop technology.pdf|introduction to basic manufacturing processes and workshop technology]]
+129. [[BOOKS/introduction to basic manufacturing processes and workshop technology.pdf|introduction to basic manufacturing processes and workshop technology]]
 
 Keywords: #basic #introduction #manufacturing #processes #technology #workshop
 
-131. [[BOOKS/introduction to chemical engineering.pdf|introduction to chemical engineering]]
+130. [[BOOKS/introduction to chemical engineering.pdf|introduction to chemical engineering]]
 
 Keywords: #chemical #engineering #introduction
 
-132. [[BOOKS/introduction to compiler design.pdf|introduction to compiler design]]
+131. [[BOOKS/introduction to compiler design.pdf|introduction to compiler design]]
 
 Keywords: #compiler #design #introduction
 
-133. [[BOOKS/introduction to design theory philosophy critique history and practices.pdf|introduction to design theory philosophy critique history and practices]]
+132. [[BOOKS/introduction to design theory philosophy critique history and practices.pdf|introduction to design theory philosophy critique history and practices]]
 
 Keywords: #critique #design #history #introduction #philosophy #practices #theory
 
-134. [[BOOKS/introduction to engineering for engineer and scientist.pdf|introduction to engineering for engineer and scientist]]
+133. [[BOOKS/introduction to engineering for engineer and scientist.pdf|introduction to engineering for engineer and scientist]]
 
 Keywords: #engineer #engineering #introduction #scientist
 
-135. [[BOOKS/introduction to logic programming.pdf|introduction to logic programming]]
+134. [[BOOKS/introduction to logic programming.pdf|introduction to logic programming]]
 
 Keywords: #introduction #logic #programming
 
-136. [[BOOKS/introduction to nuclear engineering a study guide.pdf|introduction to nuclear engineering a study guide]]
+135. [[BOOKS/introduction to nuclear engineering a study guide.pdf|introduction to nuclear engineering a study guide]]
 
 Keywords: #engineering #guide #introduction #nuclear
 
-137. [[BOOKS/introduction to philosophy of engineering.pdf|introduction to philosophy of engineering]]
+136. [[BOOKS/introduction to philosophy of engineering.pdf|introduction to philosophy of engineering]]
 
 Keywords: #engineering #introduction #philosophy
 
-138. [[BOOKS/introduction to probability statistical methods design of experiments and statistical quality control.pdf|introduction to probability statistical methods design of experiments and statistical quality control]]
+137. [[BOOKS/introduction to probability statistical methods design of experiments and statistical quality control.pdf|introduction to probability statistical methods design of experiments and statistical quality control]]
 
 Keywords: #control #design #experiments #introduction #methods #probability #quality #statistical
 
-139. [[BOOKS/introduction to statistics and data analysis exercises solutions and applications in R.pdf|introduction to statistics and data analysis exercises solutions and applications in R]]
+138. [[BOOKS/introduction to statistics and data analysis exercises solutions and applications in R.pdf|introduction to statistics and data analysis exercises solutions and applications in R]]
 
 Keywords: #R #analysis #applications #data #exercises #introduction #solutions #statistics
 
-140. [[BOOKS/introduction to texture analysis macrotexture microtexture and orientation mapping.pdf|introduction to texture analysis macrotexture microtexture and orientation mapping]]
+139. [[BOOKS/introduction to texture analysis macrotexture microtexture and orientation mapping.pdf|introduction to texture analysis macrotexture microtexture and orientation mapping]]
 
 Keywords: #analysis #introduction #macrotexture #mapping #microtexture #orientation #texture
 
-141. [[BOOKS/introductory MEMs fabrication and applications.pdf|introductory MEMs fabrication and applications]]
+140. [[BOOKS/introductory MEMs fabrication and applications.pdf|introductory MEMs fabrication and applications]]
 
 Keywords: #MEMs #applications #fabrication #introductory
 
-142. [[BOOKS/investigating oceanography.pdf|investigating oceanography]]
+141. [[BOOKS/investigating oceanography.pdf|investigating oceanography]]
 
 Keywords: #investigating #oceanography
 
-143. [[BOOKS/knowledge and ideation inventive knowledge analysis for ideation stimulation.pdf|knowledge and ideation inventive knowledge analysis for ideation stimulation]]
+142. [[BOOKS/knowledge and ideation inventive knowledge analysis for ideation stimulation.pdf|knowledge and ideation inventive knowledge analysis for ideation stimulation]]
 
 Keywords: #analysis #ideation #inventive #knowledge #stimulation
 
-144. [[BOOKS/knowledge and systems science enabling systemic knowledge synthesis.pdf|knowledge and systems science enabling systemic knowledge synthesis]]
+143. [[BOOKS/knowledge and systems science enabling systemic knowledge synthesis.pdf|knowledge and systems science enabling systemic knowledge synthesis]]
 
 Keywords: #enabling #knowledge #science #synthesis #systemic #systems
 
-145. [[BOOKS/knowledge integration methods for probabilistic knowledge-based systems.pdf|knowledge integration methods for probabilistic knowledge-based systems]]
+144. [[BOOKS/knowledge integration methods for probabilistic knowledge-based systems.pdf|knowledge integration methods for probabilistic knowledge-based systems]]
 
 Keywords: #integration #knowledge #knowledge-based #methods #probabilistic #systems
 
-146. [[BOOKS/knowledge management systems and processes in the AI era.pdf|knowledge management systems and processes in the AI era]]
+145. [[BOOKS/knowledge management systems and processes in the AI era.pdf|knowledge management systems and processes in the AI era]]
 
 Keywords: #AI #knowledge #management #processes #systems
 
-147. [[BOOKS/knowledge science engineering and management.pdf|knowledge science engineering and management]]
+146. [[BOOKS/knowledge science engineering and management.pdf|knowledge science engineering and management]]
 
 Keywords: #engineering #knowledge #management #science
 
-148. [[BOOKS/knowledge-based systems.pdf|knowledge-based systems]]
+147. [[BOOKS/knowledge-based systems.pdf|knowledge-based systems]]
 
 Keywords: #knowledge-based #systems
 
-149. [[BOOKS/lean six sigma methods for production optimization.pdf|lean six sigma methods for production optimization]]
+148. [[BOOKS/lean six sigma methods for production optimization.pdf|lean six sigma methods for production optimization]]
 
 Keywords: #lean #methods #optimization #production #sigma
 
-150. [[BOOKS/learn Python with fun project.pdf|learn Python with fun project]]
+149. [[BOOKS/learn Python with fun project.pdf|learn Python with fun project]]
 
 Keywords: #Python #learn #project
 
-151. [[BOOKS/level of reality in science and philosophy re-examining the multi-level structure of reality.pdf|level of reality in science and philosophy re-examining the multi-level structure of reality]]
+150. [[BOOKS/level of reality in science and philosophy re-examining the multi-level structure of reality.pdf|level of reality in science and philosophy re-examining the multi-level structure of reality]]
 
 Keywords: #level #multi-level #philosophy #re-examining #reality #science #structure
 
-152. [[BOOKS/libraries literatures and archives.pdf|libraries literatures and archives]]
+151. [[BOOKS/libraries literatures and archives.pdf|libraries literatures and archives]]
 
 Keywords: #archives #libraries #literatures
 
-153. [[BOOKS/listening in the afterlife of data aesthetics pragmatics and incommunication.pdf|listening in the afterlife of data aesthetics pragmatics and incommunication]]
+152. [[BOOKS/listening in the afterlife of data aesthetics pragmatics and incommunication.pdf|listening in the afterlife of data aesthetics pragmatics and incommunication]]
 
 Keywords: #aesthetics #afterlife #data #incommunication #listening #pragmatics
 
-154. [[BOOKS/logos and alogon thinkable and the unthinkable in mathematics from the Pythagoreans to the modern.pdf|logos and alogon thinkable and the unthinkable in mathematics from the Pythagoreans to the modern]]
+153. [[BOOKS/logos and alogon thinkable and the unthinkable in mathematics from the Pythagoreans to the modern.pdf|logos and alogon thinkable and the unthinkable in mathematics from the Pythagoreans to the modern]]
 
 Keywords: #Pythagoreans #alogon #logos #mathematics #modern #thinkable #unthinkable
 
-155. [[BOOKS/machine learning and deep learning in natural language processing.pdf|machine learning and deep learning in natural language processing]]
+154. [[BOOKS/machine learning and deep learning in natural language processing.pdf|machine learning and deep learning in natural language processing]]
 
 Keywords: #deep #language #learning #machine #natural #processing
 
-156. [[BOOKS/machine learning crash course for engineer.pdf|machine learning crash course for engineer]]
+155. [[BOOKS/machine learning crash course for engineer.pdf|machine learning crash course for engineer]]
 
 Keywords: #course #crash #engineer #learning #machine
 
-157. [[BOOKS/maintaining and repairing old and historic buildings.pdf|maintaining and repairing old and historic buildings]]
+156. [[BOOKS/maintaining and repairing old and historic buildings.pdf|maintaining and repairing old and historic buildings]]
 
 Keywords: #buildings #historic #maintaining #old
 
-158. [[BOOKS/management and cost accounting.pdf|management and cost accounting]]
+157. [[BOOKS/management and cost accounting.pdf|management and cost accounting]]
 
 Keywords: #accounting #cost #management
 
-159. [[BOOKS/mastering C++ network automation.pdf|mastering C++ network automation]]
+158. [[BOOKS/mastering C++ network automation.pdf|mastering C++ network automation]]
 
 Keywords: #C_pp #automation #mastering #network
 
-160. [[BOOKS/mastering large language models.pdf|mastering large language models]]
+159. [[BOOKS/mastering large language models.pdf|mastering large language models]]
 
 Keywords: #language #large #mastering #models
 
-161. [[BOOKS/mastering project discovery successful discipline in engineering and analytics project.pdf|mastering project discovery successful discipline in engineering and analytics project]]
+160. [[BOOKS/mastering project discovery successful discipline in engineering and analytics project.pdf|mastering project discovery successful discipline in engineering and analytics project]]
 
 Keywords: #analytics #discipline #discovery #engineering #mastering #project #successful
 
-162. [[BOOKS/material modelling in finite element analysis.pdf|material modelling in finite element analysis]]
+161. [[BOOKS/material modelling in finite element analysis.pdf|material modelling in finite element analysis]]
 
 Keywords: #analysis #element #finite #material #modelling
 
-163. [[BOOKS/math numeric and programming for mechanical engineer.pdf|math numeric and programming for mechanical engineer]]
+162. [[BOOKS/math numeric and programming for mechanical engineer.pdf|math numeric and programming for mechanical engineer]]
 
 Keywords: #engineer #math #mechanical #numeric #programming
 
-164. [[BOOKS/mathematical modelling of fluid dynamics and nanofluids.pdf|mathematical modelling of fluid dynamics and nanofluids]]
+163. [[BOOKS/mathematical modelling of fluid dynamics and nanofluids.pdf|mathematical modelling of fluid dynamics and nanofluids]]
 
 Keywords: #dynamics #fluid #mathematical #modelling #nanofluids
 
-165. [[BOOKS/mathematical thinking and writing a transition to abstract mathematics.pdf|mathematical thinking and writing a transition to abstract mathematics]]
+164. [[BOOKS/mathematical thinking and writing a transition to abstract mathematics.pdf|mathematical thinking and writing a transition to abstract mathematics]]
 
 Keywords: #abstract #mathematical #mathematics #thinking #transition #writing
 
-166. [[BOOKS/mathematics manual for water and wastewater treatment plant operators wastewater treatment operations math concepts and calculation.pdf|mathematics manual for water and wastewater treatment plant operators wastewater treatment operations math concepts and calculation]]
+165. [[BOOKS/mathematics manual for water and wastewater treatment plant operators wastewater treatment operations math concepts and calculation.pdf|mathematics manual for water and wastewater treatment plant operators wastewater treatment operations math concepts and calculation]]
 
 Keywords: #calculation #concepts #manual #math #mathematics #operations #operators #plant #treatment #wastewater #water
 
-167. [[BOOKS/measurement and sensor systems a comprehensive guide to principles practical issues and applications.pdf|measurement and sensor systems a comprehensive guide to principles practical issues and applications]]
+166. [[BOOKS/measurement and sensor systems a comprehensive guide to principles practical issues and applications.pdf|measurement and sensor systems a comprehensive guide to principles practical issues and applications]]
 
 Keywords: #applications #comprehensive #guide #issues #measurement #practical #principles #sensor #systems
 
-168. [[BOOKS/mechanical engineer handbook design instrumentation and control.pdf|mechanical engineer handbook design instrumentation and control]]
+167. [[BOOKS/mechanical engineer handbook design instrumentation and control.pdf|mechanical engineer handbook design instrumentation and control]]
 
 Keywords: #control #design #engineer #handbook #instrumentation #mechanical
 
-169. [[BOOKS/mechanical engineer handbook energy and power.pdf|mechanical engineer handbook energy and power]]
+168. [[BOOKS/mechanical engineer handbook energy and power.pdf|mechanical engineer handbook energy and power]]
 
 Keywords: #energy #engineer #handbook #mechanical #power
 
-170. [[BOOKS/mechanical engineer handbook manufacturing and management.pdf|mechanical engineer handbook manufacturing and management]]
+169. [[BOOKS/mechanical engineer handbook manufacturing and management.pdf|mechanical engineer handbook manufacturing and management]]
 
 Keywords: #engineer #handbook #management #manufacturing #mechanical
 
-171. [[BOOKS/mechanical engineer handbook material and engineering mechanics.pdf|mechanical engineer handbook material and engineering mechanics]]
+170. [[BOOKS/mechanical engineer handbook material and engineering mechanics.pdf|mechanical engineer handbook material and engineering mechanics]]
 
 Keywords: #engineer #engineering #handbook #material #mechanical #mechanics
 
-172. [[BOOKS/media and development.pdf|media and development]]
+171. [[BOOKS/media and development.pdf|media and development]]
 
 Keywords: #development #media
 
-173. [[BOOKS/microcontrollers.pdf|microcontrollers]]
+172. [[BOOKS/microcontrollers.pdf|microcontrollers]]
 
 Keywords: #microcontrollers
 
-174. [[BOOKS/modelling and simulation in engineering.pdf|modelling and simulation in engineering]]
+173. [[BOOKS/modelling and simulation in engineering.pdf|modelling and simulation in engineering]]
 
 Keywords: #engineering #modelling #simulation
 
-175. [[BOOKS/modern control systems.pdf|modern control systems]]
+174. [[BOOKS/modern control systems.pdf|modern control systems]]
 
 Keywords: #control #modern #systems
 
-176. [[BOOKS/modern graphics communication.pdf|modern graphics communication]]
+175. [[BOOKS/modern graphics communication.pdf|modern graphics communication]]
 
 Keywords: #communication #graphics #modern
 
-177. [[BOOKS/modern statistics a computer-based approach with Python.pdf|modern statistics a computer-based approach with Python]]
+176. [[BOOKS/modern statistics a computer-based approach with Python.pdf|modern statistics a computer-based approach with Python]]
 
 Keywords: #Python #approach #computer-based #modern #statistics
 
-178. [[BOOKS/molecular simulation of fluid theory algorithms object-orientation and parallel computing.pdf|molecular simulation of fluid theory algorithms object-orientation and parallel computing]]
+177. [[BOOKS/molecular simulation of fluid theory algorithms object-orientation and parallel computing.pdf|molecular simulation of fluid theory algorithms object-orientation and parallel computing]]
 
 Keywords: #algorithms #fluid #molecular #object-orientation #parallel #simulation #theory
 
-179. [[BOOKS/nanofillers fabrication characterization and applications of organic nanofillers.pdf|nanofillers fabrication characterization and applications of organic nanofillers]]
+178. [[BOOKS/nanofillers fabrication characterization and applications of organic nanofillers.pdf|nanofillers fabrication characterization and applications of organic nanofillers]]
 
 Keywords: #applications #characterization #fabrication #nanofillers #organic
 
-180. [[BOOKS/nanotechnology enhanced solid materials design synthesis properties applications and Perspective.pdf|nanotechnology enhanced solid materials design synthesis properties applications and Perspective]]
+179. [[BOOKS/nanotechnology enhanced solid materials design synthesis properties applications and Perspective.pdf|nanotechnology enhanced solid materials design synthesis properties applications and Perspective]]
 
 Keywords: #Perspective #applications #design #enhanced #materials #nanotechnology #properties #solid #synthesis
 
-181. [[BOOKS/nature of scientific knowledge and explanatory approach.pdf|nature of scientific knowledge and explanatory approach]]
+180. [[BOOKS/nature of scientific knowledge and explanatory approach.pdf|nature of scientific knowledge and explanatory approach]]
 
 Keywords: #approach #explanatory #knowledge #nature #scientific
 
-182. [[BOOKS/nonlinear dynamics and chaos with applications to physics biology chemistry and engineering.pdf|nonlinear dynamics and chaos with applications to physics biology chemistry and engineering]]
+181. [[BOOKS/nonlinear dynamics and chaos with applications to physics biology chemistry and engineering.pdf|nonlinear dynamics and chaos with applications to physics biology chemistry and engineering]]
 
 Keywords: #applications #biology #chaos #chemistry #dynamics #engineering #nonlinear #physics
 
-183. [[BOOKS/nonlinear systems stability dynamics and control.pdf|nonlinear systems stability dynamics and control]]
+182. [[BOOKS/nonlinear systems stability dynamics and control.pdf|nonlinear systems stability dynamics and control]]
 
 Keywords: #control #dynamics #nonlinear #stability #systems
 
-184. [[BOOKS/novelty information and surprise.pdf|novelty information and surprise]]
+183. [[BOOKS/novelty information and surprise.pdf|novelty information and surprise]]
 
 Keywords: #information #novelty #surprise
 
-185. [[BOOKS/operating systems evolutionary concepts and modern design principles.pdf|operating systems evolutionary concepts and modern design principles]]
+184. [[BOOKS/operating systems evolutionary concepts and modern design principles.pdf|operating systems evolutionary concepts and modern design principles]]
 
 Keywords: #concepts #design #evolutionary #modern #principles #systems
 
-186. [[BOOKS/optimization methods for engineering problems.pdf|optimization methods for engineering problems]]
+185. [[BOOKS/optimization methods for engineering problems.pdf|optimization methods for engineering problems]]
 
 Keywords: #engineering #methods #optimization #problems
 
-187. [[BOOKS/organizational behavior.pdf|organizational behavior]]
+186. [[BOOKS/organizational behavior.pdf|organizational behavior]]
 
 Keywords: #behavior #organizational
 
-188. [[BOOKS/partial differential equation an introduction to analytical and numerical methods.pdf|partial differential equation an introduction to analytical and numerical methods]]
+187. [[BOOKS/partial differential equation an introduction to analytical and numerical methods.pdf|partial differential equation an introduction to analytical and numerical methods]]
 
 Keywords: #analytical #differential #equation #introduction #methods #numerical #partial
 
-189. [[BOOKS/perspective drawing handbook.pdf|perspective drawing handbook]]
+188. [[BOOKS/perspective drawing handbook.pdf|perspective drawing handbook]]
 
 Keywords: #drawing #handbook #perspective
 
-190. [[BOOKS/philosophy of computing.pdf|philosophy of computing]]
+189. [[BOOKS/philosophy of computing.pdf|philosophy of computing]]
 
 Keywords: #philosophy
 
-191. [[BOOKS/philosophy of science for scientist.pdf|philosophy of science for scientist]]
+190. [[BOOKS/philosophy of science for scientist.pdf|philosophy of science for scientist]]
 
 Keywords: #philosophy #science #scientist
 
-192. [[BOOKS/power electronics converters applications and design.pdf|power electronics converters applications and design]]
+191. [[BOOKS/power electronics converters applications and design.pdf|power electronics converters applications and design]]
 
 Keywords: #applications #converters #design #electronics #power
 
-193. [[BOOKS/practical control engineering for mechatronics and automation.pdf|practical control engineering for mechatronics and automation]]
+192. [[BOOKS/practical control engineering for mechatronics and automation.pdf|practical control engineering for mechatronics and automation]]
 
 Keywords: #automation #control #engineering #mechatronics #practical
 
-194. [[BOOKS/pro Git.pdf|pro Git]]
+193. [[BOOKS/pro Git.pdf|pro Git]]
 
 Keywords: #Git
 
-195. [[BOOKS/probability statistics and stimulation with applications program written in R.pdf|probability statistics and stimulation with applications program written in R]]
+194. [[BOOKS/probability statistics and stimulation with applications program written in R.pdf|probability statistics and stimulation with applications program written in R]]
 
 Keywords: #R #applications #probability #program #statistics #stimulation #written
 
-196. [[BOOKS/process control modelling design and simulation.pdf|process control modelling design and simulation]]
+195. [[BOOKS/process control modelling design and simulation.pdf|process control modelling design and simulation]]
 
 Keywords: #control #design #modelling #process #simulation
 
-197. [[BOOKS/product development and management body of knowledge a guidebook for product innovation training and certification.pdf|product development and management body of knowledge a guidebook for product innovation training and certification]]
+196. [[BOOKS/product development and management body of knowledge a guidebook for product innovation training and certification.pdf|product development and management body of knowledge a guidebook for product innovation training and certification]]
 
 Keywords: #body #certification #development #guidebook #innovation #knowledge #management #product #training
 
-198. [[BOOKS/professional C++.pdf|professional C++]]
+197. [[BOOKS/professional C++.pdf|professional C++]]
 
 Keywords: #C_pp #professional
 
-199. [[BOOKS/programming for absolute beginners using JavaScript programming language.pdf|programming for absolute beginners using JavaScript programming language]]
+198. [[BOOKS/programming for absolute beginners using JavaScript programming language.pdf|programming for absolute beginners using JavaScript programming language]]
 
 Keywords: #JavaScript #absolute #beginners #language #programming
 
-200. [[BOOKS/programming language and systems.pdf|programming language and systems]]
+199. [[BOOKS/programming language and systems.pdf|programming language and systems]]
 
 Keywords: #language #programming #systems
 
-201. [[BOOKS/project management for the unofficial project manager.pdf|project management for the unofficial project manager]]
+200. [[BOOKS/project management for the unofficial project manager.pdf|project management for the unofficial project manager]]
 
 Keywords: #management #manager #project #unofficial
 
-202. [[BOOKS/punk ageing and time.pdf|punk ageing and time]]
+201. [[BOOKS/punk ageing and time.pdf|punk ageing and time]]
 
 Keywords: #punk #time
 
-203. [[BOOKS/quality control in fruit and vegetable processing methods and strategies.pdf|quality control in fruit and vegetable processing methods and strategies]]
+202. [[BOOKS/quality control in fruit and vegetable processing methods and strategies.pdf|quality control in fruit and vegetable processing methods and strategies]]
 
 Keywords: #control #fruit #methods #processing #quality #strategies #vegetable
 
-204. [[BOOKS/real time simulation technology for modern power electronics.pdf|real time simulation technology for modern power electronics]]
+203. [[BOOKS/real time simulation technology for modern power electronics.pdf|real time simulation technology for modern power electronics]]
 
 Keywords: #electronics #modern #power #simulation #technology #time
 
-205. [[BOOKS/recent development in automatic control systems.pdf|recent development in automatic control systems]]
+204. [[BOOKS/recent development in automatic control systems.pdf|recent development in automatic control systems]]
 
 Keywords: #automatic #control #development #recent #systems
 
-206. [[BOOKS/recognition in the age of social media.pdf|recognition in the age of social media]]
+205. [[BOOKS/recognition in the age of social media.pdf|recognition in the age of social media]]
 
 Keywords: #age #media #recognition #social
 
-207. [[BOOKS/semiconductor microchips and fabrication a practical guide to theory and manufacturing.pdf|semiconductor microchips and fabrication a practical guide to theory and manufacturing]]
+206. [[BOOKS/semiconductor microchips and fabrication a practical guide to theory and manufacturing.pdf|semiconductor microchips and fabrication a practical guide to theory and manufacturing]]
 
 Keywords: #fabrication #guide #manufacturing #microchips #practical #semiconductor #theory
 
-208. [[BOOKS/seven game of life and how to play.pdf|seven game of life and how to play]]
+207. [[BOOKS/seven game of life and how to play.pdf|seven game of life and how to play]]
 
 Keywords: #game #life
 
-209. [[BOOKS/simple and effective programming with C_sharp.pdf|simple and effective programming with C_sharp]]
+208. [[BOOKS/simple and effective programming with C_sharp.pdf|simple and effective programming with C_sharp]]
 
 Keywords: #C_sharp #effective #programming #simple
 
-210. [[BOOKS/simple type theory a practical logic for expressing and reasoning about mathematical ideas.pdf|simple type theory a practical logic for expressing and reasoning about mathematical ideas]]
+209. [[BOOKS/simple type theory a practical logic for expressing and reasoning about mathematical ideas.pdf|simple type theory a practical logic for expressing and reasoning about mathematical ideas]]
 
 Keywords: #expressing #ideas #logic #mathematical #practical #reasoning #simple #theory #type
 
-211. [[BOOKS/simulation.pdf|simulation]]
+210. [[BOOKS/simulation.pdf|simulation]]
 
 Keywords: #simulation
 
-212. [[BOOKS/small signal audio design.pdf|small signal audio design]]
+211. [[BOOKS/small signal audio design.pdf|small signal audio design]]
 
 Keywords: #audio #design #signal #small
 
-213. [[BOOKS/smart cities power electronics renewable energy and internet of things.pdf|smart cities power electronics renewable energy and internet of things]]
+212. [[BOOKS/smart cities power electronics renewable energy and internet of things.pdf|smart cities power electronics renewable energy and internet of things]]
 
 Keywords: #cities #electronics #energy #internet #power #renewable #smart #things
 
-214. [[BOOKS/soul in the game the art of a meaningful life.pdf|soul in the game the art of a meaningful life]]
+213. [[BOOKS/soul in the game the art of a meaningful life.pdf|soul in the game the art of a meaningful life]]
 
 Keywords: #art #game #life #meaningful #soul
 
-215. [[BOOKS/statics and mechanics of material.pdf|statics and mechanics of material]]
+214. [[BOOKS/statics and mechanics of material.pdf|statics and mechanics of material]]
 
 Keywords: #material #mechanics #statics
 
-216. [[BOOKS/structural stability and its computational modelling.pdf|structural stability and its computational modelling]]
+215. [[BOOKS/structural stability and its computational modelling.pdf|structural stability and its computational modelling]]
 
 Keywords: #computational #modelling #stability #structural
 
-217. [[BOOKS/structure of game design.pdf|structure of game design]]
+216. [[BOOKS/structure of game design.pdf|structure of game design]]
 
 Keywords: #design #game #structure
 
-218. [[BOOKS/surface environment and human interactions reflections from Asia.pdf|surface environment and human interactions reflections from Asia]]
+217. [[BOOKS/surface environment and human interactions reflections from Asia.pdf|surface environment and human interactions reflections from Asia]]
 
 Keywords: #Asia #environment #human #interactions #reflections #surface
 
-219. [[BOOKS/sustainability engineering challenges technology and applications.pdf|sustainability engineering challenges technology and applications]]
+218. [[BOOKS/sustainability engineering challenges technology and applications.pdf|sustainability engineering challenges technology and applications]]
 
 Keywords: #applications #challenges #engineering #sustainability #technology
 
-220. [[BOOKS/sustainability innovation and entrepreneurship.pdf|sustainability innovation and entrepreneurship]]
+219. [[BOOKS/sustainability innovation and entrepreneurship.pdf|sustainability innovation and entrepreneurship]]
 
 Keywords: #entrepreneurship #innovation #sustainability
 
-221. [[BOOKS/sustainable engineering concepts and practices green energy and technology.pdf|sustainable engineering concepts and practices green energy and technology]]
+220. [[BOOKS/sustainable engineering concepts and practices green energy and technology.pdf|sustainable engineering concepts and practices green energy and technology]]
 
 Keywords: #concepts #energy #engineering #green #practices #sustainable #technology
 
-222. [[BOOKS/telecommunication system engineering.pdf|telecommunication system engineering]]
+221. [[BOOKS/telecommunication system engineering.pdf|telecommunication system engineering]]
 
 Keywords: #engineering #system #telecommunication
 
-223. [[BOOKS/test automation a manager guide.pdf|test automation a manager guide]]
+222. [[BOOKS/test automation a manager guide.pdf|test automation a manager guide]]
 
 Keywords: #automation #guide #manager #test
 
-224. [[BOOKS/the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA.pdf|the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA]]
+223. [[BOOKS/the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA.pdf|the OWL and the architect a framework for knowledge-based systems formalizing REA and built upon OWL and SCA]]
 
 Keywords: #OWL #REA #SCA #architect #built #formalizing #framework #knowledge-based #systems
 
-225. [[BOOKS/the afterlife of data.pdf|the afterlife of data]]
+224. [[BOOKS/the afterlife of data.pdf|the afterlife of data]]
 
 Keywords: #afterlife #data
 
-226. [[BOOKS/the age of identity who do our kids think they  are and how do we help  them belong.pdf|the age of identity who do our kids think they  are and how do we help  them belong]]
+225. [[BOOKS/the age of identity who do our kids think they  are and how do we help  them belong.pdf|the age of identity who do our kids think they  are and how do we help  them belong]]
 
 Keywords: #age #belong #identity #kids
 
-227. [[BOOKS/the argicultural sky a concept to revolutionize farming.pdf|the argicultural sky a concept to revolutionize farming]]
+226. [[BOOKS/the argicultural sky a concept to revolutionize farming.pdf|the argicultural sky a concept to revolutionize farming]]
 
 Keywords: #argicultural #concept #farming #revolutionize #sky
 
-228. [[BOOKS/the boundaries of data.pdf|the boundaries of data]]
+227. [[BOOKS/the boundaries of data.pdf|the boundaries of data]]
 
 Keywords: #boundaries #data
 
-229. [[BOOKS/the brain abstracted simplification in the history and philosophy of neuroscience.pdf|the brain abstracted simplification in the history and philosophy of neuroscience]]
+228. [[BOOKS/the brain abstracted simplification in the history and philosophy of neuroscience.pdf|the brain abstracted simplification in the history and philosophy of neuroscience]]
 
 Keywords: #abstracted #brain #history #neuroscience #philosophy #simplification
 
-230. [[BOOKS/the chemistry of milk and milk products physicochemical properties therapeutic characteristics.pdf|the chemistry of milk and milk products physicochemical properties therapeutic characteristics]]
+229. [[BOOKS/the chemistry of milk and milk products physicochemical properties therapeutic characteristics.pdf|the chemistry of milk and milk products physicochemical properties therapeutic characteristics]]
 
 Keywords: #characteristics #chemistry #milk #physicochemical #products #properties #therapeutic
 
-231. [[BOOKS/the curious culture of economic theory.pdf|the curious culture of economic theory]]
+230. [[BOOKS/the curious culture of economic theory.pdf|the curious culture of economic theory]]
 
 Keywords: #culture #curious #economic #theory
 
-232. [[BOOKS/the death of expertise the campaign against established knowledge and why it matters.pdf|the death of expertise the campaign against established knowledge and why it matters]]
+231. [[BOOKS/the death of expertise the campaign against established knowledge and why it matters.pdf|the death of expertise the campaign against established knowledge and why it matters]]
 
 Keywords: #against #campaign #death #established #expertise #knowledge #matters
+
+232. [[BOOKS/the dictionary of human geography.pdf|the dictionary of human geography]]
+
+Keywords: #dictionary #geography #human
 
 233. [[BOOKS/the game of life and how to play it.pdf|the game of life and how to play it]]
 
