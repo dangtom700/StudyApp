@@ -50,6 +50,8 @@ def app():
         Export.exportPDF_info(path.BOOKS_folder_path, banned_word)
         Export.updateStat(path.PDF_info_path)
         Export.exportPDF_tokens(path.PDF_info_path)
+
+        Export.rewrite_ban_file(banned_word)
         
         Export.AnnounceFinish()
 

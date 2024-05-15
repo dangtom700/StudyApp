@@ -226,3 +226,9 @@ def pick_number_random_book_to_read() -> None:
             if filename != pick_random_item[-1]:
                 outputFile.write("\n")
     mirrorFile_to_destination(path.Obsidian_taskList_path, path.taskList_path)
+
+def rewrite_ban_file(banned_word: set[str]) -> None:
+
+    with open(path.ban_path, "w") as outputFile:
+        for word in banned_word:
+            outputFile.write(word + "\n")

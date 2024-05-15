@@ -1,41 +1,41 @@
 
-# Tags (Total: 573)
+# Tags (Total: 550)
 
-## A (46)
+## A (44)
 
-#AI #AIoT #Anaconda #Azure #absolute #abstract #abstracted #accounting #action #actuators #advanced #aesthetics #afterlife #against #age #ageing #agency #agriculture #algorithms #alogon #amazing #analysis #analyst #analytical #analytics #animation #applications #approach #archaeology #architect #architectural #architecture #archives #argi-innovations #argicultural #arguing #art #artificial #asia #aspects #asset #at #audio #automatic #automation #autonomous 
+#AI #AIoT #Anaconda #Azure #absolute #abstract #abstracted #accounting #action #actuators #advanced #aesthetics #afterlife #against #age #agency #agriculture #algorithms #alogon #amazing #analysis #analyst #analytical #analytics #animation #applications #approach #archaeology #architect #architectural #architecture #archives #argi-innovations #argicultural #arguing #art #artificial #asia #aspects #asset #audio #automatic #automation #autonomous 
 
-## B (20)
+## B (19)
 
-#Blender #backend #bad #basic #battery #be #beginners #behavior #behind #belong #better #beyond #biology #body #boundaries #brain #brief #buildings #built #business 
+#Blender #backend #bad #basic #battery #beginners #behavior #behind #belong #better #beyond #biology #body #boundaries #brain #brief #buildings #built #business 
 
-## C (59)
+## C (57)
 
-#C #C++ #CSS #C_sharp #calculation #calculus #campaign #card #career #case #century #certification #chains #challenges #change #changing #chaos #characteristics #characterization #chemical #chemistry #circuit #cities #clean #closing #coding #cognitive #collectible #communication #companies #companion #compiler #complete #compositing #comprehensive #computational #computer #computer-based #computing #concept #concepts #concise #contemporary #context #control #convergent #converters #cookbook #corrosion #cost #course #crash #create #creation #critical #critique #culture #cultures #curious 
+#C #C++ #CSS #C_sharp #calculation #calculus #campaign #card #career #case #century #certification #chains #challenges #change #changing #chaos #characteristics #characterization #chemical #chemistry #circuit #cities #clean #closing #cognitive #collectible #communication #companies #companion #compiler #complete #compositing #comprehensive #computational #computer #computer-based #concept #concepts #concise #contemporary #context #control #convergent #converters #cookbook #corrosion #cost #course #crash #create #creation #critical #critique #culture #cultures #curious 
 
-## D (22)
+## D (21)
 
-#data #databases #death #decision #deep #design #designers #designing #development #differential #digital #discipline #discovery #discrete #distributed #distribution #dive #drawing #driven #drones #dummies #dynamics 
+#data #databases #death #decision #deep #design #designers #development #differential #digital #discipline #discovery #discrete #distributed #distribution #dive #drawing #driven #drones #dummies #dynamics 
 
-## E (39)
+## E (38)
 
-#econometric #economic #economics #economy #educational #effective #efficient #electric #electrical #electronics #element #embedded #emerging #enabling #energy #engaging #engineer #engineering #engineers #enhanced #entrepreneurship #environment #equation #era #essential #established #ethics #everything #evolutionary #excel #exercises #experience #experiences #experiments #expertise #explanatory #exploring #expressing #expressions 
+#econometric #economic #economics #economy #educational #effective #efficient #electric #electrical #electronics #element #embedded #emerging #enabling #energy #engaging #engineer #engineering #engineers #enhanced #entrepreneurship #environment #equation #essential #established #ethics #everything #evolutionary #excel #exercises #experience #experiences #experiments #expertise #explanatory #exploring #expressing #expressions 
 
-## F (17)
+## F (16)
 
-#Figma #fabrication #facilitating #factors #farming #figure #financial #finite #fluid #formalizing #foundation #framework #free #freedom #fruit #fun #fundamentals 
+#Figma #fabrication #facilitating #factors #farming #figure #financial #finite #fluid #formalizing #foundation #framework #free #freedom #fruit #fundamentals 
 
 ## G (20)
 
 #GML #GUI #GameMaker #Git #gambling #game #games #geography #global #good #graph #graphics #great #green #ground #growth #guest #guide #guidebook #guru 
 
-## H (12)
+## H (10)
 
-#HTML #habitus #hand-on #handbook #harnessing #help #high #historic #history #how #human #humanities 
+#HTML #habitus #hand-on #handbook #harnessing #high #historic #history #human #humanities 
 
-## I (29)
+## I (28)
 
-#I #IoT #ideas #ideation #identity #imaginaries #implementation #implementing #incommunication #industry #information #innovation #innovative #insights #inspiring #institutions #instrumentation #integrated #integration #intelligence #intelligent #interactions #interactive #internet #introduction #introductory #inventive #investigating #issues 
+#IoT #ideas #ideation #identity #imaginaries #implementation #implementing #incommunication #industry #information #innovation #innovative #insights #inspiring #institutions #instrumentation #integrated #integration #intelligence #intelligent #interactions #interactive #internet #introduction #introductory #inventive #investigating #issues 
 
 ## J (6)
 
@@ -49,33 +49,33 @@
 
 #language #large #leading #lean #learn #learning #level #libraries #library #life #lifecycle #lighting #listening #literacy #literatures #lithium #logic #logos #loop #low-cost 
 
-## M (45)
+## M (42)
 
-#MEMs #Matlab #Microsoft #machine #macrotexture #maintaining #making #manage #management #manager #manual #manufacturing #mapping #mastering #matedata #material #materials #math #mathematical #mathematics #matters #meaningful #measurement #mechanical #mechanics #mechanisms #mechatronics #media #mems #methods #micro #microchips #microcontrollers #microdevices #microelectronics #microtexture #milk #mobile #modelling #models #modern #molecular #money #multi-level #must 
+#MEMs #Matlab #Microsoft #machine #macrotexture #maintaining #manage #management #manager #manual #manufacturing #mapping #mastering #material #materials #math #mathematical #mathematics #matters #meaningful #measurement #mechanical #mechanics #mechanisms #mechatronics #media #metadata #methods #micro #microchips #microcontrollers #microdevices #microelectronics #microtexture #milk #mobile #modelling #models #modern #molecular #money #multi-level 
 
-## N (20)
+## N (19)
 
-#nanofillers #nanofluids #nanoscale #nanotechnology #natural #nature #navigation #neon #network #neuroscience #new #no-code #noise #nonlinear #not #novelty #nuclear #number #numeric #numerical 
+#nanofillers #nanofluids #nanoscale #nanotechnology #natural #nature #navigation #neon #network #neuroscience #new #no-code #noise #nonlinear #novelty #nuclear #number #numeric #numerical 
 
 ## O (14)
 
 #OWL #object-orientation #oceanography #old #open #operating #operations #operators #opportunities #optimization #organic #organization #organizational #orientation 
 
-## P (53)
+## P (51)
 
-#Perspective #PlayFab #PowerShell #PyQt5 #Pythagoreans #Python #painting #parallel #partial #patterns #performance #personal #perspective #perspectives #philosophy #physicochemical #physics #places #planning #plant #playground #plural #power #practical #practice #practices #pragmatics #precision #preference #present #principles #pro #probabilistic #probability #problems #process #processes #processing #producing #product #production #products #professional #program #programming #progress #project #project-based #properties #psychological #psychology #punk #python 
+#Perspective #PlayFab #PowerShell #PyQt5 #Pythagoreans #Python #painting #parallel #partial #patterns #performance #personal #perspective #perspectives #philosophy #physicochemical #physics #places #planning #plant #playground #plural #power #practical #practice #practices #pragmatics #precision #preference #present #principles #probabilistic #probability #problems #process #processes #processing #product #production #products #professional #program #programming #progress #project #project-based #properties #psychological #psychology #punk #python 
 
 ## Q (2)
 
 #Qt6 #quality 
 
-## R (26)
+## R (23)
 
-#R #REA #React #re-examining #real #reality #reasoning #recent #reclaim #recognition #reflections #regions #reliability #rendering #renewable #repairing #research #resonant #resources #revolutionize #revolutions #rise #risk #roadmap #robotics #robots 
+#R #REA #React #re-examining #reality #reasoning #recent #reclaim #recognition #reflections #regions #reliability #renewable #research #resonant #resources #revolutionize #revolutions #rise #risk #roadmap #robotics #robots 
 
-## S (59)
+## S (58)
 
-#SCA #salvation #science #scientific #scientist #scraping #scripting #security #semiconductor #seminal #sense #sensor #sensors #shortcuts #sigma #signal #simple #simplification #simulation #six #skills #sky #small #smart #social #society #socio-economic #software #solid #solutions #sorcery #soul #soundscape #stability #standards #statics #statistical #statistics #stimulation #stone #strategies #structural #structure #structures #students #studies #succeed #success #successful #support #surface #surprise #sustainability #sustainable #symbols #synthesis #system #systemic #systems 
+#SCA #salvation #science #scientific #scientist #scraping #scripting #security #semiconductor #seminal #sense #sensor #sensors #shortcuts #sigma #signal #simple #simplification #simulation #skills #sky #small #smart #social #society #socio-economic #software #solid #solutions #sorcery #soul #soundscape #stability #standards #statics #statistical #statistics #stimulation #stone #strategies #structural #structure #structures #students #studies #succeed #success #successful #support #surface #surprise #sustainability #sustainable #symbols #synthesis #system #systemic #systems 
 
 ## T (26)
 
@@ -89,9 +89,9 @@
 
 #VBA #vacuum #valuable #value #vegetable #verification #vibration #virtual #visual #visually 
 
-## W (13)
+## W (11)
 
-#wastewater #water #web #where #who #why #work #workshop #world #worth #writing #written #wrong 
+#wastewater #water #web #where #work #workshop #world #worth #writing #written #wrong 
 
 ## X (0)
 
