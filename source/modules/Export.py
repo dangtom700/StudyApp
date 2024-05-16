@@ -2,9 +2,11 @@ import modules.DataProcess as DataProcess
 import modules.path as path
 from csv import reader
 import json
+import colorama
 
 def AnnounceFinish() -> None:
-    print("Process executed successfully finished.")
+    colorama.init()
+    print(colorama.Fore.GREEN + "Process executed successfully finished." + colorama.Style.RESET_ALL)
 
 def mirrorFile_to_destination(source: str, destination: str) -> None:
     with open(source, 'r') as read_obj, open(destination, 'w') as write_obj:
@@ -184,11 +186,11 @@ def updateStat(PDF_info_file: str) -> None:
             else:
                 outputFile.write("\n")
                 counter = 0
-    with open("F:/project/StudyLogDB/mini_project/KeywordRanker/data/multi_tag.txt", "w") as outputFile:
+    with open("F:/project/StudyLogDB/KeywordRanker/data/multi_tag.txt", "w") as outputFile:
         for tag in multi_tag:
             outputFile.write(f"{tag}\n")
 
-    with open("F:/project/StudyLogDB/mini_project/KeywordRanker/data/filename.txt", "w") as outputFile:
+    with open("F:/project/StudyLogDB/KeywordRanker/data/filename.txt", "w") as outputFile:
         for filename in title:
             outputFile.write(f"{filename}\n")
             
@@ -235,7 +237,14 @@ def pick_number_random_book_to_read() -> None:
     mirrorFile_to_destination(path.Obsidian_taskList_path, path.taskList_path)
 
 def rewrite_ban_file(banned_word: set[str]) -> None:
-
     with open(path.ban_path, "w") as outputFile:
         for word in banned_word:
             outputFile.write(word + "\n")
+
+def search_file(input: str) -> None:
+    colorama.init()
+    print(colorama.Fore.MAGENTA + "Search Result" + colorama.Style.RESET_ALL)
+    filename_list = DataProcess.get_pdf_name(path.BOOKS_folder_path)
+    for filename in filename_list:
+        if input in filename:
+            print(colorama.Fore.GREEN + filename + colorama.Style.RESET_ALL)

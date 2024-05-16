@@ -6,15 +6,15 @@
 | --- | --- | --- |
 | Minimum | 7 | 1 |
 | Maximum | 131 | 18 |
-| Total | 13466 | 1824 |
-| Avarage | 52.397 | 7.097 |
-| Harmonic Mean | 39.139 | 5.285 |
+| Total | 13632 | 1847 |
+| Avarage | 52.23 | 7.077 |
+| Harmonic Mean | 39.103 | 5.27 |
 | Median | 49 | 7 |
 | Mode | 45 | 4 |
-| Population Standard Deviation | 24.672 | 3.477 |
-| Standard Deviation | 24.72 | 3.484 |
-| Population Variance | 608.722 | 12.088 |
-| Variance | 611.1 | 12.135 |
+| Population Standard Deviation | 24.584 | 3.471 |
+| Standard Deviation | 24.631 | 3.478 |
+| Population Variance | 604.353 | 12.048 |
+| Variance | 606.678 | 12.094 |
 
 ## Keywords Stat
 
@@ -22,15 +22,15 @@
 | --- | --- | --- | --- |
 | Minimum | 0 | 699 |
 | Maximum | 11 | 529171 |
-| Total | 1265 | 5861897 |
-| Avarage | 4.922 | 22808.938 |
-| Harmonic Mean | 0 | 6415.204 |
-| Median | 5 | 11828 |
+| Total | 1279 | 5918500 |
+| Avarage | 4.9 | 22676.245 |
+| Harmonic Mean | 0 | 6349.245 |
+| Median | 5 | 11819 |
 | Mode | 3 | 5764 |
-| Population Standard Deviation | 2.215 | 42550.266 |
-| Standard Deviation | 2.219 | 42633.291 |
-| Population Variance | 4.904 | 1810525131.802 |
-| Variance | 4.924 | 1817597495.598 |
+| Population Standard Deviation | 2.209 | 42286.237 |
+| Standard Deviation | 2.213 | 42367.478 |
+| Population Variance | 4.879 | 1788125802.683 |
+| Variance | 4.898 | 1795003209.617 |
 
 ## Time Stamp History
 
@@ -120,4 +120,6 @@ Start at 2017-08-03 02:31:44
 => 2024-05-11 16:56:20 => 2024-05-11 16:58:46 => 2024-05-11 16:59:11
 => 2024-05-11 17:02:25 => 2024-05-11 17:05:16 => 2024-05-14 16:10:50
 => 2024-05-14 16:15:12 => 2024-05-14 16:16:03 => 2024-05-14 16:17:08
-Most Recent at 2024-05-14 23:57:34
+=> 2024-05-14 23:57:34 => 2024-05-15 17:10:20 => 2024-05-15 17:10:20
+=> 2024-05-15 17:13:34
+Most Recent at 2024-05-15 17:26:37

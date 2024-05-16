@@ -17,6 +17,7 @@ def app():
     parser.add_argument("--exportPDF_tokens", action= 'store_true', help="Export a CSV file with the tokens of the files in the specified folder path")
     parser.add_argument("--updateAll", action= 'store_true', help="Update all statistics of PDF files")
     parser.add_argument("--getTaskList", action= 'store_true', help="Export a list of tasks in .md format")
+    parser.add_argument("--searchFile", type=str, help="Search for files in the specified folder path")
 
     args = parser.parse_args()
 
@@ -58,6 +59,9 @@ def app():
     if args.getTaskList:
         Export.pick_number_random_book_to_read()
         Export.AnnounceFinish()
+
+    if args.searchFile:
+        Export.search_file(args.searchFile)
 
 if __name__ == '__main__':
     app()
