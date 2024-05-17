@@ -15,7 +15,7 @@ def app():
     parser.add_argument("--exportPDF_index", action= 'store_true', help="Export a list of PDF file in a given directory in .md format")
     parser.add_argument("--updateStat", action= 'store_true', help="Update the statistics of PDF files")
     parser.add_argument("--exportPDF_tokens", action= 'store_true', help="Export a CSV file with the tokens of the files in the specified folder path")
-    parser.add_argument("--updateAll", action= 'store_true', help="Update all statistics of PDF files")
+    parser.add_argument("--updateData", action= 'store_true', help="Update all statistics of PDF files")
     parser.add_argument("--getTaskList", action= 'store_true', help="Export a list of tasks in .md format")
     parser.add_argument("--searchFile", type=str, help="Search for files in the specified folder path")
 
@@ -43,7 +43,7 @@ def app():
         Export.exportPDF_tokens(path.PDF_info_path)
         Export.AnnounceFinish()
 
-    if args.updateAll:
+    if args.updateData:
         banned_word = get_banned_words(path.ban_path)
         Export.exportTagSet(path.BOOKS_folder_path, banned_word)
         Export.exportPDF_index(path.BOOKS_folder_path)

@@ -35,3 +35,15 @@ Wed, May 15, 2024
 - [ ] Read a chapter of [[BOOKS/real time simulation technology for modern power electronics.pdf|real time simulation technology for modern power electronics]]
 - [ ] Read a chapter of [[BOOKS/essential of biology.pdf|essential of biology]]
 - [ ] Read a chapter of [[BOOKS/pro Git.pdf|pro Git]]
+
+Fri, May 16, 2024
+
+- [ ] Read a chapter of [[BOOKS/innovative social science teaching and learning facilitating students personal growth and career success.pdf|innovative social science teaching and learning facilitating students personal growth and career success]]
+- [ ] Read a chapter of [[BOOKS/everything you should know about Matlab for economic analysis.pdf|everything you should know about Matlab for economic analysis]]
+- [ ] Read a chapter of [[BOOKS/the game of life and how to play it.pdf|the game of life and how to play it]]
+
+Fri, May 17, 2024
+
+- [ ] Read a chapter of [[BOOKS/introduction to autonomous robots mechanisms sensors actuators and algorithms.pdf|introduction to autonomous robots mechanisms sensors actuators and algorithms]]
+- [ ] Read a chapter of [[BOOKS/basic engineering science.pdf|basic engineering science]]
+- [ ] Read a chapter of [[BOOKS/small signal audio design.pdf|small signal audio design]]
