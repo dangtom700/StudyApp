@@ -3,9 +3,11 @@ import modules.path as path
 from csv import reader
 from warnings import filterwarnings
 import json
+import colorama
 
 def AnnounceFinish() -> None:
-    print("Process executed successfully finished.")
+    colorama.init()
+    print(colorama.Fore.GREEN + "Process executed successfully finished." + colorama.Style.RESET_ALL)
 
 def mirrorFile_to_destination(source: str, destination: str) -> None:
     with open(source, 'r') as read_obj, open(destination, 'w') as write_obj:
@@ -75,7 +77,7 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
             outputFile.write(f"{len(filename.strip().split())};")
             word_list = DataProcess.get_word_list_from_file(filename, banned_words)
             for word in word_list:
-                outputFile.write(f" #{word}")
+                outputFile.write(f"#{word}")
                 if word != word_list[-1]:
                     outputFile.write(" ")
             outputFile.write(f";{len(word_list)};")
@@ -96,22 +98,20 @@ def exportPDF_index(folderPath: str) -> None:
     filename_list = DataProcess.get_pdf_name(folderPath)
     banned_words = DataProcess.get_banned_words(path.ban_path)
 
-    with open(path.PDF_index_path, "w") as outputFile:
+    with open(path.Obsidian_PDF_index_path, "w") as outputFile:
         outputFile.write("\n# PDF index (Total: " + str(len(filename_list)) + ")\n\n")
-        outputFile.write("|Filename|Tags|\n")
-        outputFile.write("|---|---|\n")
-        for filename in filename_list:
-            filterwarnings("ignore", category=SyntaxWarning, message="invalid escape sequence '\|'")
-            outputFile.write("|[[BOOKS/{filename}.pdf" +"\|"+"{filename}]]|".format(filename=filename))
-            
+        for index, filename in enumerate(filename_list, start= 1):
+            outputFile.write(f"{index}. [[BOOKS/{filename}.pdf|{filename}]]\n")
+
+            outputFile.write("\nKeywords: ")
             keyword_list = DataProcess.get_word_list_from_file(filename, banned_words)
             
             for keyword in keyword_list:
                 outputFile.write(f"#{keyword}")
                 if keyword != keyword_list[-1]:
                     outputFile.write(" ")
-            outputFile.write("|\n")
-    mirrorFile_to_destination(path.PDF_index_path, path.Obsidian_PDF_index_path)
+            outputFile.write("\n\n")
+    mirrorFile_to_destination(path.Obsidian_PDF_index_path, path.PDF_index_path)
 
 def updateStat(PDF_info_file: str) -> None:
     """
@@ -187,6 +187,13 @@ def updateStat(PDF_info_file: str) -> None:
             else:
                 outputFile.write("\n")
                 counter = 0
+    with open("F:/project/StudyLogDB/KeywordRanker/data/multi_tag.txt", "w") as outputFile:
+        for tag in multi_tag:
+            outputFile.write(f"{tag}\n")
+
+    with open("F:/project/StudyLogDB/KeywordRanker/data/filename.txt", "w") as outputFile:
+        for filename in title:
+            outputFile.write(f"{filename}\n")
             
 
     mirrorFile_to_destination(path.TableStat_path, path.Obsidian_TableStat_path)
@@ -223,8 +230,22 @@ def pick_number_random_book_to_read() -> None:
     filename_list = DataProcess.get_pdf_name(path.BOOKS_folder_path)
     pick_random_item = DataProcess.pick_random_number_items(filename_list, 3)
     with open(path.Obsidian_taskList_path, "a") as outputFile:
-        outputFile.write(DataProcess.get_current_time() + "\n")
+        outputFile.write("\n\n" + DataProcess.get_current_time() + "\n\n")
         for filename in pick_random_item:
-            outputFile.write(f"- [ ] Read a chapter of [[BOOKS/{filename}.pdf|{filename}]]\n")
-        outputFile.write("\n")
+            outputFile.write(f"- [ ] Read a chapter of [[BOOKS/{filename}.pdf|{filename}]]")
+            if filename != pick_random_item[-1]:
+                outputFile.write("\n")
     mirrorFile_to_destination(path.Obsidian_taskList_path, path.taskList_path)
+
+def rewrite_ban_file(banned_word: set[str]) -> None:
+    with open(path.ban_path, "w") as outputFile:
+        for word in banned_word:
+            outputFile.write(word + "\n")
+
+def search_file(input: str) -> None:
+    colorama.init()
+    print(colorama.Fore.MAGENTA + "Search Result" + colorama.Style.RESET_ALL)
+    filename_list = DataProcess.get_pdf_name(path.BOOKS_folder_path)
+    for filename in filename_list:
+        if input in filename:
+            print(colorama.Fore.GREEN + filename + colorama.Style.RESET_ALL)

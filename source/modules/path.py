@@ -1,16 +1,19 @@
-BOOKS_folder_path = "F:/project/StudyLog/BOOKS" #Used
-ban_path = "F:/project/mini_project/StudyApp/data/ban.txt" #Used
+from os import getcwd
 
-PDF_info_path = "F:/project/mini_project/StudyApp/data/PDF_info.csv" #Used
-PDF_tokens_path = "F:/project/mini_project/StudyApp/data/PDF_tokens.json" #Used
-PropertyStat_tokens_path = "F:/project/mini_project/StudyApp/data/PropertyStat_tokens.json"
-taskList_path = "F:/project/mini_project/StudyApp/data/TaskList.txt"
+StudyApp_root_path = getcwd() + "/"
+StudyLog_root_path = "F:/project/StudyLog/"
 
-TableStat_path = "F:/project/mini_project/StudyApp/data/Table Stat.txt" #Used
-PDF_index_path = "F:/project/mini_project/StudyApp/data/PDF index.txt" #Used
-TagCatalog_path = "F:/project/mini_project/StudyApp/data/Tag Catalog.txt" #Used
+ban_path = StudyApp_root_path + "data/ban.txt" #Used
+PDF_info_path = StudyApp_root_path + "data/PDF_info.csv" #Used
+PDF_tokens_path = StudyApp_root_path + "data/PDF_tokens.json" #Used
+PropertyStat_tokens_path = StudyApp_root_path + "data/PropertyStat_tokens.json"
+taskList_path = StudyApp_root_path + "data/TaskList.txt"
+TableStat_path = StudyApp_root_path + "data/Table Stat.txt" #Used
+PDF_index_path = StudyApp_root_path + "data/PDF index.txt" #Used
+TagCatalog_path = StudyApp_root_path + "data/Tag Catalog.txt" #Used
 
-Obsidian_TableStat_path = "F:/project/StudyLog/Dashboard/Table Stat.md" #Used
-Obsidian_PDF_index_path = "F:/project/StudyLog/Dashboard/PDF index.md" #Used
-Obsidian_TagCatalog_path = "F:/project/StudyLog/Dashboard/Tag Catalog.md" #Used
-Obsidian_taskList_path = "F:/project/StudyLog/Task List.md" #Used
+BOOKS_folder_path = StudyLog_root_path + "BOOKS" #Used
+Obsidian_TableStat_path = StudyLog_root_path + "Dashboard/Table Stat.md" #Used
+Obsidian_PDF_index_path = StudyLog_root_path + "Dashboard/PDF index.md" #Used
+Obsidian_TagCatalog_path = StudyLog_root_path + "Dashboard/Tag Catalog.md" #Used
+Obsidian_taskList_path = StudyLog_root_path + "Task List.md" #Used
