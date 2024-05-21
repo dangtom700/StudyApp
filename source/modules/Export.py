@@ -8,8 +8,25 @@ import colorama
 def AnnounceFinish() -> None:
     colorama.init()
     print(colorama.Fore.GREEN + "Process executed successfully finished." + colorama.Style.RESET_ALL)
+    colorama.deinit()
 
 def mirrorFile_to_destination(source: str, destination: str) -> None:
+    """
+    Copies the contents of a source file to a destination file.
+
+    Args:
+        source (str): The path to the source file.
+        destination (str): The path to the destination file.
+
+    Returns:
+        None: This function does not return anything.
+
+    This function opens the source file in read mode and the destination file in write mode. It then reads each line from the source file and writes it to the destination file. The source file is read line by line, and each line is written to the destination file without any modifications.
+
+    Example:
+        >>> mirrorFile_to_destination("source.txt", "destination.txt")
+        # The contents of "source.txt" will be copied to "destination.txt".
+    """
     with open(source, 'r') as read_obj, open(destination, 'w') as write_obj:
         for line in read_obj:
             write_obj.write(line)
@@ -58,6 +75,7 @@ def exportTagSet(folderPath: str, banned_words: set[str]) -> None:
 def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
     """
     A function to export information about PDF files based on the input folder path and banned words.
+    
     This function retrieves PDF filenames, processes various data about the PDFs, and writes the information to a file.
     
     Parameters:
@@ -66,6 +84,14 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
     
     Returns:
         None
+    
+    The function retrieves PDF filenames using DataProcess.get_pdf_name() and processes various data about the PDFs.
+    It writes the information to a file specified by path.PDF_info_path. The information includes the title of the PDF,
+    the length of the title in characters and words, a list of multi-tags extracted from the title, the number of tags,
+    the file size in kilobytes, and the updated time of the PDF. The information is written in a CSV format with each
+    field separated by a semicolon. The function uses DataProcess.get_word_list_from_file() to extract multi-tags from
+    the PDF title and DataProcess.get_file_size() and DataProcess.get_updated_time() to get the file size and updated
+    time of the PDF.
     """
     filename_list = DataProcess.get_pdf_name(folderPath)
 
@@ -86,14 +112,20 @@ def exportPDF_info(folderPath: str, banned_words: set[str]) -> None:
 
 def exportPDF_index(folderPath: str) -> None:
     """
-    A function to export the PDF index to two separate files: PDF_index_path and Obsidian_PDF_index_path. 
-    The PDF index contains a list of filenames along with their corresponding indices. 
-    The function retrieves the list of PDF filenames using DataProcess.get_pdf_name() and writes the index for each filename to the specified paths. 
-    The Obsidian export includes a link to each PDF file in the format [[BOOKS/{filename}.pdf|{filename}]].
+    Export the PDF index to two separate files: `Obsidian_PDF_index_path` and `PDF_index_path`.
+
+    This function retrieves the list of PDF filenames using `DataProcess.get_pdf_name()` and writes the index for each filename to the specified paths.
+    The `Obsidian_PDF_index_path` file contains a list of filenames along with their corresponding indices.
+    Each filename is written in the format `[[BOOKS/{filename}.pdf|{filename}]]`.
+    The `PDF_index_path` file contains the same information as `Obsidian_PDF_index_path`, but without the Obsidian link format.
+
     Parameters:
-        folderPath (str): The path to the folder containing the PDF files.
+    - `folderPath` (str): The path to the folder containing the PDF files.
+
     Returns:
-        None
+    - None
+
+    Note: The `DataProcess` module and the `path` module must be imported for this function to work properly.
     """
     filename_list = DataProcess.get_pdf_name(folderPath)
     banned_words = DataProcess.get_banned_words(path.ban_path)
@@ -126,7 +158,7 @@ def updateStat(PDF_info_file: str) -> None:
         None
 
     This function reads the CSV file and extracts the necessary data. It then analyzes the characteristics of various properties
-    such as title length (char) and title length (word), tag number, pages, and file size using the `DataProcess.analyze_characteristic_of_property` function.
+    such as title length (char) and title length (word), tag number, file size, and updated time using the `DataProcess.analyze_characteristic_of_property` function.
     The analyzed properties are stored in separate dictionaries.
 
     The function also retrieves the timestamp history using the `DataProcess.get_ordered_timestamps` function.
@@ -138,7 +170,6 @@ def updateStat(PDF_info_file: str) -> None:
 
     Finally, the analyzed properties are converted to JSON format and written to the file specified by `path.PropertyStat_tokens_path`.
     """
-
     # CSV format:Title;Title Length (char);Title Length (word);Multi-Tags;Tag Number;Pages;File Size (byte);Updated Time
 
     with open(PDF_info_file, "r") as csv_file:
@@ -187,15 +218,7 @@ def updateStat(PDF_info_file: str) -> None:
             else:
                 outputFile.write("\n")
                 counter = 0
-    with open("F:/project/StudyLogDB/KeywordRanker/data/multi_tag.txt", "w") as outputFile:
-        for tag in multi_tag:
-            outputFile.write(f"{tag}\n")
-
-    with open("F:/project/StudyLogDB/KeywordRanker/data/filename.txt", "w") as outputFile:
-        for filename in title:
-            outputFile.write(f"{filename}\n")
             
-
     mirrorFile_to_destination(path.TableStat_path, path.Obsidian_TableStat_path)
 
     with open(path.PropertyStat_tokens_path, "w") as outputFile:
@@ -227,6 +250,19 @@ def exportPDF_tokens(pdf_info_file: str) -> None:
         json.dump(PDF_token_list, output_file, indent=4,)
 
 def pick_number_random_book_to_read() -> None:
+    """
+    Picks a random number of books from the list of PDF filenames in the BOOKS folder and appends them to the Obsidian task list.
+    
+    This function retrieves the list of PDF filenames using `DataProcess.get_pdf_name()` and selects a random number of items using `DataProcess.pick_random_number_items()`. It then appends the selected items to the Obsidian task list file specified by `path.Obsidian_taskList_path`. Each item is written in the format `- [ ] Read a chapter of [[BOOKS/{filename}.pdf|{filename}]]`.
+    
+    Parameters:
+    - None
+    
+    Returns:
+    - None
+    
+    The function uses the `DataProcess` module to retrieve the list of PDF filenames and select random items. It also uses the `path` module to specify the paths to the BOOKS folder and the Obsidian task list file. The function calls `mirrorFile_to_destination()` to copy the Obsidian task list file to the destination specified by `path.taskList_path`.
+    """
     filename_list = DataProcess.get_pdf_name(path.BOOKS_folder_path)
     pick_random_item = DataProcess.pick_random_number_items(filename_list, 3)
     with open(path.Obsidian_taskList_path, "a") as outputFile:
@@ -238,14 +274,45 @@ def pick_number_random_book_to_read() -> None:
     mirrorFile_to_destination(path.Obsidian_taskList_path, path.taskList_path)
 
 def rewrite_ban_file(banned_word: set[str]) -> None:
+    """
+    Write a set of banned words to a file.
+
+    Args:
+        banned_word (set[str]): A set of words to be written to the file.
+
+    Returns:
+        None: This function does not return anything.
+
+    This function opens a file specified by the `path.ban_path` constant and writes each word in the `banned_word` set to a new line in the file. The file is opened in write mode and any existing content in the file is overwritten.
+
+    Example:
+        >>> banned_words = {"apple", "banana", "orange"}
+        >>> rewrite_ban_file(banned_words)
+        # The contents of the file at path.ban_path will be:
+        apple
+        banana
+        orange
+    """
     with open(path.ban_path, "w") as outputFile:
         for word in banned_word:
             outputFile.write(word + "\n")
 
 def search_file(input: str) -> None:
+    """
+    Searches for a given input string in the filenames of PDF files located in the BOOKS folder.
+    
+    Parameters:
+        input (str): The string to search for in the filenames.
+        
+    Returns:
+        None: This function does not return anything.
+        
+    This function initializes the colorama module to enable colored output. It then prints a header indicating the start of the search results. It retrieves a list of PDF filenames from the BOOKS folder using the `DataProcess.get_pdf_name()` function. It iterates over each filename in the list and checks if the input string is present in the filename. If a match is found, it prints the filename in green color.
+    """
     colorama.init()
     print(colorama.Fore.MAGENTA + "Search Result" + colorama.Style.RESET_ALL)
     filename_list = DataProcess.get_pdf_name(path.BOOKS_folder_path)
     for filename in filename_list:
         if input in filename:
             print(colorama.Fore.GREEN + filename + colorama.Style.RESET_ALL)
+    colorama.deinit()
