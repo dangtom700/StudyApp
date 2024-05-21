@@ -15,6 +15,10 @@ def get_banned_words(filepath: str) -> set[str]:
 
     Returns:
         set[str]: A sorted set of banned words.
+
+    This function reads a file at the given `filepath` and adds each line to a set of banned words.
+    The lines are stripped of any leading or trailing whitespace before being added to the set.
+    The set is then sorted and returned.
     """
     banned_words = set()
     with open(filepath, 'r') as file:
@@ -63,6 +67,10 @@ def get_word_list_from_file(filename: str, banned_words: set[str]) -> set[str]:
 
     Returns:
         set[str]: A sorted set of words extracted from the filename, excluding banned words and double words.
+
+    This function splits the filename into words, creates a set of tuned words by removing duplicates, and then
+    adds double and triple word tags to the set. It replaces "C++" with "C_pp" and "C#" with "C_sharp" in the
+    tuned words. Finally, it removes the banned words from the set and returns the sorted set of tuned words.
     """
     words = filename.strip().split()
     tuned_words = set(words)
@@ -77,14 +85,20 @@ def get_word_list_from_file(filename: str, banned_words: set[str]) -> set[str]:
 
 def get_tuned_word_list_from_folder(folderPath: str, banned_words: set[str]) -> set[str]:
     """
-    Generate a sorted set of tuned words from a given folder path by filtering out specific banned words.
+    Generate a sorted set of tuned words from a given folder path, excluding banned words.
 
-    Parameters:
-    - folderPath (str): The path to the folder containing files.
-    - banned_words (set[str]): A set of words to exclude from the tuned word list.
+    Args:
+        folderPath (str): The path to the folder containing the PDF files.
+        banned_words (set[str]): A set of words to be excluded from the generated word list.
 
     Returns:
-        tuned_word_list (set[str]): A sorted set of unique words extracted from the file names in the folder after removing banned words.
+        set[str]: A sorted set of tuned words extracted from the PDF files in the folder, excluding banned words.
+
+    This function retrieves the filenames of PDF files in the specified folder path using the `get_pdf_name` function.
+    It then iterates over each filename and calls the `get_word_list_from_file` function to extract the words from the PDF file.
+    The extracted words are added to the `word_set` set using the `union` method. Finally, the `word_set` is sorted and returned.
+
+    Note: The `get_pdf_name` and `get_word_list_from_file` functions must be imported for this function to work properly.
     """
     word_set = set()
     filename_list = get_pdf_name(folderPath)
@@ -94,13 +108,13 @@ def get_tuned_word_list_from_folder(folderPath: str, banned_words: set[str]) -> 
 
 def get_file_size(file_path: str) -> int:
     """
-    Given a file path, this function retrieves the size of the file in bytes.
+    Calculate the file size in kilobytes for a given file path.
 
     Parameters:
         file_path (str): The path to the file.
 
     Returns:
-        int: The size of the file in bytes.
+        int: The file size in kilobytes.
     """
     return int(ceil(os.path.getsize(file_path)/1024))
 
@@ -112,7 +126,7 @@ def get_updated_time(file_path: str) -> str:
         file_path (str): The path to the file.
 
     Returns:
-        str: The formatted modification time of the file.
+        str: The modification time of the file in the format of '%a, %b %d, %Y, %H:%M:%S'.
     """
     # Get the modification time in seconds since EPOCH
     modification_time = getmtime(file_path)
@@ -122,6 +136,12 @@ def get_updated_time(file_path: str) -> str:
     return formatted_modification_time
 
 def get_current_time() -> str:
+    """
+    Returns the current date and time in the format of day of the week, abbreviated month, day of the month, and year.
+
+    :return: A string representing the current date and time in the format of '%a, %b %d, %Y'.
+    :rtype: str
+    """
     return datetime.now().strftime('%a, %b %d, %Y')
 
 def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
@@ -143,6 +163,27 @@ def break_tag_set_to_list(tag_set: set[str]) -> dict[str, list[str]]:
     return tag_set_display
 
 def analyze_characteristic_of_property(property: list[str]) -> dict[str,int]:
+    """
+    Analyzes the characteristic of a given property.
+
+    Args:
+        property (list[str]): A list of strings representing the property values. The first element of the list is the property name.
+
+    Returns:
+        dict[str, int]: A dictionary containing the following characteristics of the property:
+            - "Property" (str): The name of the property.
+            - "Minimum" (int): The minimum value of the property.
+            - "Maximum" (int): The maximum value of the property.
+            - "Total" (int): The sum of all the property values.
+            - "Avarage" (float): The average value of the property rounded to 3 decimal places.
+            - "Harmonic Mean" (float): The harmonic mean of the property rounded to 3 decimal places.
+            - "Median" (int): The median value of the property.
+            - "Mode" (int): The mode value of the property.
+            - "Population Standard Deviation" (float): The population standard deviation of the property rounded to 3 decimal places.
+            - "Standard Deviation" (float): The standard deviation of the property rounded to 3 decimal places.
+            - "Population Variance" (float): The population variance of the property rounded to 3 decimal places.
+            - "Variance" (float): The variance of the property rounded to 3 decimal places.
+    """
     int_property = list(map(int, property[1:]))
     sorted(int_property)
     min_property = min(int_property)
@@ -171,6 +212,15 @@ def analyze_characteristic_of_property(property: list[str]) -> dict[str,int]:
             "Variance": round(variance_property,3)}
 
 def get_ordered_timestamps(timestamps: list[str]) -> list[datetime]:
+    """
+    Given a list of timestamps, this function returns a list of datetime objects sorted in ascending order.
+    
+    Parameters:
+        timestamps (list[str]): A list of timestamps in the format '%a, %b %d, %Y, %H:%M:%S'.
+        
+    Returns:
+        list[datetime]: A list of datetime objects sorted in ascending order.
+    """
     ordered_dates = sorted(
         map(
             datetime.strptime, timestamps[1:],
@@ -180,5 +230,15 @@ def get_ordered_timestamps(timestamps: list[str]) -> list[datetime]:
     return ordered_dates
 
 def pick_random_number_items(input_list: list[str], number_of_items: int) -> list[str]:
+    """
+    Picks a random number of items from a given input list.
+
+    Parameters:
+        input_list (list[str]): The list from which to pick the random items.
+        number_of_items (int): The number of items to pick randomly.
+
+    Returns:
+        list[str]: A list containing the randomly picked items.
+    """
     random_items = random.sample(input_list, number_of_items)
     return random_items
